@@ -5,7 +5,7 @@ exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
 source-git-commit: 554b8a3eb87f89c2bb46fc8af5aaf1c66114a4d2
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 1%
+ht-degree: 20%
 
 ---
 
@@ -18,7 +18,7 @@ Durchsuchen Sie unsere Tutorial-Bibliothek und nutzen Sie die Vorteile von [!DNL
 Kürzlich hinzugefügt [!DNL Marketo Engage] Tutorials:
 
 * **[[!UICONTROL Dynamischer Chat]  Tutorials](dynamic-chat/dynamic-chat-overview.md)**
-   _Verwenden Sie diese Tutorials zusammen mit der Dokumentation, um Ihr Verständnis dafür zu verbessern, wie Sie mit dem dynamischen Chat personalisierte Konversationen erstellen können._
+   _Verwenden Sie diese Tutorials zusammen mit der Dokumentation, um Ihr Verständnis dafür zu verbessern, wie Sie mit Dynamic Chat personalisierte Konversationen erstellen können._
 
 * **[[!DNL Sales Insight Actions] Tutorials](/help/sales-insight-actions/overview.md)**
    _Verwendung [!UICONTROL Sales Insight-Aktionen] die Suche mit marketinggestützten Intelligenz- und Interaktionswerkzeugen in einem einzigen Workflow zu beschleunigen._

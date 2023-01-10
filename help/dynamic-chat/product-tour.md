@@ -1,6 +1,6 @@
 ---
 title: Produkttour zum dynamischen Chat
-description: Erfahren Sie mehr über Dynamic Chat, eine neue Chatbot-Lösung, die für Marketing und Vertrieb aus Adobe entwickelt wurde.
+description: Erfahren Sie mehr über Dynamic Chat, eine neue Chatbot-Lösung, die von Adobe für Marketing und Vertrieb entwickelt wurde.
 role: User
 level: Beginner
 kt: 9697
@@ -9,7 +9,7 @@ exl-id: 6da18db9-1fc9-4a30-a302-102904f79aee
 source-git-commit: 456e16b830e491f688900e91de90e2a6765afaf4
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
