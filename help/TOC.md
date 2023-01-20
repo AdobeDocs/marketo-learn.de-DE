@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-Tutorials
-source-git-commit: 0684c5bdea44a6852e7b889eeb3c6ab11419da96
+source-git-commit: 5db8b7cf5855df56e9fca79ca3a0b3fed3300537
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '202'
 ht-degree: 15%
 
 ---
@@ -13,31 +13,6 @@ ht-degree: 15%
 # [!DNL Marketo Engage] Tutorials {#tutorials}
 
 + [[!DNL Marketo Engage] Tutorials](overview.md)
-+ Grundlagen {#fundamentals}
-   + [Ziele und Strategie](fundamentals/goals-and-strategy-learn.md)
-   + [Organisatorische Struktur](fundamentals/organizational-structure-learn.md)
-   + [Content-Marketing](fundamentals/content-marketing-learn.md)
-   + [Käuferrolle](fundamentals/buyer-personas-learn.md)
-+ E-Mail-Marketing {#email-marketing}
-   + [Geplante E-Mail](email-marketing/scheduled-email-learn.md)
-   + [Schrittweise Anleitung für geplante E-Mails](email-marketing/scheduled-email-watch.md)
-   + [Personalisierter Newsletter](email-marketing/personalized-newsletter-learn.md)
-   + [Anleitung zum personalisierten Newsletter](email-marketing/personalized-newsletter-watch.md)
-   + [Gated Content-Angebot](email-marketing/gated-content-offer-learn.md)
-   + [Anleitung für Gated Content](email-marketing/gated-content-offer-watch.md)
-   + [A/B-Tests](email-marketing/ab-testing-learn.md)
-   + [A/B-Tests - schrittweise Anleitung](email-marketing/ab-testing-watch.md)
-   + [Landing Pages ](email-marketing/landing-pages-learn.md)
-   + [Durchsicht bei Landingpages](email-marketing/landing-pages-watch.md)
-   + [Formulare](email-marketing/forms-learn.md)
-   + [Forms-Beispiel](email-marketing/forms-watch.md)
-   + [Email Deliverability](email-marketing/email-deliverability-learn.md)
-   + [Durchsicht bei der Zustellbarkeit von E-Mails](email-marketing/email-deliverability-watch.md)
-   + [Ausgelöste E-Mail](email-marketing/triggered-email-learn.md)
-   + [Ausgelöste E-Mail-Anleitung](email-marketing/triggered-email-watch.md)
-   + [[!UICONTROL Lead-Pflege]](email-marketing/lead-nuturing-learn.md)
-   + [Dynamische und prädiktive Inhalte](email-marketing/dynamic-and-predictive-content-learn.md)
-   + [Filtern von E-Mail-Bot-Aktivitäten - Einrichtung](filtering-email-bot-activities/setup.md)
 + Kanalübergreifendes Marketing {#cross-channel-marketing}
    + [Veranstaltungen](email-marketing/events-learn.md)
    + [Beispiel für Ereignisse](email-marketing/events-watch.md)
@@ -61,21 +36,51 @@ ht-degree: 15%
    + [Konferenzbuchungen](dynamic-chat/meeting-booking.md)
    + [In 15 Minuten live gehen](dynamic-chat/go-live-in-15-minutes.md)
    + [Einbetten von PDF in Konversationen](dynamic-chat/document-cloud-integration.md)
-+ Einblicke in Verkaufsaktionen {#sales-insight-actions}
-   + [Überblick](sales-insight-actions/overview.md)
-   + [Übersicht über Einblicke in Verkaufsaktionen](sales-insight-actions/sales-insight-actions-overview.md)
-   + [Zugriff auf Ihre Instanz mit Ihren Sales Insight-Aktionen](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [Konfigurieren der Protokollierung von Verkaufsaktivitäten in [!DNL Salesforce]](sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
-+ Lead- und Daten-Management {#lead-and-data-management}
-   + [Lead-Scoring](lead-and-data-management/lead-scoring-learn.md)
-   + [Schrittweise Anleitung zur Lead-Bewertung](lead-and-data-management/lead-scoring-watch.md)
-   + [Abonnement-Center](lead-and-data-management/subscription-center-learn.md)
-   + [Beispiel für ein Abonnement-Center](lead-and-data-management/subscription-center-watch.md)
-   + [CRM-Synchronisation](lead-and-data-management/crm-sync-learn.md)
-   + [[!UICONTROL Lead-Lebenszyklus]](lead-and-data-management/lead-lifecycle-learn.md)
-   + [Lead-Lebenszyklusdurchlauf](lead-and-data-management/lead-lifecycle-watch.md)
++ E-Mail-Marketing {#email-marketing}
+   + [Geplante E-Mail](email-marketing/scheduled-email-learn.md)
+   + [Schrittweise Anleitung für geplante E-Mails](email-marketing/scheduled-email-watch.md)
+   + [Personalisierter Newsletter](email-marketing/personalized-newsletter-learn.md)
+   + [Anleitung zum personalisierten Newsletter](email-marketing/personalized-newsletter-watch.md)
+   + [Gated Content-Angebot](email-marketing/gated-content-offer-learn.md)
+   + [Anleitung für Gated Content](email-marketing/gated-content-offer-watch.md)
+   + [A/B-Tests](email-marketing/ab-testing-learn.md)
+   + [A/B-Tests - schrittweise Anleitung](email-marketing/ab-testing-watch.md)
+   + [Landing Pages ](email-marketing/landing-pages-learn.md)
+   + [Durchsicht bei Landingpages](email-marketing/landing-pages-watch.md)
+   + [Formulare](email-marketing/forms-learn.md)
+   + [Forms-Beispiel](email-marketing/forms-watch.md)
+   + [Email Deliverability](email-marketing/email-deliverability-learn.md)
+   + [Durchsicht bei der Zustellbarkeit von E-Mails](email-marketing/email-deliverability-watch.md)
+   + [Ausgelöste E-Mail](email-marketing/triggered-email-learn.md)
+   + [Ausgelöste E-Mail-Anleitung](email-marketing/triggered-email-watch.md)
+   + [Lead-Pflege](email-marketing/lead-nuturing-learn.md)
+   + [Dynamische und prädiktive Inhalte](email-marketing/dynamic-and-predictive-content-learn.md)
+   + [Filtern von E-Mail-Bot-Aktivitäten - Einrichtung](filtering-email-bot-activities/setup.md)
++ Veranstaltungen {#events}
+   + [Veranstaltungen](events/events-learn.md)
+   + [Beispiel für Ereignisse](events/events-watch.md)
+   + [Effektives interaktives Webinar erstellen](events/design-an-effective-interactive-webinar.md)
+   + [Webinare](events/webinar-learn.md)
+   + [Webinare durchgehen](events/webinar-watch.md)
++ Grundlagen {#fundamentals}
+   + [Ziele und Strategie](fundamentals/goals-and-strategy-learn.md)
+   + [Organisatorische Struktur](fundamentals/organizational-structure-learn.md)
+   + [Content-Marketing](fundamentals/content-marketing-learn.md)
+   + [Käuferrolle](fundamentals/buyer-personas-learn.md)
 + Instanz-Management {#instance-management}
    + [Best Practices](instance-management/best-practice-learn.md)
    + [Best Practices-schrittweise](instance-management/best-practice-watch.md)
-+ Veranstaltungen {#events}
-   + [Lead-Bewertung](events/lead-scoring.md)
++ Lead- und Daten-Management {#lead-and-data-management}
+   + [Lead-Scoring](lead-and-data-management/lead-scoring-learn.md)
+   + [Schrittweise Anleitung zur Lead-Bewertung](lead-and-data-management/lead-scoring-watch.md)
+   + [Lead-Scoring-Beispiele](lead-and-data-management/lead-scoring.md)
+   + [Abonnement-Center](lead-and-data-management/subscription-center-learn.md)
+   + [Beispiel für ein Abonnement-Center](lead-and-data-management/subscription-center-watch.md)
+   + [CRM-Synchronisation](lead-and-data-management/crm-sync-learn.md)
+   + [Lead-Lebenszyklus](lead-and-data-management/lead-lifecycle-learn.md)
+   + [Lead-Lebenszyklusdurchlauf](lead-and-data-management/lead-lifecycle-watch.md)
++ Sales Insight-Aktionen {#sales-insight-actions}
+   + [Überblick](sales-insight-actions/overview.md)
+   + [Sales Insight-Aktionen - Übersicht](sales-insight-actions/sales-insight-actions-overview.md)
+   + [Zugriff auf Ihre Instanz mit Sales Insight-Aktionen](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
+   + [Konfigurieren der Protokollierung von Verkaufsaktivitäten in [!DNL Salesforce]](sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
