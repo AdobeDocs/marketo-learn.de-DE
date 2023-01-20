@@ -2,10 +2,10 @@
 user-guide-title: Marketo Engage-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-Tutorials
-source-git-commit: 5db8b7cf5855df56e9fca79ca3a0b3fed3300537
+source-git-commit: 9f0328f2770b66a1e0695772a35c698c4268906d
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 15%
+source-wordcount: '196'
+ht-degree: 14%
 
 ---
 
@@ -14,8 +14,6 @@ ht-degree: 15%
 
 + [[!DNL Marketo Engage] Tutorials](overview.md)
 + Kanalübergreifendes Marketing {#cross-channel-marketing}
-   + [Veranstaltungen](email-marketing/events-learn.md)
-   + [Beispiel für Ereignisse](email-marketing/events-watch.md)
    + [Integration von Mobile Marketing](cross-channel-marketing/mobile-marketing-learn.md)
    + [Mobile Marketing-Anleitung](cross-channel-marketing/mobile-marketing-watch.md)
    + [Social Marketing](cross-channel-marketing/social-marketing-learn.md)
@@ -24,10 +22,8 @@ ht-degree: 15%
    + [Gehen Sie zur Web-Personalisierung durch](cross-channel-marketing/web-personalization-watch.md)
    + [SEO und PPC](cross-channel-marketing/seo-and-ppc-learn.md)
    + [SEO und PPC - Durchgang](cross-channel-marketing/seo-and-ppc-watch.md)
-   + [Webinare](email-marketing/webinar-learn.md)
-   + [Webinare durchgehen](email-marketing/webinar-watch.md)
 + Dynamischer Chat {#dynamic-chat}
-   + [[!UICONTROL Dynamischer Chat] Tutorials](dynamic-chat/dynamic-chat-overview.md)
+   + [Dynamische Chat-Tutorials](dynamic-chat/dynamic-chat-overview.md)
    + [Produkttour](dynamic-chat/product-tour.md)
    + [Einrichtung und Installation](dynamic-chat/setup.md)
    + [Marketo-Integration](dynamic-chat/marketo-integration.md)
