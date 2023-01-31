@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-Tutorials
-source-git-commit: 9f0328f2770b66a1e0695772a35c698c4268906d
+source-git-commit: d7ba42d21f09ed3793b0cc0b2da0b5b760b21fa1
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '205'
 ht-degree: 14%
 
 ---
@@ -69,7 +69,6 @@ ht-degree: 14%
 + Lead- und Daten-Management {#lead-and-data-management}
    + [Lead-Scoring](lead-and-data-management/lead-scoring-learn.md)
    + [Schrittweise Anleitung zur Lead-Bewertung](lead-and-data-management/lead-scoring-watch.md)
-   + [Lead-Scoring-Beispiele](lead-and-data-management/lead-scoring.md)
    + [Abonnement-Center](lead-and-data-management/subscription-center-learn.md)
    + [Beispiel für ein Abonnement-Center](lead-and-data-management/subscription-center-watch.md)
    + [CRM-Synchronisation](lead-and-data-management/crm-sync-learn.md)
@@ -80,3 +79,6 @@ ht-degree: 14%
    + [Sales Insight-Aktionen - Übersicht](sales-insight-actions/sales-insight-actions-overview.md)
    + [Zugriff auf Ihre Instanz mit Sales Insight-Aktionen](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Konfigurieren der Protokollierung von Verkaufsaktivitäten in [!DNL Salesforce]](sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
++ Ausgeblendet {#hidden}
+   + [Lead-Scoring für Marketo und Mochas](events/marketo-and-mochas/lead-scoring.md)
+   + [Marketo und Mochas Marketo Measure Attribution](events/marketo-and-mochas/attribution.md)
