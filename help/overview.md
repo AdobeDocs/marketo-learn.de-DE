@@ -3,7 +3,7 @@ title: Marketo Engage-Tutorials
 description: Ansehen von Video-Tutorials auf [!DNL Marketo Engage]. Verbessern Sie Ihr Verständnis für die Verwendung von Funktionen zur Marketing-Automatisierung und mehr.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 5a65ad7660a368a10e31b76ec81594304c304cc9
+source-git-commit: c6472ca19d0fcf147d53de6ecb8f263f41046e7b
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 20%
@@ -15,6 +15,7 @@ ht-degree: 20%
 Durchsuchen Sie unsere Tutorial-Bibliothek und nutzen Sie die Vorteile von [!DNL Marketo Engage]. Diese Tutorials können als Ergänzung zu [[!DNL Marketo] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} um Ihnen dabei zu helfen, Ihr Verständnis von Marketing-Automatisierungsfunktionen zu verbessern.
 
 <div id="whats-new-section">
+
 ## Neuigkeiten
 
 Kürzlich hinzugefügt [!DNL Marketo Engage] Tutorials:
