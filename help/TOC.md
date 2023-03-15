@@ -2,7 +2,7 @@
 user-guide-title: Marketo Engage-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-Tutorials
-source-git-commit: aec1c347ee9aefbe4f022cbb5e14cbd222828d4a
+source-git-commit: c80c10f57e7f3679a90251251f31ebdc1b271713
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 13%
@@ -38,7 +38,6 @@ ht-degree: 13%
    + [Dynamische und prädiktive Inhalte](email-marketing/dynamic-and-predictive-content-learn.md)
    + [Filtern von E-Mail-Bot-Aktivitäten - Einrichtung](filtering-email-bot-activities/setup.md)
 + Kanalübergreifendes Marketing {#cross-channel-marketing}
-   + [Beispiel für Ereignisse](events/events-watch.md)
    + [Forms-Beispiel](email-marketing/forms-watch.md)
    + [Integration von Mobile Marketing](cross-channel-marketing/mobile-marketing-learn.md)
    + [Mobile Marketing-Anleitung](cross-channel-marketing/mobile-marketing-watch.md)
@@ -46,8 +45,6 @@ ht-degree: 13%
    + [SEO und PPC - Durchgang](cross-channel-marketing/seo-and-ppc-watch.md)
    + [Social Marketing](cross-channel-marketing/social-marketing-learn.md)
    + [Social-Marketing-Anleitung](cross-channel-marketing/social-marketing-watch.md)
-   + [Webinare](events/webinar-learn.md)
-   + [Webinare durchgehen](events/webinar-watch.md)
    + [Web-Personalisierung](cross-channel-marketing/web-personalization-learn.md)
    + [Gehen Sie zur Web-Personalisierung durch](cross-channel-marketing/web-personalization-watch.md)
 + Dynamischer Chat {#dynamic-chat}
@@ -77,7 +74,10 @@ ht-degree: 13%
    + [Best Practices](instance-management/best-practice-learn.md)
    + [Best Practices-schrittweise](instance-management/best-practice-watch.md)
 + Veranstaltungen {#events}
+   + [Beispiel für Ereignisse](events/events-watch.md)
    + [Ereignisprogramm erstellen](events/events-learn.md)
+   + [Webinare](events/webinar-learn.md)
+   + [Webinare durchgehen](events/webinar-watch.md)
    + [Effektives interaktives Webinar erstellen](events/design-an-effective-interactive-webinar.md)
 + Ausgeblendet {#hidden}
    + [Lead-Scoring für Marketo und Mochas](event-recordings/marketo-and-mochas/lead-scoring.md)
