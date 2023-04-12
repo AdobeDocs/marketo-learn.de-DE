@@ -2,10 +2,10 @@
 user-guide-title: Marketo Engage-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-Tutorials
-source-git-commit: 534c5bdc8597e2b9b780218c81af48ce1b359b5b
+source-git-commit: aaa97cd7837810f7c213ed46d849cc875d0bff18
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 12%
+source-wordcount: '217'
+ht-degree: 14%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 12%
    + [Organisatorische Struktur](fundamentals/organizational-structure-learn.md)
    + [Content-Marketing](fundamentals/content-marketing-learn.md)
    + [Käuferrolle](fundamentals/buyer-personas-learn.md)
+   + [Programme und Kampagnen](fundamentals/programs-and-campaigns.md)
 + E-Mail-Marketing {#email-marketing}
    + [Geplante E-Mail](email-marketing/scheduled-email-learn.md)
    + [Schrittweise Anleitung für geplante E-Mails](email-marketing/scheduled-email-watch.md)
@@ -60,7 +61,7 @@ ht-degree: 12%
    + [Suchen in Stream-Designer](dynamic-chat/search-in-stream-designer.md)
    + [Erfassen von abgeleiteten Attributen](dynamic-chat/capture-inferred-attributes.md)
    + [Dialogvorschau](dynamic-chat/dialogue-preview.md)
-   + [Interaktionsbericht](dynamic-chat/engagement-report.md)
+   + [Interaktions-Bericht](dynamic-chat/engagement-report.md)
    + [Globalisierung statischer Inhalte](dynamic-chat/globalization-of-static-content.md)
    + [Rollen und Berechtigungen](dynamic-chat/roles-and-permissions.md)
 + Sales Insight-Aktionen {#sales-insight-actions}
@@ -79,7 +80,7 @@ ht-degree: 12%
 + Instanz-Management {#instance-management}
    + [Best Practices](instance-management/best-practice-learn.md)
    + [Best Practices-schrittweise](instance-management/best-practice-watch.md)
-+ Veranstaltungen {#events}
++ Ereignisse {#events}
    + [Beispiel für Ereignisse](events/events-watch.md)
    + [Ereignisprogramm erstellen](events/events-learn.md)
    + [Webinare](events/webinar-learn.md)
