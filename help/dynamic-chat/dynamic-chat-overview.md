@@ -6,7 +6,7 @@ exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 source-git-commit: aad9219bab058bbd3773b2bcac6726f30e6641fd
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
@@ -38,7 +38,7 @@ Willkommen bei der [!UICONTROL Dynamischer Chat]  Tutorials-Site. Verwenden Sie 
    *Wir können abgeleitete Attribute identifizieren und mit jedem durch den dynamischen Chat erfassten Lead füllen, indem wir die Munchkin-ID nutzen.*
 * **[Dialogvorschau](dialogue-preview.md)**
    *Die Vorschau Ihres Dialogfelds vor der Veröffentlichung ist mit der Funktion &quot;Dialogvorschau&quot;sehr einfach.*
-* **[Interaktionsbericht](engagement-report.md)**
+* **[Interaktions-Bericht](engagement-report.md)**
    *Trends der Interaktion Ihrer Webbesucher mit Ihrem Dialogfeld*
 * **[Globalisierung statischer Inhalte](globalization-of-static-content.md)**
    *Sie können statische/Systeminhalte in die Sprache Ihrer Wahl personalisieren.*
