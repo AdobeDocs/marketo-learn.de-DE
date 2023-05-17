@@ -1,12 +1,12 @@
 ---
 title: Marketo Engage-Tutorials
-description: Ansehen von Video-Tutorials auf [!DNL Marketo Engage]. Verbessern Sie Ihr Verständnis für die Verwendung von Funktionen zur Marketing-Automatisierung und mehr.
+description: Sehen Sie sich Video-Tutorials zu  [!DNL Marketo Engage] an. Verbessern Sie Ihr Verständnis für die Verwendung von Funktionen zur Marketing-Automatisierung und mehr.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
 source-git-commit: 59d9ded613045d0ea7345b496e1a9656bf1e3295
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 20%
+ht-degree: 22%
 
 ---
 
