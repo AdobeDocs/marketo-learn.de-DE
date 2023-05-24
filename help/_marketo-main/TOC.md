@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-Tutorials
-source-git-commit: 5a661800e947fef2fdd418e49440c34a9cb5af1d
+source-git-commit: eb2c2bc28f352b0fc2681e2b20fe94e86a459a41
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '254'
 ht-degree: 14%
 
 ---
@@ -19,13 +19,19 @@ ht-degree: 14%
    + [Content-Marketing](/help/fundamentals/content-marketing-learn.md)
    + [Käuferrolle](/help/fundamentals/buyer-personas-learn.md)
    + [Programme und Kampagnen](/help/fundamentals/programs-and-campaigns.md)
-+ Erste Schritte {#get-started}
-   + [Navigieren in der Benutzeroberfläche](/help/get-started/ui-navigation.md)
+   + [Navigieren in der Benutzeroberfläche](/help/fundamentals/ui-navigation.md)
+   + Programme und Kampagnen {#programs}
+      + [Grundlegendes zu Programmen und Kampagnen](help/programs/understanding-programs-and-campaigns.md)
+      + [Standardprogramme](/help/programs/default-programs.md)
+      + [E-Mail-Programme](/help/programs/email-programs.md)
+      + [Veranstaltungsprogramme](/help/programs/event-programs.md)
+      + [Engagementprogramme](/help/programs/engagement-programs.md)
 + Programme {#programs}
-   + [Übersicht über die Standardprogramme](/help/programs/default-programs-overview.md)
-   + [Übersicht über E-Mail-Programme](/help/programs/email-programs-overview.md)
-   + [Übersicht über Veranstaltungsprogramme](/help/programs/event-programs-overview.md)
-   + [Übersicht über Interaktionsprogramme](/help/programs/engagement-programs-overview.md)
+   + [Grundlegendes zu Programmen und Kampagnen](help/programs/understanding-programs-and-campaigns.md)
+   + [Standardprogramme](/help/programs/default-programs.md)
+   + [E-Mail-Programme](/help/programs/email-programs.md)
+   + [Veranstaltungsprogramme](/help/programs/event-programs.md)
+   + [Engagementprogramme](/help/programs/engagement-programs.md)
 + E-Mail-Marketing {#email-marketing}
    + [Geplante E-Mail](/help/email-marketing/scheduled-email-learn.md)
    + [Schrittweise Anleitung für geplante E-Mails](/help/email-marketing/scheduled-email-watch.md)
