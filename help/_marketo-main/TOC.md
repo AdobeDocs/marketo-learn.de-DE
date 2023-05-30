@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-Tutorials
-source-git-commit: 965e7fd5cbac9eb7b34398b9317143b0e8418ba6
+source-git-commit: 688b3906f03b84e9d5e7233a2646fec76976aa93
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '259'
 ht-degree: 13%
 
 ---
@@ -20,14 +20,9 @@ ht-degree: 13%
    + [Käuferrolle](/help/fundamentals/buyer-personas-learn.md)
    + [Programme und Kampagnen](/help/fundamentals/programs-and-campaigns.md)
    + [Navigieren in der Benutzeroberfläche](/help/fundamentals/ui-navigation.md)
-   + Programme und Kampagnen {#programs}
-      + [Grundlegendes zu Programmen und Kampagnen](help/programs/understanding-programs-and-campaigns.md)
-      + [Standardprogramme](/help/programs/default-programs.md)
-      + [E-Mail-Programme](/help/programs/email-programs.md)
-      + [Veranstaltungsprogramme](/help/programs/event-programs.md)
-      + [Engagementprogramme](/help/programs/engagement-programs.md)
-+ Programme {#programs}
-   + [Grundlegendes zu Programmen und Kampagnen](help/programs/understanding-programs-and-campaigns.md)
+   + [Grundlegendes zu Programmen und Kampagnen](help/fundamentals/understand-programs-and-campaigns.md)
++ Programme und Kampagnen {#programs}
+   + [Grundlegendes zu Programmen und Kampagnen](/help/programs/understanding-programs-and-campaigns.md)
    + [Standardprogramme](/help/programs/default-programs.md)
    + [E-Mail-Programme](/help/programs/email-programs.md)
    + [Veranstaltungsprogramme](/help/programs/event-programs.md)
