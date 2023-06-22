@@ -1,22 +1,21 @@
 ---
 title: Standardprogramme
-description: Erfahren Sie, wie Sie Ihr erstes Standardprogramm erstellen und messen.
-role: User
+description: Erfahren Sie, wie Sie den Erfolg Ihrer Standardprogramme erstellen und messen können.
 level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2023-05-23T00:00:00Z
 jira: KT-13259
 thumbnail: 3419623.jpeg
-source-git-commit: 91d39bd1ca4211fc20318875677936399d0b828b
+exl-id: d9fbd960-6eab-4e3b-b9f4-69384556c95e
+source-git-commit: 5d68564d02044dfb617f0f51d89ddd8fc1e8df07
 workflow-type: tm+mt
-source-wordcount: '24'
-ht-degree: 16%
+source-wordcount: '28'
+ht-degree: 14%
 
 ---
 
-
 # Standardprogramme
 
-Erfahren Sie, wie Sie Ihr erstes Standardprogramm erstellen und messen.
+Erfahren Sie, wie Sie den Erfolg Ihrer Standardprogramme erstellen und messen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419623/?learn=on)
