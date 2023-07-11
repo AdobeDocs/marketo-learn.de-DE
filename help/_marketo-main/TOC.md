@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-Tutorials
-source-git-commit: 4bc6a6d9414f4b231878d55118a109a7f90172ec
+source-git-commit: 3f1f9929de4d475b916a6b13f555f6cc3014ca3d
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '277'
 ht-degree: 12%
 
 ---
@@ -20,6 +20,8 @@ ht-degree: 12%
    + [Käuferrolle](/help/fundamentals/buyer-personas-learn.md)
    + [Programme und Kampagnen](/help/fundamentals/programs-and-campaigns.md)
    + [Navigieren in der Benutzeroberfläche](/help/fundamentals/ui-navigation.md)
+   + [Best Practices zum Organisieren einer neuen Instanz](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
+   + [Best Practices für die Erstellung von Gründungsprogrammen](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
 + Programme und Kampagnen {#programs-and-campaigns}
    + [Grundlegendes zu Programmen und Kampagnen](/help/programs/understanding-programs-and-campaigns.md)
    + [Smart-Kampagnen 101](/help/campaigns/smart-campaigns-101.md)
@@ -71,7 +73,7 @@ ht-degree: 12%
    + [Suchen in Stream-Designer](/help/dynamic-chat/search-in-stream-designer.md)
    + [Erfassen von abgeleiteten Attributen](/help/dynamic-chat/capture-inferred-attributes.md)
    + [Dialogvorschau](/help/dynamic-chat/dialogue-preview.md)
-   + [Interaktions-Bericht](/help/dynamic-chat/engagement-report.md)
+   + [Interaktionsbericht](/help/dynamic-chat/engagement-report.md)
    + [Globalisierung statischer Inhalte](/help/dynamic-chat/globalization-of-static-content.md)
    + [Rollen und Berechtigungen](/help/dynamic-chat/roles-and-permissions.md)
 + Sales Insight-Aktionen {#sales-insight-actions}
@@ -87,9 +89,6 @@ ht-degree: 12%
    + [CRM-Synchronisation](/help/lead-and-data-management/crm-sync-learn.md)
    + [Lead-Lebenszyklus](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [Lead-Lebenszyklusdurchlauf](/help/lead-and-data-management/lead-lifecycle-watch.md)
-+ Instanz-Management {#instance-management}
-   + [Best Practices](/help/instance-management/best-practice-learn.md)
-   + [Best Practices-schrittweise](/help/instance-management/best-practice-watch.md)
 + Ereignisse {#events}
    + [Beispiel für Ereignisse](/help/events/events-watch.md)
    + [Ereignisprogramm erstellen](/help/events/events-learn.md)
