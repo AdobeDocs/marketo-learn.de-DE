@@ -4,9 +4,10 @@ description: Zugriff auf Ihre Sales Insight-Aktionsinstanz
 role: User
 level: Beginner
 exl-id: 6851ed6e-216c-4f07-ab4c-18fde0a142fa
-source-git-commit: 61eb7a8264c77c5ee147c76952983f4f67938d7b
+feature: Sales Insight Actions
+source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
@@ -19,5 +20,5 @@ In diesem Video erhalten Sie einen Überblick darüber, wie Sie auf Ihre [!UICON
 
 ## Verwandte Videos
 
-* [Sales Insight-Aktionen - Überblick](/help/sales-insight-actions/sales-insight-actions-overview.md){target=&quot;_blank&quot;}
-* [Konfigurieren der Protokollierung von Verkaufsaktivitäten für [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target=&quot;_blank&quot;}
+* [Sales Insight-Aktionen - Überblick](/help/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
+* [Konfigurieren der Protokollierung von Verkaufsaktivitäten für [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}

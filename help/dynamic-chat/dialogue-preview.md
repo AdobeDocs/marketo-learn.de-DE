@@ -8,7 +8,8 @@ last-substantial-update: 2023-03-20T00:00:00Z
 jira: KT-12965
 thumbnail: 3416923.jpeg
 exl-id: b9bf800d-5d96-4a58-8296-f9466186a68c
-source-git-commit: 7e4dd6f3d2e3a34751dcdc047337bea0d9c955bf
+feature: Dynamic Chat
+source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -23,6 +24,6 @@ Die Vorschau Ihres Dialogfelds vor der Veröffentlichung ist mit der Funktion &q
 
 ## Weitere hilfreiche Videos
 
-* [Hinzufügen und Verwalten von Benutzern von [!UICONTROL Dynamischer Chat] ](user-management.md)
+* [Hinzufügen und Verwalten von Benutzern von [!UICONTROL Dynamischer Chat]](user-management.md)
 * [Personalisierte Dialogfelder erstellen und verwalten](dialogue-management.md)
-* [Aktivieren Sie Ihre Marketo-Integration mit [!UICONTROL Dynamischer Chat] ](marketo-integration.md)
+* [Aktivieren Sie Ihre Marketo-Integration mit [!UICONTROL Dynamic Chat]](marketo-integration.md)
