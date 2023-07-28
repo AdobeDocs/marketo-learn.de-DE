@@ -6,7 +6,7 @@ role: User
 level: Beginner
 exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
 feature: Programs, Events
-source-git-commit: a80bf39486992aa7a11988e6517197860b60e6c2
+source-git-commit: c34985e01043b34d8f749a1cd0b4e3a83c2efbc6
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Die Erstellung eines effektiven interaktiven Webinars ist der erste Schritt, um sicherzustellen, dass die Bereitstellung Ihres Webinar-Ereignisses ansprechend und unvergesslich ist. Als Marketing-Experte haben Sie verschiedene Ziele für die Bereitstellung eines Webinars, z. B. die Präsentation Ihrer Produkte zur Erstellung von Leads, die Evangelisierung eines Konzepts oder einer Technologie zur Interessenerzeugung, die Bereitstellung eines Workshops zur Interaktion mit Leads und mehr. Verschiedene Ziele erfordern unterschiedliche Strategien, um sicherzustellen, dass Sie das Webinar optimal an die Bedürfnisse der verschiedenen Zielgruppensegmente anpassen, um sicherzustellen, dass Sie über die richtige Beteiligung und Interaktion verfügen, um Ihre Ziele zu erreichen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418602?q=9)
+>[!VIDEO](https://video.tv.adobe.com/v/3418602?quality=12&learn=on)
