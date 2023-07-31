@@ -2,7 +2,7 @@
 user-guide-title: Marketo Engage-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-Tutorials
-source-git-commit: a662b700709081a7f071c01e95f5faca8e1e3139
+source-git-commit: df2e02619fcb4a31d39cddd2660e0dff32c208b5
 workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 11%
@@ -33,8 +33,8 @@ ht-degree: 11%
       + [Nutzung der Flexibilität von Standardprogrammen](/help/programs/leverage-the-flexibility-of-default-programs.md)
    + [Engagementprogramme](/help/programs/engagement-programs.md)
    + Interaktionskarten {#engagement-maps}
-      + [Interaktionsübersicht](help/campaigns/engagement-maps/engagement-map-overview.md)
-      + [Interaktionszuordnung für verschachtelte Kampagnen](help/campaigns/engagement-maps/engagement-map-nested-campaign.md)
+      + [Interaktionsübersicht](/help/engagement-maps/engagement-map-overview.md)
+      + [Interaktionszuordnung für verschachtelte Kampagnen](/help/engagement-maps/engagement-map-nested-campaign.md)
       + [Fehlererkennung und Auflösung von Interaktionskarten](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
 + E-Mail-Marketing {#email-marketing}
    + [Geplante E-Mail](/help/email-marketing/scheduled-email-learn.md)
