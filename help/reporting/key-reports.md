@@ -4,16 +4,16 @@ description: Erfahren Sie mehr über die wichtigsten Berichte in Marketo Engage 
 role: User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-05-30T00:00:00Z
+last-substantial-update: 2023-09-06T00:00:00Z
 jira: KT-13261
 thumbnail: 3420138.jpeg
-hide: true
-hidefromtoc: true
+hide: false
+hidefromtoc: false
 exl-id: 6110c26a-5920-4b98-82fa-bbe76f402a71
 feature: Reporting
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 38e33ae7403649ae26c138cbfa74b9fbfab738a3
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -22,12 +22,16 @@ ht-degree: 0%
 
 Erfahren Sie mehr über die wichtigsten Berichte in Marketo Engage und wie Sie sie abrufen können.
 
-1. Lesen Sie die entsprechenden Produkthandbücher:
+>[!VIDEO](https://video.tv.adobe.com/v/3420138/?learn=on)
 
-   [Berichtstyp - Übersicht](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en)
+## Zusätzliche Ressourcen
 
-1. Lernen Sie von Ihren Kollegen:
+Lesen Sie die entsprechenden Produkthandbücher:
 
-   * [Blogpost für Experten: Wie Champion Chelsea Kiko in verschiedenen Marketo Engage Spaces berichtet](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
-   * [Expert Customer Webinar: Über die Grundlagen hinaus mit Courtney Tobe](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-beyond-the-basics-marketo-reporting/ba-p/302116)
-   * [Expert Customer Webinar: Aufbau einer umfassenden ROI-Berichtsstrategie mit Britney Young](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-rounding-out-your-reporting-how-to-build-a/ba-p/319082)
+* [Berichtstyp - Übersicht](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en)
+
+Lernen Sie von Ihren Kollegen:
+
+* [Expert Customer Blog Post: Wie Champion Chelsea Kiko Berichte in verschiedenen Marketo Engage Spaces](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
+* [Expert Customer Webinar: Über die Grundlagen hinaus mit Courtney](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-beyond-the-basics-marketo-reporting/ba-p/302116)
+* [Expert Customer Webinar: Wie Sie mit Britney Young eine vollständige ROI-Berichtsstrategie erstellen](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-rounding-out-your-reporting-how-to-build-a/ba-p/319082)
