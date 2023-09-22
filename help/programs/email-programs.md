@@ -9,9 +9,9 @@ jira: KT-13257
 thumbnail: 3419440.jpeg
 exl-id: 89db03e2-6db0-46f8-ada1-31625663642d
 feature: Programs
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '118'
 ht-degree: 3%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 In diesem Schritt-für-Schritt-Tutorial erfahren Sie, wie Sie ein E-Mail-Programm mit einem A/B-Test erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419440/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419440/?learn=on){transcript=true}
 
 
 ## Zusätzliche Ressourcen:
@@ -33,4 +33,4 @@ Sehen Sie sich zusätzliche Videos an, um weitere Hilfe zu dieser Funktion zu er
 * [AB-Testdurchgang](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
 
 Erfahren Sie von Ihren Kollegen, wie Sie E-Mail-Programme verwenden:
-* [Expert-Blogpost: E-Mail-Programme](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)
+* [Blogpost für Experten: E-Mail-Programme](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)

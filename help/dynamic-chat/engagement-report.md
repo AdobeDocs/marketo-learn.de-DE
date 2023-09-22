@@ -9,9 +9,9 @@ jira: KT-12964
 thumbnail: 3416921.jpeg
 exl-id: bb4d0570-5790-454c-8787-ae18b6ebe7ce
 feature: Dynamic Chat
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '54'
 ht-degree: 7%
 
 ---
@@ -20,10 +20,10 @@ ht-degree: 7%
 
 Sehen Sie sich nun die Trends der Interaktion Ihrer Webbesucher mit Ihrem Dialogfeld an.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416921/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416921/?quality=12&learn=on){transcript=true}
 
 ## Weitere hilfreiche Videos
 
-* [Hinzufügen und Verwalten von Benutzern von [!UICONTROL Dynamic Chat]](user-management.md)
+* [Hinzufügen und Verwalten von Benutzern [!UICONTROL Dynamic Chat]](user-management.md)
 * [Personalisierte Dialogfelder erstellen und verwalten](dialogue-management.md)
 * [Aktivieren Sie Ihre Marketo-Integration mit [!UICONTROL Dynamic Chat]](marketo-integration.md)

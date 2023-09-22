@@ -9,9 +9,9 @@ jira: KT-13263
 thumbnail: 3420096.jpeg
 exl-id: a9349c7f-0590-4d7c-89cc-a86fec8cdc40
 feature: Smart Campaigns
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '115'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 2%
 
 Smart-Kampagnen sind die Engine von Marketo. Neben der Verwendung von Smart-Kampagnen zum Versand von E-Mails und Programmen können Sie Smart-Kampagnen für eine Vielzahl von Anwendungsfällen verwenden. Erfahren Sie, wie Sie Smart-Kampagnen für Datennormalisierung und automatisierte Warnhinweise verwenden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
 
 
 ## Weitere Ressourcen
@@ -31,5 +31,5 @@ Smart-Kampagnen sind die Engine von Marketo. Neben der Verwendung von Smart-Kamp
 
 **Blog-Beiträge von Experten:**
 
-* [Smart-Kampagnen 101: Ein tief greifender Einblick in die leistungsfähigste Funktion von Adobe Marketo Engage](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
-* [Marketo Success Series: Smart-Kampagnen](https://nation.marketo.com/t5/product-blogs/marketo-success-series-smart-campaigns/ba-p/306961)
+* [Smart Campaigns 101: Ein tiefer Einblick in die leistungsfähigste Funktion von Adobe Marketo Engage](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
+* [Marketo-Erfolgsserie: Smart-Kampagnen](https://nation.marketo.com/t5/product-blogs/marketo-success-series-smart-campaigns/ba-p/306961)
