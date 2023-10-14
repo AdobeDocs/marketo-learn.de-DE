@@ -1,21 +1,21 @@
 ---
-title: Erstellen eines Lead-Lebenszyklusprogramms
-description: Erstellen Sie eine [!UICONTROL Lead-Lebenszyklus] -Programm, das Ihre Leads mithilfe des Programmstatus verfolgt und auf die Leads reagiert, die zum Verkauf bereit sind.
+title: Erstellen eines Personen-Lebenszyklusprogramms
+description: Erstellen Sie eine [!UICONTROL Personen-Lebenszyklus] -Programm, das Ihre Leads mithilfe des Programmstatus verfolgt und auf die Leads reagiert, die zum Verkauf bereit sind.
 role: User
 level: Beginner
 jira: KT-10739
 thumbnail: 345423.jpeg
 exl-id: b2aef4fa-dc8f-4386-b8e5-0b7615298c8c
 feature: Programs
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+source-git-commit: b614aa134ee0ccbbfd70c6ab73339287d6ebb27a
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# Erstellen eines Lead-Lebenszyklusprogramms
+# Erstellen eines Personen-Lebenszyklusprogramms
 
-Erstellen Sie eine [!UICONTROL Lead-Lebenszyklus] -Programm, das Ihre Leads mithilfe des Programmstatus verfolgt und auf die Leads reagiert, die zum Verkauf bereit sind.
+Erstellen Sie eine [!UICONTROL Personen-Lebenszyklus] -Programm, das Ihre Leads mithilfe des Programmstatus verfolgt und auf die Leads reagiert, die zum Verkauf bereit sind.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345423/?quality=12&learn=on){transcript=true}

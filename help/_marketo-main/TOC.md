@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-Tutorials
 auto-video-transcripts: true
-source-git-commit: d6f93ad6b4216c9c886a288a23918f9f25187165
+source-git-commit: 01e5afc2449579fe995ffb670afbe0a42ed53353
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '307'
 ht-degree: 12%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 12%
    + [Best Practices zum Organisieren einer neuen Instanz](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Best Practices für die Erstellung von Gründungsprogrammen](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Personalisieren mit Token](/help/personalization/personalize-with-tokens.md)
-   + [Audit der geerbten Instanz](/help/fundamentals/inherted-instance-audit.md)
+   + [Überprüfen einer geerbten Instanz](/help/fundamentals/inherted-instance-audit.md)
 + Programme und Kampagnen {#programs-and-campaigns}
    + [Programme und Kampagnen](/help/programs/understanding-programs-and-campaigns.md)
    + [Smart-Kampagnen 101](/help/campaigns/smart-campaigns-101.md)
@@ -91,8 +91,8 @@ ht-degree: 12%
    + [Zugriff auf Ihre Instanz mit Sales Insight-Aktionen](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Konfigurieren der Protokollierung von Verkaufsaktivitäten in [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + Lead- und Daten-Management {#lead-and-data-management}
-   + [Interessensbewertung](/help/lead-and-data-management/lead-scoring-learn.md)
-   + [Schrittweise Anleitung zur Lead-Bewertung](/help/lead-and-data-management/lead-scoring-watch.md)
+   + [Lead-/Personenscoring](/help/lead-and-data-management/lead-scoring-learn.md)
+   + [Durchgang bei Lead-/Personenbewertungen](/help/lead-and-data-management/lead-scoring-watch.md)
    + [Abonnement-Center](/help/lead-and-data-management/subscription-center-learn.md)
    + [Beispiel für ein Abonnement-Center](/help/lead-and-data-management/subscription-center-watch.md)
    + [CRM-Synchronisation](/help/lead-and-data-management/crm-sync-learn.md)

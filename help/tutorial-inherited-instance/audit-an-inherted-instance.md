@@ -10,9 +10,9 @@ last-substantial-update: 2023-08-08T00:00:00Z
 jira: KT-13762
 thumbnail: 3422473.jpeg
 hide: true
-source-git-commit: b614aa134ee0ccbbfd70c6ab73339287d6ebb27a
+source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Das Vererben einer Marketo Engage-Instanz kann eine anstrengende Zeit sein, egal
 
 In diesem Tutorial führen wir Sie durch die wichtigsten Bereiche innerhalb von Marketo Engage, einschließlich Admin, Marketingaktivitäten, Design Studio und Datenbank, und geben Ihnen dabei Tipps für die Prüfung und Optimierung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)
