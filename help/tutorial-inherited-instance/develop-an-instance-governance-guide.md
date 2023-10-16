@@ -5,11 +5,11 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-12T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
 source-wordcount: '906'
 ht-degree: 1%
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 Beim Einstieg in eine veraltete [!DNL Marketo Engage] Beispielsweise ist es oft schwierig, eine aktuelle funktionale und technische Dokumentation zu erhalten. Als Administrator ist die Festlegung von Richtlinien zur Gewährleistung einer ordnungsgemäßen Instanzverwaltung eine zentrale Verantwortung, die Sie nicht übersehen können. Es ist eine der wichtigsten Strategien, [Steigerung der Effizienz bei der Arbeit in einer etablierten Marketo Engage-Instanz](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582).
 
-Dieses Schritt-für-Schritt-Tutorial, das aus [!DNL Adobe Marketo Champion]Nick Hajdin führt Sie durch diesen Prozess, um die Einrichtung Ihrer Instanz zu skizzieren, Ihre primären operationellen Programme zu dokumentieren und eine [!DNL changelog] eine strenge Governance-Politik durchzusetzen.
+Dieses Schritt-für-Schritt-Tutorial, das aus [!DNL Adobe Marketo Champion] (2018) Nick Hajdin führt Sie durch diesen Prozess, um die Einrichtung Ihrer Instanz zu entwerfen, Ihre primären operationellen Programme zu dokumentieren und eine [!DNL changelog] eine strenge Governance-Politik durchzusetzen.
 
 ## Warum sollten Sie eine Anleitung zur Verwaltung von Instanzen und Dokumentation für Ihre geerbte Instanz entwickeln?
 

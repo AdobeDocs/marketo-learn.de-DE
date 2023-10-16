@@ -5,11 +5,11 @@ feature: Administration
 role: Admin
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2023-09-07T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -35,7 +35,6 @@ Dieses Tutorial zu den &quot;geerbten Instanzprüftipps und -tricks&quot;, das v
 
 * **[Handbuch zur Verwaltung von Instanzen entwickeln](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)**
   *Erfahren Sie, wie Sie mit der schnellen Effizienz die Erstellung und Verwaltung von Programmen sowie die Marketingvorgänge insgesamt optimieren können.*
-
 
 * **[Marketing-Tech-Stack visuell zuordnen](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)**
   *Erfahren Sie, wie Sie Datenquellen mit einem visuellen Architekturdiagramm abbilden, um Ihren technischen Stapel zu verstehen.*
