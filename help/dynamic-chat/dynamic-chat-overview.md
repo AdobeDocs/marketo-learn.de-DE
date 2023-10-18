@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 0a5330152f2bf8326c8642e09cc7ba6099869283
+source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
-source-wordcount: '369'
-ht-degree: 10%
+source-wordcount: '405'
+ht-degree: 9%
 
 ---
 
@@ -20,7 +20,9 @@ ht-degree: 10%
 Willkommen bei der [!UICONTROL Dynamic Chat]  Tutorials-Site. Verwenden Sie diese Tutorials zusammen mit der Dokumentation, um Ihr Verständnis für die Verwendung von [!UICONTROL Dynamic Chat]  , um personalisierte Konversationen zu erstellen. Die folgenden Themen helfen Ihnen bei den ersten Schritten:
 
 * Überblick
-   * **[Eine schnelle Produkttour](product-tour.md)**
+   * **[Kurzproduktbesichtigung [2023]](product-tour.md)**
+     *Verschaffen Sie sich einen Überblick über alle neuen Funktionen, die 2023 eingeführt werden.*
+   * **[Kurzproduktbesichtigung [2022]](product-tour.md)**
      *Verschaffen Sie sich einen Überblick über das gesamte Produkt und erfahren Sie, wie Sie [!UICONTROL Dynamic Chat].*
    * **[In 15 Minuten live gehen](go-live-in-15-minutes.md)**
      *Eine Schritt-für-Schritt-Anleitung, die Ihnen dabei hilft, mit dem ersten Dialogfeld live zu gehen, indem Sie [!UICONTROL Dynamic Chat]  in nur 15 Minuten!*
@@ -50,9 +52,11 @@ Willkommen bei der [!UICONTROL Dynamic Chat]  Tutorials-Site. Verwenden Sie dies
      *Sie können statische/Systeminhalte in die Sprache Ihrer Wahl personalisieren.*
    * **[Konversationsformulare](conversational-forms.md)**
      *Erfahren Sie, wie Sie Besucher Ihrer Website unmittelbar nach dem Ausfüllen eines Formulars ansprechen können.*
+   * **[Konversations-SDK](conversations-sdk.md)**
+     *Erfahren Sie, wie Sie das Conversations SDK implementieren, um jeden CTA-Klick in eine ansprechende Konversation zu konvertieren.*
 * Live-Chat und Sitzungsbuchung
-   * **[Live-Chat einrichten](set-up-live-chat.md)**
-     *Erfahren Sie, wie Sie einen Live-Chat einrichten.*
+   * **[Besucher mit Live-Agenten verbinden](connect-visitors-to-live-agents.md)**
+     *Verbinden Sie Ihre qualifizierten Leads, um sofort mit Ihren Vertriebsmitarbeitern zu interagieren.*
    * **[Ermöglichen Sie es Ihren Leads, Meetings mit Ihrem Vertrieb zu buchen](meeting-booking.md)**
      *Beschleunigen Sie die Verbindung mit den Verkäufen für diese [!DNL target] Konten mit Buchungsfunktionen für Meetings.*
 * Analytics
