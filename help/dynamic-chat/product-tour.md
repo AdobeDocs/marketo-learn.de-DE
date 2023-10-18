@@ -1,28 +1,28 @@
 ---
 title: Produktbesichtigung von Dynamic Chat
-description: Erfahren Sie mehr über Dynamic Chat, eine neue Chatbot-Lösung, die von Adobe für Marketing und Vertrieb entwickelt wurde.
+description: Erfahren Sie mehr über Dynamic Chat, eine neue Chat-Lösung, die für Marketing und Vertrieb von Adobe entwickelt wurde.
 role: User
 level: Beginner
-jira: KT-9697
-thumbnail: 340473.jpeg
-exl-id: 6da18db9-1fc9-4a30-a302-102904f79aee
-feature: Dynamic Chat
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+doc-type: Feature Video
+last-substantial-update: 2023-10-18T00:00:00Z
+jira: KT-14209
+thumbnail: 3425033.jpeg
+source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 14%
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
-# Produktübersicht [!UICONTROL Dynamic Chat]
 
-[!UICONTROL Dynamic Chat]  ist eine neue Chatbot-Lösung, die für Marketing und Vertrieb entwickelt wurde. Es ist nativ in [!DNL Marketo Engage], mit dem Sie [!UICONTROL Dynamic Chat]  als neuen Kanal in Ihrem kanalübergreifenden Marketing. Es ist einfach zu verwenden und leicht einzurichten. Nehmen Sie eine kurze Produkttournee:
+# Produktübersicht [!UICONTROL Dynamic Chat] [2023]
 
->[!VIDEO](https://video.tv.adobe.com/v/340473/?quality=12&learn=on){transcript=true}
+Interagieren Sie Ihre Webbesucher mit personalisierten Unterhaltungen, die Leads generieren, mit der Macht von GenAI auf Besucherfragen antworten, zu einem Vertriebsmitarbeiter weiterleiten und auch Chat-Leads über andere Kanäle ansprechen, um Konferenzbuchungen zu fördern.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3425033/?learn=on)
 
 ## Weitere hilfreiche Videos
 
+* [Produkttournee [2022]](product-tour-2022.md)
 * [Einrichten und Installieren des Chat-Bots](setup.md)
-* [Aktivieren Sie Ihre Marketo-Integration mit [!UICONTROL Dynamic Chat]](marketo-integration.md)
-* [Hinzufügen und Verwalten von Benutzern [!UICONTROL Dynamic Chat]](user-management.md)
 * [In nur 15 Minuten live gehen](go-live-in-15-minutes.md)
