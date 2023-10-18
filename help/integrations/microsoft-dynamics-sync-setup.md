@@ -10,10 +10,10 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-17T00:00:00Z
 jira: KT-14112
 thumbnail: 3424737.jpeg
-source-git-commit: 5f3967df0b98e8b4d6c576a3e7f0b26141694240
+source-git-commit: a2a4c986fa5f46682c79a61a539f057d74eef6a1
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 1%
+source-wordcount: '320'
+ht-degree: 0%
 
 ---
 
@@ -26,12 +26,26 @@ Erfahren Sie, wie die Synchronisierung mit Microsoft Dynamics 365 funktioniert, 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424737/?learn=on)
 
-## Weitere Ressourcen
+## Im Video verwendete Links
 
 * [Grundlagen zur Synchronisierung von Microsoft Dynamics](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/understanding-the-microsoft-dynamics-sync.html)
 
-* [Einrichten der Microsoft Dynamics-Synchronisierung](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/download-the-marketo-lead-management-solution.html)
+* [Marketo-Lead-Management-Lösung herunterladen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/download-the-marketo-lead-management-solution.html)
+
+* [Aktualisieren der Marketo-Lösung für Microsoft Dynamics](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.html)]
+
+* [Erteilen der Zustimmung für die Kunden-ID und App-Registrierung](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/grant-consent-for-client-id-and-app-registration.html)
+
+* [Überprüfen der Synchronisierung mit Microsoft Dynamics](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/validate-microsoft-dynamics-sync.html)
 
 * [Synchronisierungsstatus](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/sync-status.html)
 
 * [Synchronisierungsprobleme bei der Dynamics-Überprüfung beheben](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/fix-dynamics-validation-sync-issues.html)
+
+* [Erstellen eines benutzerdefinierten Synchronisierungsfilters für Dynamics](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynmaics-sync-filter-details/create-a-custom-dynamics-sync-filter.html)
+
+* [Anzeigen der Organisationsdienst-URL](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/view-the-organization-service-url.html)
+
+* [Zu synchronisierende Felder vor dem Löschen in Dynamics bearbeiten](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/editing-fields-to-sync-before-deleting-them-in-dynamics.html)
+
+* [Tutorial: Informationen zur Synchronisierung von Marketo mit Ihrem CRM-System](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html)
