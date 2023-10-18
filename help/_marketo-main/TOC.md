@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-Tutorials
 auto-video-transcripts: true
-source-git-commit: 0a5330152f2bf8326c8642e09cc7ba6099869283
+source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '321'
 ht-degree: 12%
 
 ---
@@ -69,13 +69,15 @@ ht-degree: 12%
    + [Gehen Sie zur Web-Personalisierung durch](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
    + [Dynamic Chat-Tutorials](/help/dynamic-chat/dynamic-chat-overview.md)
-   + [Produkttour](/help/dynamic-chat/product-tour.md)
+   + [Produkttournee [2023]](/help/dynamic-chat/product-tour.md)
+   + [Produkttournee [2022]](/help/dynamic-chat/product-tour-2022.md)
    + [Einrichtung und Installation](/help/dynamic-chat/setup.md)
    + [Marketo-Integration](/help/dynamic-chat/marketo-integration.md)
    + [Benutzerverwaltung](/help/dynamic-chat/user-management.md)
    + [Konversationsformulare](/help/dynamic-chat/conversational-forms.md)
+   + [Konversations-SDK](/help/dynamic-chat/conversations-sdk.md)
    + [Dialogverwaltung](/help/dynamic-chat/dialogue-management.md)
-   + [Live-Chat einrichten](/help/dynamic-chat/set-up-live-chat.md)
+   + [Besucher mit Live-Agenten verbinden](/help/dynamic-chat/connect-visitors-to-live-agents.md)
    + [Agenten-Verwaltung](/help/dynamic-chat/agent-management.md)
    + [Konferenzbuchungen](/help/dynamic-chat/meeting-booking.md)
    + [In 15 Minuten live gehen](/help/dynamic-chat/go-live-in-15-minutes.md)
