@@ -9,7 +9,7 @@ last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
-source-git-commit: b2659102b57cf86f89d524f4786d3101800a0a38
+source-git-commit: 96ec338944d486b74ac77d91aba3ede482abf135
 workflow-type: tm+mt
 source-wordcount: '433'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Fehler bei der CRM-Synchronisierung zur einfachen Fehlerbehebung
 
-Als Marketo Engage-Administrator sollte die Überprüfung, ob Ihre Instanz mit Ihrem CRM-System synchronisiert ist, ein wichtiger Teil Ihrer [tägliche Routine](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (finden Sie es in der oberen rechten Ecke Ihrer Marketo Engage-Oberfläche), wo Sie häufige Synchronisierungsprobleme finden und untersuchen werden. Es gibt einen prop-Tipp, der Ihnen bei der Organisation des Instanzstatus helfen könnte.  Adobe Marketo Champion (2022), empfiehlt Amy Goldfine, dass Admin-Benutzer ein Protokoll mit CRM-Synchronisierungsfehlern aufbewahren, um die Fehlerbehebung zu vereinfachen.
+Als Marketo Engage-Administrator sollte die Überprüfung, ob Ihre Instanz mit Ihrem CRM-System synchronisiert ist, ein wichtiger Teil Ihrer [tägliche Routine](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (finden Sie es in der oberen rechten Ecke Ihrer Marketo Engage-Oberfläche), wo Sie häufige Synchronisierungsprobleme finden und untersuchen werden. Es gibt einen prop-Tipp, der Ihnen bei der Organisation des Instanzstatus helfen könnte. Adobe Marketo Champion (2019-2022), Amy Goldfine empfiehlt Admin-Benutzern, ein Protokoll mit CRM-Synchronisierungsfehlern zu führen, um die Fehlerbehebung zu vereinfachen.
 
 ![Screenshot der Registerkarte &quot;Synchronisierungsfehler&quot;](/help/tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
