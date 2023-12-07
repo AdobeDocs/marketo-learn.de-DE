@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-Tutorials
 auto-video-transcripts: true
-source-git-commit: e131a83a6314b77d842b003824b9e33649ab224c
+source-git-commit: 0ec4c6cada3b33a40b9e29a8dfaa3360208e589d
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 12%
+source-wordcount: '322'
+ht-degree: 10%
 
 ---
 
@@ -87,7 +87,6 @@ ht-degree: 12%
    + [Dialogvorschau](/help/dynamic-chat/dialogue-preview.md)
    + [Interaktionsbericht](/help/dynamic-chat/engagement-report.md)
    + [Globalisierung statischer Inhalte](/help/dynamic-chat/globalization-of-static-content.md)
-   + [Rollen und Berechtigungen](/help/dynamic-chat/roles-and-permissions.md)
 + Sales Insight-Aktionen {#sales-insight-actions}
    + [Überblick](/help/sales-insight-actions/overview.md)
    + [Sales Insight-Aktionen - Übersicht](/help/sales-insight-actions/sales-insight-actions-overview.md)
@@ -101,11 +100,11 @@ ht-degree: 12%
    + [CRM-Synchronisation](/help/lead-and-data-management/crm-sync-learn.md)
    + [Lead-Lebenszyklus](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [Lead-Lebenszyklusdurchlauf](/help/lead-and-data-management/lead-lifecycle-watch.md)
-+ -Ereignisse{#events}
++ Veranstaltungen {#events}
    + [Beispiel für Ereignisse](/help/events/events-watch.md)
    + [Ereignisprogramm erstellen](/help/events/events-learn.md)
    + [Webinare](/help/events/webinar-learn.md)
-   + [Webinare durchgehen](/help/events/webinar-watch.md)
+   + [Webinare-Einführung](/help/events/webinar-watch.md)
    + [Effektives interaktives Webinar erstellen](/help/events/design-an-effective-interactive-webinar.md)
 + Berichterstellung und Analyse {#reporting}
    + [Berichterstellung und Analyse](/help/reporting/reporting-and-analytics.md)

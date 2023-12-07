@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
+source-git-commit: 0ec4c6cada3b33a40b9e29a8dfaa3360208e589d
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 9%
+source-wordcount: '392'
+ht-degree: 8%
 
 ---
 
@@ -33,9 +33,7 @@ Willkommen bei der [!UICONTROL Dynamic Chat]  Tutorials-Site. Verwenden Sie dies
      *Richten Sie Ihre Webbesucher mit Konversationen aus und personalisieren Sie sie mit Lead-Informationen aus Marketo.*
    * **[Hinzufügen und Verwalten von Benutzern [!UICONTROL Dynamic Chat]](user-management.md)**
      *Erfahren Sie, wie Sie Benutzer hinzufügen und verwalten in [!UICONTROL Dynamic Chat] .*
-   * **[Rollen und Berechtigungen](roles-and-permissions.md)**
-     *Erfahren Sie, wie Sie neue Rollen erstellen und Berechtigungen für Ihre Dynamic Chat-Benutzer festlegen können.*
-   * **[Agenten-Verwaltung](agent-management.md)**
+   * **[Agentenverwaltung](agent-management.md)**
      *Erfahren Sie, wie Sie Agenten verwalten.*
 * Automatisierter Chat
    * **[Personalisierte Dialogfelder erstellen und verwalten](dialogue-management.md)**
@@ -50,7 +48,7 @@ Willkommen bei der [!UICONTROL Dynamic Chat]  Tutorials-Site. Verwenden Sie dies
      *Die Vorschau Ihres Dialogfelds vor der Veröffentlichung ist mit der Funktion &quot;Dialogvorschau&quot;sehr einfach.*
    * **[Globalisierung statischer Inhalte](globalization-of-static-content.md)**
      *Sie können statische/Systeminhalte in die Sprache Ihrer Wahl personalisieren.*
-   * **[Konversationsformulare](conversational-forms.md)**
+   * **[Conversation Forms](conversational-forms.md)**
      *Erfahren Sie, wie Sie Besucher Ihrer Website unmittelbar nach dem Ausfüllen eines Formulars ansprechen können.*
    * **[Konversations-SDK](conversations-sdk.md)**
      *Erfahren Sie, wie Sie das Conversations SDK implementieren, um jeden CTA-Klick in eine ansprechende Konversation zu konvertieren.*
