@@ -3,7 +3,7 @@ user-guide-title: Marketo Engage-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-Tutorials
 auto-video-transcripts: true
-source-git-commit: 5b5a85ecff06d79143be92096083e0e9be5da919
+source-git-commit: 8bfe4ab10393f5a9f97666aa13e183dbb664b055
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 10%
@@ -47,7 +47,7 @@ ht-degree: 10%
    + [Anleitung für Gated Content](/help/email-marketing/gated-content-offer-watch.md)
    + [A/B-Tests](/help/email-marketing/ab-testing-learn.md)
    + [A/B-Tests - schrittweise Anleitung](/help/email-marketing/ab-testing-watch.md)
-   + [Landing Pages](/help/email-marketing/landing-pages-learn.md)
+   + [Landingpages](/help/email-marketing/landing-pages-learn.md)
    + [Durchsicht bei Landingpages](/help/email-marketing/landing-pages-watch.md)
    + [Formulare](/help/email-marketing/forms-learn.md)
    + [Email Deliverability](/help/email-marketing/email-deliverability-learn.md)
@@ -98,6 +98,8 @@ ht-degree: 10%
    + [Abonnement-Center](/help/lead-and-data-management/subscription-center-learn.md)
    + [Beispiel für ein Abonnement-Center](/help/lead-and-data-management/subscription-center-watch.md)
    + [CRM-Synchronisation](/help/lead-and-data-management/crm-sync-learn.md)
+   + [Erste Schritte mit der Salesforce-Synchronisation](/help/integrations/salesforce-sync-setup.md)
+   + [Erste Schritte mit der Synchronisierung mit Microsoft Dynamics](/help/integrations/microsoft-dynamics-sync-setup.md)
    + [Lead-Lebenszyklus](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [Lead-Lebenszyklusdurchlauf](/help/lead-and-data-management/lead-lifecycle-watch.md)
 + Veranstaltungen {#events}
@@ -110,6 +112,4 @@ ht-degree: 10%
    + [Berichterstellung und Analyse](/help/reporting/reporting-and-analytics.md)
    + [Wichtige Berichte](/help/reporting/key-reports.md)
 + Integrationen {#integrations}
-   + [Erste Schritte mit der Salesforce-Synchronisation](/help/integrations/salesforce-sync-setup.md)
-   + [Erste Schritte mit der Synchronisierung mit Microsoft Dynamics](/help/integrations/microsoft-dynamics-sync-setup.md)
    + [Marketo mit Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
