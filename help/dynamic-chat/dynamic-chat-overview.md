@@ -6,9 +6,9 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 0ec4c6cada3b33a40b9e29a8dfaa3360208e589d
+source-git-commit: c8ab7a7c94024acf062215ab6f0c1f0de2144ba0
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '406'
 ht-degree: 8%
 
 ---
@@ -57,6 +57,9 @@ Willkommen bei der [!UICONTROL Dynamic Chat]  Tutorials-Site. Verwenden Sie dies
      *Verbinden Sie Ihre qualifizierten Leads, um sofort mit Ihren Vertriebsmitarbeitern zu interagieren.*
    * **[Ermöglichen Sie es Ihren Leads, Meetings mit Ihrem Vertrieb zu buchen](meeting-booking.md)**
      *Beschleunigen Sie die Verbindung mit den Verkäufen für diese [!DNL target] Konten mit Buchungsfunktionen für Meetings.*
+* Generativer KI-Chat
+   * **[Förderung von durch GenAI gestützten Konversationen](gen-ai-features.md)**
+     *Erfahren Sie, wie Sie Dynamic Chat GenAI-Funktionen verwenden.*
 * Analytics
    * **[Interaktionsbericht](engagement-report.md)**
      *Trends der Interaktion Ihrer Webbesucher mit Ihrem Dialogfeld sehen*
