@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-Tutorials
 auto-video-transcripts: true
-source-git-commit: 9c68f357b0bddd62661a1b12e154f1de8fe0498c
+source-git-commit: 74b4a255c218fd12a2ff72606212d8a748d94d81
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '362'
 ht-degree: 9%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 9%
    + [Best Practices zum Organisieren einer neuen Instanz](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Best Practices für die Erstellung von Gründungsprogrammen](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Personalisieren mit Token](/help/personalization/personalize-with-tokens.md)
-   + [Tipps und Tricks zur Implementierung einer neuen Instanz](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
+   + [Neue Instanz implementieren](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [Prüfen einer geerbten Instanz - Tutorial](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + Programme und Kampagnen {#programs-and-campaigns}
    + [Programme und Kampagnen](/help/programs/understanding-programs-and-campaigns.md)
