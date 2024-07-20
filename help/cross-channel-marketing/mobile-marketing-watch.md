@@ -1,6 +1,6 @@
 ---
 title: Integration von Mobile Marketing in Marketo
-description: Sehen Sie sich an, wie Sie Käuferpersonen erstellen, KPIs festlegen, Ihre Kommunikationskapazität bestimmen und verwenden [!DNL Marketo’s] Marketingkalender und mehr zur Verbesserung Ihrer Mobile Marketing-Strategie.
+description: Sehen Sie sich an, wie Sie Käuferrollen erstellen, KPIs festlegen, Ihre Kommunikationskapazität festlegen, den [!DNL Marketo’s] Marketingkalender verwenden und vieles mehr, um Ihre mobile Marketingstrategie zu verbessern.
 role: User
 level: Beginner
 jira: KT-10729
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Integrieren von mobilem Marketing mit Marketo
 
-Sehen Sie sich an, wie Sie Käuferpersonen erstellen, KPIs festlegen, Ihre Kommunikationskapazität bestimmen und die Variable [!DNL Marketo] Marketingkalender und mehr zur Verbesserung Ihrer Mobile Marketing-Strategie.
+Sehen Sie sich an, wie Sie Käuferrollen erstellen, KPIs festlegen, Ihre Kommunikationskapazität festlegen, den [!DNL Marketo] Marketing-Kalender verwenden und vieles mehr, um Ihre mobile Marketingstrategie zu verbessern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on){transcript=true}

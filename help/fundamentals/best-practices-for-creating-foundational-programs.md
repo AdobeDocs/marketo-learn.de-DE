@@ -11,8 +11,8 @@ feature: Programs
 exl-id: 2b850b08-3e9d-4bfb-8ac1-21fd9bdeaf83
 source-git-commit: b614aa134ee0ccbbfd70c6ab73339287d6ebb27a
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 5%
+source-wordcount: '99'
+ht-degree: 2%
 
 ---
 
@@ -31,4 +31,4 @@ Lernen Sie die vier Programmtypen kennen, wie Sie Programme importieren, Lead-/P
 * [Best Practices: So organisieren Sie Ihre Programme](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html)
 * [Programm importieren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html)
 * [Grundlegendes zu Tags](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html)
-* [Der definitive Leitfaden zum Lead-Scoring](https://business.adobe.com/resources/guides/lead-scoring.html)
+* [Der endgültige Leitfaden für die Lead-Bewertung](https://business.adobe.com/resources/guides/lead-scoring.html)

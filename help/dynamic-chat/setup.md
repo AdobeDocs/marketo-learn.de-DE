@@ -1,6 +1,6 @@
 ---
 title: Einrichten und Installieren des Chat-Bots
-description: Erfahren Sie, wie Sie [!UICONTROL Dynamic Chat] zur erstmaligen Verwendung.
+description: Erfahren Sie, wie Sie [!UICONTROL Dynamic Chat] für die erste Verwendung einrichten und konfigurieren.
 role: User
 level: Beginner
 jira: KT-9693
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Einrichten und Installieren des Chat-Bots
 
-Eine Anleitung zur Installation von Chatbot-JavaScript auf Ihrer Website oder Landingpage und zur Anpassung des Erscheinungsbilds an Ihre Marke.
+Eine Anleitung, die Ihnen dabei hilft, Chatbot JavaScript auf Ihrer Website oder Landingpage zu installieren und das Erscheinungsbild an Ihre Marke anzupassen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340257/?quality=12&learn=on){transcript=true}
 
@@ -24,4 +24,4 @@ Eine Anleitung zur Installation von Chatbot-JavaScript auf Ihrer Website oder La
 
 * [Aktivieren der Marketo-Integration mit Dynamic Chat](marketo-integration.md)
 * [Personalisierte Dialogfelder erstellen und verwalten](dialogue-management.md)
-* [Hinzufügen und Verwalten von Benutzern [!UICONTROL Dynamic Chat]](user-management.md)
+* [Benutzer von [!UICONTROL Dynamic Chat] hinzufügen und verwalten](user-management.md)

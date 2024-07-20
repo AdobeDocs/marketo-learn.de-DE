@@ -1,6 +1,6 @@
 ---
 title: Tutorials zu Sales Insight-Aktionen
-description: Verwendung [!UICONTROL Sales Insight-Aktionen] die Suche mit marketinggestützten Intelligenz- und Interaktionswerkzeugen in einem einzigen Workflow zu beschleunigen.
+description: Verwenden Sie [!UICONTROL Sales Insight-Aktionen], um die Prospektion mit Marketing-gestützten Intelligence- und Interaktionswerkzeugen in einem einzigen Workflow zu beschleunigen.
 doc-type: overview-page
 role: User, Admin, Leader
 level: Beginner, Intermediate, Experienced
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/header.png)
 
-Verwendung [!UICONTROL Sales Insight-Aktionen] die Suche mit marketinggestützten Intelligenz- und Interaktionswerkzeugen in einem einzigen Workflow zu beschleunigen.
+Verwenden Sie [!UICONTROL Sales Insight-Aktionen], um die Prospektion mit Marketing-gestützten Intelligence- und Interaktionswerkzeugen in einem einzigen Workflow zu beschleunigen.
 
 ## Vorgestellte Tutorials {#featured-tutorials}
 
@@ -29,11 +29,11 @@ Verwendung [!UICONTROL Sales Insight-Aktionen] die Suche mit marketinggestützte
 </td>
 <td>
 <a href="/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><img alt="Miniaturbild für den Zugriff auf Ihre Instanz Ihrer Sales Insight-Aktionen" src="assets/accessing-your-sales-insight-actions-instance-videothumb.png" /></a>
-<div><a href="/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><strong>Zugriff auf Ihre Sales Insight-Aktionsinstanz</strong></a></div>
+<div><a href="/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><strong>Zugriff auf Ihre Instanz mit Sales Insight-Aktionen</strong></a></div>
 </td>
 <td>
 <a href="/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><img alt="Miniaturbild für die Konfiguration der Protokollierung von Verkaufsaktivitäten in [!DNL Salesforce]" src="assets/configure-sales-activity-logging-to-salesforce-videothumb.png" /></a>
-<div><a href="/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><strong>Konfigurieren der Protokollierung von Verkaufsaktivitäten für [!DNL Salesforce]</strong></a></div>
+<div><a href="/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><strong>Konfigurieren der Protokollierung von Verkaufsaktivitäten in [!DNL Salesforce]</strong></a></div>
 </td>
 </tr>
 </table>
@@ -48,13 +48,13 @@ Verwendung [!UICONTROL Sales Insight-Aktionen] die Suche mit marketinggestützte
 <p><em>Mit marketinggestützten Intelligenz- und Interaktionswerkzeugen beschleunigen Sie die Projekterkundung.</em></p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><img alt="Miniaturbild für [!DNL Sales Insight Actions] Benutzerhandbuch zur Einbindung" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><strong>[!DNL Sales Insight Actions] Benutzerhandbuch zur Einbindung</strong></a></div>
+<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><img alt="Miniaturbild für [!DNL Sales Insight Actions] User Onboarding Guide" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><strong>[!DNL Sales Insight Actions] Benutzerhandbuch für Onboarding</strong></a></div>
 <p><em>Schritte, die neue Benutzer für die ersten Schritte ausführen müssen.</em></p>
 </td>
 <td>
 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.html"><img alt="Miniaturbild für Aktionen Häufig gestellte Fragen zur Datensynchronisierung" src="assets/actions-data-sync-faq-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.html"><strong>Häufig gestellte Fragen zur Datensynchronisation von Aktionen</strong></a></div>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.html"><strong>Häufig gestellte Fragen zur Datensynchronisierung von Aktionen</strong></a></div>
 <p><em>Häufig gestellte Fragen zur Funktionsweise der Synchronisierung von Daten.</em></p>
 </td>
 </tr>

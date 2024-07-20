@@ -1,6 +1,6 @@
 ---
-title: Konfigurieren der Protokollierung von Verkaufsaktivitäten für [!DNL Salesforce]
-description: Konfigurieren der Protokollierung von Verkaufsaktivitäten für [!DNL Salesforce]
+title: Konfigurieren der Verkaufsaktivität-Protokollierung auf  [!DNL Salesforce]
+description: Konfigurieren der Verkaufsaktivität-Protokollierung auf  [!DNL Salesforce]
 role: User
 level: Beginner
 exl-id: a48410aa-cd68-46b2-bd52-1a7253470e74
@@ -12,13 +12,13 @@ ht-degree: 0%
 
 ---
 
-# Konfigurieren der Protokollierung von Verkaufsaktivitäten für [!DNL Salesforce] {#configure-sales-activity-logging-to-salesforce}
+# Konfigurieren der Protokollierung von Verkaufsaktivitäten auf [!DNL Salesforce] {#configure-sales-activity-logging-to-salesforce}
 
-Erfahren Sie, wie Sie Sales Insight-Aktionen-Aktivitäten konfigurieren und für Ihre [!DNL Salesforce] -Konto.
+Erfahren Sie, wie Sie die Aktivitäten von Sales Insight Actions konfigurieren und in Ihrem [!DNL Salesforce] -Konto protokollieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on){transcript=true}
 
 ## Verwandte Videos
 
 * [Sales Insight-Aktionen - Überblick](/help/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
-* [Zugriff auf Ihre [!DNL Sales Insight Actions] Instanz](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
+* [Zugreifen auf Ihre [!DNL Sales Insight Actions] Instanz](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}

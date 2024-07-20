@@ -1,6 +1,6 @@
 ---
 title: Informationen zum Erstellen eines Personen-Lebenszyklusprogramms
-description: Wissen Sie, wie viele Leads sich in jeder Phase der Käufer-Journey befinden und wann der Vertrieb sie kontaktieren sollte? Erfahren Sie mehr über das Erstellen eines [!UICONTROL Personen-Lebenszyklus] -Programm, das Scoring verwendet, um Einblicke darüber zu erhalten, wo sich Ihre Leads in ihrer Journey befinden.
+description: Wissen Sie, wie viele Leads sich in jeder Phase der Käufer-Journey befinden und wann der Vertrieb sie kontaktieren sollte? Erfahren Sie, wie Sie ein [!UICONTROL Personen-Lebenszyklus]-Programm erstellen, das mithilfe von Scoring Einblicke darüber erhält, wo sich Ihre Leads in ihrer Journey befinden.
 role: User
 level: Beginner
 jira: KT-10738
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Informationen zum Erstellen eines Personen-Lebenszyklusprogramms
 
-Wissen Sie, wie viele Leads sich in jeder Phase der Käufer-Journey befinden und wann der Vertrieb sie kontaktieren sollte? Erfahren Sie mehr über das Erstellen eines [!UICONTROL Personen-Lebenszyklus] -Programm, das Scoring verwendet, um Einblicke darüber zu erhalten, wo sich Ihre Leads in ihrer Journey befinden.
+Wissen Sie, wie viele Leads sich in jeder Phase der Käufer-Journey befinden und wann der Vertrieb sie kontaktieren sollte? Erfahren Sie, wie Sie ein [!UICONTROL Personen-Lebenszyklus]-Programm erstellen, das mithilfe von Scoring Einblicke darüber erhält, wo sich Ihre Leads in ihrer Journey befinden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345422/?quality=12&learn=on){transcript=true}

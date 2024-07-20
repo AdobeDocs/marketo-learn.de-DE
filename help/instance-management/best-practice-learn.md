@@ -1,6 +1,6 @@
 ---
-title: Informationen zur Verwendung von [!DNL Marketo] Best Practices für Instanz und Programm
-description: Folgende [!DNL Marketo's] empfohlene Best Practices für die Organisation Ihrer Programme und Ihrer Instanz können Ihnen und Ihren Kollegen dabei helfen, zu finden, was Sie in Ihrer Instanz benötigen, wenn Sie es benötigen, und helfen Ihnen, Ihre Berichte genauer zu gestalten.
+title: Erfahren Sie mehr über die Verwendung von Best Practices für Instanzen und Programme [!DNL Marketo]
+description: Die Einhaltung der [!DNL Marketo's] empfohlenen Best Practices für die Organisation Ihrer Programme und Ihrer Instanz kann Ihnen und Ihren Kollegen bei der Suche nach dem, was Sie in Ihrer Instanz benötigen, helfen und Ihre Berichterstellung präziser gestalten.
 role: User
 level: Beginner
 jira: KT-10736
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Informationen zur Verwendung von [!DNL Marketo] Best Practices für Instanz und Programm
+# Erfahren Sie mehr über die Verwendung der [!DNL Marketo]-Instanz und die Best Practices für das Programm
 
-Folgende [!DNL Marketo's] empfohlene Best Practices für die Organisation Ihrer Programme und Ihrer Instanz können Ihnen und Ihren Kollegen dabei helfen, zu finden, was Sie in Ihrer Instanz benötigen, wenn Sie es benötigen, und helfen Ihnen, Ihre Berichte genauer zu gestalten.
+Befolgen Sie die von [!DNL Marketo's] empfohlenen Best Practices für die Organisation Ihrer Programme und Ihrer Instanz und können Sie und Ihre Kollegen bei der Suche nach dem, was Sie in Ihrer Instanz benötigen, unterstützen und dabei helfen, Ihre Berichte genauer zu gestalten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345420/?quality=12&learn=on){transcript=true}

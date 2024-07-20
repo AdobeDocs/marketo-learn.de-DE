@@ -1,5 +1,5 @@
 ---
-title: Erfahren Sie mehr über das Erstellen und Ausführen [!UICONTROL Lead] Pflegekampagnen
+title: Erfahren Sie, wie Sie [!UICONTROL lead] -Pflegekampagnen erstellen und ausführen
 description: Mit der Betreuung von Personen können Sie auf die Bedürfnisse von Einzelpersonen hören und mit relevanten Inhalten während ihrer individuellen Käufer-Journey reagieren. Erfahren Sie mehr über Pflegeprogramme, ihre Funktionsweise und Erfolgsschritte.
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Erfahren Sie mehr über das Erstellen und Ausführen [!UICONTROL Lead] Pflegekampagnen
+# Erfahren Sie, wie Sie [!UICONTROL lead] -Pflegekampagnen erstellen und ausführen
 
-Mit [!UICONTROL Personen-Pflege], können Sie auf die Bedürfnisse von Einzelpersonen hören und mit relevanten Inhalten auf ihrer gesamten Unique Buyer-Journey reagieren. Erfahren Sie mehr über Pflegeprogramme, ihre Funktionsweise und Erfolgsschritte.
+Mit [!UICONTROL Personen, die ] pflegen, können Sie die Bedürfnisse von Einzelpersonen überwachen und mit relevanten Inhalten während der gesamten individuellen Käufer-Journey reagieren. Erfahren Sie mehr über Pflegeprogramme, ihre Funktionsweise und Erfolgsschritte.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345478/?quality=12&learn=on){transcript=true}

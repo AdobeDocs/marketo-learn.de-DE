@@ -9,7 +9,7 @@ exl-id: 0cf8cd90-04eb-486b-aea6-10c6b8f62298
 feature: Programs, Events
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Erfahren Sie, wie Sie ein Messeereignisprogramm erstellen, das auf einem vordefi
 
 Weitere Informationen zum Erstellen eines Ereignisprogramms finden Sie im Produkthandbuch:
 
-* [Erstellen der Dokumentation zum neuen Ereignisprogramm](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=en)
+* [Erstellen der Dokumentation zum Programm für neue Ereignisse](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=en)

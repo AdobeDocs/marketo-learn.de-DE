@@ -26,4 +26,4 @@ Eine schnelle Suche hilft Ihnen, mit nur einem Klick zu einer beliebigen Karte i
 
 * [Dialogvorschau](dialogue-preview.md)
 * [Personalisierte Dialogfelder erstellen und verwalten](dialogue-management.md)
-* [Aktivieren Sie Ihre Marketo-Integration mit [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [Aktivieren der Marketo-Integration mit [!UICONTROL Dynamic Chat]](marketo-integration.md)

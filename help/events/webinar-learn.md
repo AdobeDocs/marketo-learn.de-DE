@@ -1,6 +1,6 @@
 ---
 title: Erfahren Sie mehr über das Erstellen und Ausführen eines Webinarprogramms
-description: Sind Sie bereit, ein Webinar im Rahmen Ihrer Marketingaktivitäten durchzuführen? Erfahren Sie, wie Webinare mit [!DNL Marketo Engage] und seinen Adobe Exchange-Webinarpartnern.
+description: Sind Sie bereit, ein Webinar im Rahmen Ihrer Marketingaktivitäten durchzuführen? Erfahren Sie, wie Webinare mit [!DNL Marketo Engage] und seinen Adobe Exchange-Webinar-Partnern funktionieren.
 role: User
 level: Beginner
 jira: KT-10758
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Erfahren Sie mehr über das Erstellen und Ausführen eines Webinarprogramms
 
-Sind Sie bereit, ein Webinar im Rahmen Ihrer Marketingaktivitäten durchzuführen? Erfahren Sie, wie Webinare mit [!DNL Marketo Engage] und seinen Adobe Exchange-Webinarpartnern.
+Sind Sie bereit, ein Webinar im Rahmen Ihrer Marketingaktivitäten durchzuführen? Erfahren Sie, wie Webinare mit [!DNL Marketo Engage] und seinen Adobe Exchange-Webinar-Partnern funktionieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345476/?quality=12&learn=on){transcript=true}

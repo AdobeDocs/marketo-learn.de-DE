@@ -22,6 +22,6 @@ Die Erstellung zielgerichteter und personalisierter Konversationen ist der Schl�
 
 ## Weitere hilfreiche Videos
 
-* [Hinzufügen und Verwalten von Benutzern [!UICONTROL Dynamic Chat]](user-management.md)
+* [Benutzer von [!UICONTROL Dynamic Chat] hinzufügen und verwalten](user-management.md)
 * [Aktivieren der Marketo-Integration mit Dynamic Chat](marketo-integration.md)
 * [Ermöglichen Sie es Ihren Leads, Meetings mit Ihrem Vertrieb zu buchen](meeting-booking.md)

@@ -1,6 +1,6 @@
 ---
 title: Informationen zum Erstellen und Bearbeiten von Formularen
-description: Verwendung [!DNL Marketo forms] , um Personendaten progressiv zu erfassen, wenn Interessenten Ihre Website besuchen.
+description: Verwenden Sie [!DNL Marketo forms] , um Personendaten progressiv zu erfassen, wenn potenzielle Kunden Ihre Website besuchen.
 role: User
 level: Beginner
 jira: KT-10755
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Informationen zum Erstellen und Bearbeiten von Formularen
 
-Verwendung [!DNL Marketo forms] , um Personendaten progressiv zu erfassen, wenn Interessenten Ihre Website besuchen.
+Verwenden Sie [!DNL Marketo forms] , um Personendaten progressiv zu erfassen, wenn potenzielle Kunden Ihre Website besuchen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345474/?quality=12&learn=on){transcript=true}

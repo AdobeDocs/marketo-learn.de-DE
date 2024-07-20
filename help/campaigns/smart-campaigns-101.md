@@ -30,7 +30,7 @@ Smart-Kampagnen sind die Engine von Marketo. Neben der Verwendung von Smart-Kamp
 
 * [Dokumentation zu Smart-Kampagnen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
 
-**Blog-Beiträge von Experten:**
+**Kunden-Blog-Beiträge mit Experten:**
 
-* [Smart Campaigns 101: Ein tiefer Einblick in die leistungsfähigste Funktion von Adobe Marketo Engage](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
+* [Smart-Kampagnen 101: Ein tiefer Einblick in die leistungsfähigste Funktion von Adobe Marketo Engage](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
 * [Marketo-Erfolgsserie: Smart-Kampagnen](https://nation.marketo.com/t5/product-blogs/marketo-success-series-smart-campaigns/ba-p/306961)

@@ -1,5 +1,5 @@
 ---
-title: Verwendung [!DNL Marketo] Best Practices für Instanz und Programm
+title: Verwendung der Best Practices für Instanzen und Programme [!DNL Marketo]
 description: Erfahren Sie, wie Sie die von Marketo vorgeschlagenen Best Practices für Programm und Instanz in Marketo implementieren.
 role: User
 level: Beginner
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Verwendung [!DNL Marketo] Best Practices für Instanz und Programm
+# Verwenden der Best Practices für die [!DNL Marketo]-Instanz und das Programm
 
 Erfahren Sie, wie Sie die von Marketo vorgeschlagenen Best Practices für Programm und Instanz in Marketo implementieren.
 

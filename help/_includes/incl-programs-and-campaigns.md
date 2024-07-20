@@ -1,7 +1,7 @@
 ---
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ Programme stellen eine einzige Marketinginitiative dar. Erfahren Sie, wie Sie si
 
 Weitere Informationen finden Sie in den entsprechenden Produkthandbüchern:
 
-* [Informationen zur Programmdokumentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=en)
+* [Grundlegendes zur Programmdokumentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=en)
 * [Dokumentation zu Smart-Kampagnen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
 
 Erfahren Sie von Ihren Kollegen, wie Sie Smart-Kampagnen verwenden:

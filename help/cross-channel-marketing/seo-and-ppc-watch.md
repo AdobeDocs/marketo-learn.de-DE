@@ -1,5 +1,5 @@
 ---
-title: Optimierung Ihrer SEO-Bemühungen mit [!DNL Marketo]
+title: So optimieren Sie Ihre SEO-Bemühungen mit [!DNL Marketo]
 description: Sehen Sie sich an, wie Sie Erfolgsschritte implementieren, um vorteilhafte SEO- und PPC-Strategien zu entwickeln.
 role: User
 level: Beginner
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Optimierung Ihrer SEO-Bemühungen mit [!DNL Marketo]
+# So optimieren Sie Ihre SEO-Bemühungen mit [!DNL Marketo]
 
 Sehen Sie sich an, wie Sie Erfolgsschritte implementieren, um vorteilhafte SEO- und PPC-Strategien zu entwickeln.
 

@@ -11,7 +11,7 @@ ht-degree: 9%
 ---
 
 
-# [!DNL Marketo Engage] Übungen {#tutorials}
+# [!DNL Marketo Engage] Tutorials {#tutorials}
 
 + [[!DNL Marketo Engage]-Tutorials](/help/_marketo-main/overview.md)
 + Grundlagen {#fundamentals}
@@ -26,7 +26,7 @@ ht-degree: 9%
    + [Best Practices für die Erstellung von Gründungsprogrammen](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Personalisieren mit Token](/help/personalization/personalize-with-tokens.md)
    + [Implementieren einer neuen Instanz - Tutorial](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
-   + [Prüfen einer geerbten Instanz - Tutorial](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
+   + [Audit an inherited instance - Tutorial](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + Programme und Kampagnen {#programs-and-campaigns}
    + [Programme und Kampagnen](/help/programs/understanding-programs-and-campaigns.md)
    + [Smart-Kampagnen 101](/help/campaigns/smart-campaigns-101.md)
@@ -36,7 +36,7 @@ ht-degree: 9%
       + [Standardprogramm erstellen und messen](/help/programs/create-and-measure-default-programs.md)
       + [Nutzung der Flexibilität von Standardprogrammen](/help/programs/leverage-the-flexibility-of-default-programs.md)
    + [Engagementprogramme](/help/programs/engagement-programs.md)
-   + Interaktionskarten {#engagement-maps}
+   + Interaktionszuordnungen {#engagement-maps}
       + [Interaktionsübersicht](/help/engagement-maps/engagement-map-overview.md)
       + [Interaktionszuordnung für verschachtelte Kampagnen](/help/engagement-maps/engagement-map-nested-campaign.md)
       + [Fehlererkennung und Auflösung von Interaktionskarten](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
@@ -96,8 +96,8 @@ ht-degree: 9%
    + [Überblick](/help/sales-insight-actions/overview.md)
    + [Sales Insight-Aktionen - Übersicht](/help/sales-insight-actions/sales-insight-actions-overview.md)
    + [Zugriff auf Ihre Instanz mit Sales Insight-Aktionen](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [Konfigurieren der Protokollierung von Verkaufsaktivitäten in [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
-+ Lead- und Daten-Management {#lead-and-data-management}
+   + [Konfigurieren der Protokollierung von Verkaufsaktivitäten auf  [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
++ Lead- und Datenverwaltung {#lead-and-data-management}
    + [Lead-/Personenscoring](/help/lead-and-data-management/lead-scoring-learn.md)
    + [Durchgang bei Lead-/Personenbewertungen](/help/lead-and-data-management/lead-scoring-watch.md)
    + [Abonnement-Center](/help/lead-and-data-management/subscription-center-learn.md)
@@ -107,7 +107,7 @@ ht-degree: 9%
    + [Erste Schritte mit der Synchronisierung mit Microsoft Dynamics](/help/integrations/microsoft-dynamics-sync-setup.md)
    + [Lead-Lebenszyklus](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [Lead-Lebenszyklusdurchlauf](/help/lead-and-data-management/lead-lifecycle-watch.md)
-+ Veranstaltungen {#events}
++ Ereignisse {#events}
    + [Beispiel für Ereignisse](/help/events/events-watch.md)
    + [Ereignisprogramm erstellen](/help/events/events-learn.md)
    + [Webinare](/help/events/webinar-learn.md)

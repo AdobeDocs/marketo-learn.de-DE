@@ -20,5 +20,5 @@ Mit Marketing-gestützten Intelligenz- und Interaktionswerkzeugen können Sie mi
 
 ## Verwandte Videos
 
-* [Konfigurieren der Protokollierung von Verkaufsaktivitäten für [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
-* [Zugriff auf Ihre [!DNL Sales Insight Actions] Instanz](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
+* [Konfigurieren der Verkaufsaktivität-Protokollierung auf  [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
+* [Zugreifen auf Ihre [!DNL Sales Insight Actions] Instanz](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
