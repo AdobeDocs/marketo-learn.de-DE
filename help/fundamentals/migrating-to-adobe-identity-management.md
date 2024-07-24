@@ -7,9 +7,9 @@ hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: f6ae52b43770789c24237f0bc664d33541469a50
+source-git-commit: fe760c2fc53b96d5c176de377730bce2e89dbc74
 workflow-type: tm+mt
-source-wordcount: '1089'
+source-wordcount: '1079'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ Nachfolgend finden Sie eine Beispiel-E-Mail, die Sie an Ihre Systemadministrator
 
 Sehr geehrte `[IT Administrator/NAME]`,
 
-Unser Marketo Engage-Abonnement wird bald in das Adobe Identity Management System migriert. Das [Marketing-Kampagnenteam] benötigt Ihre Hilfe, um einige erforderliche Schritte vor Beginn der Benutzermigration durchzuführen und die Auswirkungen auf Marketo Engage-Benutzer zu minimieren
+Unser Marketo Engage-Abonnement wird bald in das Adobe Identity Management System migriert. Der `[Marketing Operation team]` benötigt Ihre Hilfe, um einige erforderliche Schritte vor Beginn der Benutzermigration abzuschließen, um die Auswirkungen auf Marketo Engage-Benutzer zu minimieren.
 
 `1.` Bestätigen Sie, ob das Unternehmen bereits andere Adobe-Produkte in Adobe Admin Console(s) verwaltet und ob Marketo Engage in dieselbe Konsole migriert wird.
 
@@ -77,7 +77,7 @@ Unser Marketo Engage-Abonnement wird bald in das Adobe Identity Management Syste
 
 `2.` Suchen Sie auf der Suche nach einer E-Mail von Adobe mit der Betreffzeile &quot;Aktion erforderlich für die Verwaltung des Benutzerzugriffs auf Adobe Marketo Engage `[Package Tier]`&quot;. Diese E-Mail wurde gesendet, nachdem auf unserer Admin Console Marketo Engage-Lizenzen bereitgestellt wurden. Diese E-Mail erhalten nur Systemadministratoren. Bitte informieren Sie uns umgehend, wann Sie es erhalten.
 
-* Adobe kann die Zustimmung von Ihnen, dem Systemadministrator der Admin Console, einholen, um Benutzer automatisch in die bestehende Konsole unseres Unternehmens zu migrieren. Klicken Sie in der E-Mail mit der Betreffzeile &quot;Für die Verwaltung des Benutzerzugriffs auf Adobe Marketo Engage erforderliche Aktion `[Package Tier]`&quot;auf die Schaltfläche &quot;Erste Schritte&quot;, um zur Einverständnisseite zu navigieren.
+* Adobe kann die Zustimmung von Ihnen, dem Systemadministrator der Admin Console, einholen, um Benutzer automatisch in die bestehende Konsole unseres Unternehmens zu migrieren. Klicken Sie in der E-Mail mit der Betreffzeile &quot;Für die Verwaltung des Benutzerzugriffs auf Adobe Marketo Engage erforderliche Aktion `[Package Tier]`&quot;auf die Schaltfläche &quot;Erste Schritte&quot;, um zur Einwilligungsseite zu navigieren.
 
 `3.` **Optional:** Einrichten der einmaligen Anmeldung (SSO) auf der Adobe Admin Console.
 
@@ -123,12 +123,12 @@ ii. Eine aktive Benutzersitzung ist für den Erfolg der E-Mail-Verifizierung erf
 i. Akzeptieren Sie die neue Einladung, indem Sie auf die Schaltfläche &quot;Einladung annehmen&quot;klicken und sich mit Adobe Identity anmelden.
 ii. Melden Sie sich auf der Adobe-Anmeldeseite mit einer bestehenden Adobe ID an.
 
-`3.` Kontakt: Wenn Sie Fragen haben oder Hilfe benötigen, nachdem Ihr Konto migriert wurde oder wenn Ihr Konto nicht migriert wurde und Sie keinen Zugriff auf Marketo Engage haben, wenden Sie sich bitte an das Marketo Engage-Migrationsteam unter [Ihre E-Mail/Telefonnummer].
+`3.` Kontakt: Wenn Sie Fragen haben oder Hilfe benötigen, nachdem Ihr Konto migriert wurde oder wenn Ihr Konto nicht migriert wurde und Sie keinen Zugriff auf Marketo Engage haben, wenden Sie sich an das Marketo Engage-Migrationsteam unter `[your internal contact email/phone]`.
 
 Wir freuen uns über Ihre Mitarbeit bei dieser Umstellung. Vielen Dank für Ihr Verständnis und Ihr Engagement, unsere Systeme sicher zu halten.
 
 Mit freundlichen Grüßen
 
-[Ihr Name]
+`[Your Name]`
 
 `---------------------------------------------------`
