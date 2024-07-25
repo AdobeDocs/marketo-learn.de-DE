@@ -1,7 +1,7 @@
 ---
-title: Smart-Kampagnen 101
-description: Erfahren Sie, wie Sie Smart-Kampagnen für Datennormalisierung und automatisierte Warnhinweise verwenden können.
-short-description: Wenn Marketo Engage ein Auto ist, ist die intelligente Kampagne der Motor. Smart-Kampagnen können mehr tun, als Sie sich vorstellen können, und es ist einfach, mit ihnen zu beginnen.
+title: Grundlagen zu intelligente Kampagnen
+description: Erfahren Sie, wie Sie intelligente Kampagnen für die Normalisierung von Daten und automatische Warnmeldungen nutzen können.
+short-description: Wenn Sie sich Marketo Engage als ein Auto vorstellen, ist die Smart-Kampagne der Motor. Smart-Kampagnen bieten mehr Möglichkeiten, als Sie sich vorstellen können, und es ist ganz einfach, sie zu nutzen.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -13,11 +13,11 @@ feature: Smart Campaigns
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 1%
+ht-degree: 41%
 
 ---
 
-# Smart-Kampagnen 101
+# Grundlagen zu intelligente Kampagnen
 
 Smart-Kampagnen sind die Engine von Marketo. Neben der Verwendung von Smart-Kampagnen zum Versand von E-Mails und Programmen können Sie Smart-Kampagnen für eine Vielzahl von Anwendungsfällen verwenden. Erfahren Sie, wie Sie Smart-Kampagnen für Datennormalisierung und automatisierte Warnhinweise verwenden können.
 
