@@ -7,7 +7,7 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: a1248a4367a283bd1922269db3be8ed146f85648
+source-git-commit: 4a1db73e8dff8d5c39f05962b6e24ee0d380683f
 workflow-type: tm+mt
 source-wordcount: '1077'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Um sicherzustellen, dass Ihr Unternehmen Adobe Marketo Engage in die Adobe Admin
 
 * Wenn Sie sich nicht sicher sind, welche Systemadministratoren sich in Ihrem Unternehmen befinden, wenden Sie sich an Ihr Adobe Account-Team oder wenden Sie sich an den Adobe-Support `marketocares@marketo.com`.
 
-* Bestätigen Sie die Adobe Admin Console (oder Adobe-Org), zu der Ihre Marketo Engage-Abonnements migriert werden sollen.  Marketo Engage-Abonnements müssen im selben Unternehmen bereitgestellt werden wie [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview){target="_blank"}, ein natives Tool zur Automatisierung von Konversationen, das mit Marketo Engage integriert ist. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}
+* Bestätigen Sie die Adobe Admin Console (oder Adobe-Org), zu der Ihre Marketo Engage-Abonnements migriert werden sollen.  Marketo Engage-Abonnements müssen im selben Unternehmen bereitgestellt werden wie [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview){target="_blank"}, ein natives Tool zur Automatisierung von Konversationen, das mit Marketo Engage integriert ist. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete)
 
 * **Optional:** [Implementieren Sie Single Sign On (SSO)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} vor der Benutzermigration.
 
