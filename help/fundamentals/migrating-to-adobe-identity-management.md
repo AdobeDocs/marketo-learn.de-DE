@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 820346b8475da5bd0cc5c6652b1cc6367b9fe54e
+source-git-commit: f6caaae707cb4dae45c4f05a895566adc98458e6
 workflow-type: tm+mt
-source-wordcount: '1114'
+source-wordcount: '1115'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Um sicherzustellen, dass Ihr Unternehmen Adobe Marketo Engage in die Adobe Admin
 
 * Bestätigen Sie die Adobe Admin Console (oder Adobe-Org), zu der Ihre Marketo Engage-Abonnements migriert werden sollen. Wahrscheinlich haben Sie eine Adobe Admin Console für Dynamic Chat, ein natives Werkzeug zur Automatisierung von Konversationen im Marketo Engage. Marketo Engage-Abonnements müssen im selben Unternehmen wie [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete) bereitgestellt werden
 
-* Arbeiten Sie mit Ihrem IT-Team zusammen, um alle Adobe-Domänen, die oben in diesem Artikel ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} aufgelistet sind, in Zulassungsliste, um eine Unterbrechung des Marketo Engage-Zugriffs nach der Migration auf Adobe Identity zu verhindern.[
+* Arbeiten Sie mit Ihrem IT-Team zusammen, um alle Adobe-Domänen, die oben in diesem Artikel ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} aufgelistet sind, in Zulassungsliste, um eine Unterbrechung des Marketo Engage-Zugriffs nach der Migration zu Adobe Identity zu verhindern.[
 
 * **Optional:** [Implementieren Sie Single Sign On (SSO)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} vor der Benutzermigration.
 
