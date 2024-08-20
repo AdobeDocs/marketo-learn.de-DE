@@ -3,10 +3,10 @@ title: Marketo Engage-Tutorials
 description: Sehen Sie sich Video-Tutorials für  [!DNL Marketo Engage] an. Verbessern Sie Ihr Verständnis für die Verwendung von Funktionen zur Marketing-Automatisierung und mehr.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: c7665e7c82e030f5bc21fa9c8845a75fc47f8483
+source-git-commit: fe4fc30478e83625c345c51b96a6867264953e83
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 21%
+ht-degree: 17%
 
 ---
 
@@ -25,15 +25,12 @@ Durchsuchen Sie unsere Tutorial-Bibliothek und nutzen Sie [!DNL Marketo Engage] 
 ## Neue Funktionen {#whats-new}
 
 * [Migration zu Adobe Identity Management](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
+  _Erfahren Sie, wie Sie durch die Migration von Adobe Identity Management navigieren, damit Sie Adobe Marketo Engage gemeinsam mit anderen Adobe-Konten und -Produkten für Ihre Benutzer an einem zentralen Ort verwalten können._
 
-_Erfahren Sie, wie Sie durch die Migration von Adobe Identity Management navigieren, damit Sie Adobe Marketo Engage gemeinsam mit anderen Adobe-Konten und -Produkten für Ihre Benutzer an einem zentralen Ort verwalten können._
-
-* [Interaktive Webinare – Erkenntnisse und Aktionen nach dem Ereignis](https://experienceleague.adobe.com/de/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
-
+* [Interaktive Webinare Post Event Insights and Actions](https://experienceleague.adobe.com/de/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
 Erfahren Sie, wo Sie detaillierte Informationen zur Leistung und Interaktion Ihres interaktiven Webinarereignisses erhalten.
 
 * [Marketo API-Video - So legen Sie das Zugriffstoken in einer Variablen fest](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/integrations/api-set-access-token-variable)
-
 Erfahren Sie, wie Sie die Postman-Anwendung einrichten und Variablen nutzen, um Daten zur Wiederverwendbarkeit in der -Variablen zu speichern.
 
 ## Bevorzugte Videos {#most-popular-videos}
