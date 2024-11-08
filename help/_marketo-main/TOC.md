@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-Tutorials
 auto-video-transcripts: true
-source-git-commit: 757f21c965161fba774c2c31e02baa75f4691e4d
+source-git-commit: d74cf4ad845a6f7e65a0d8729c296f6c7d46bdaa
 workflow-type: tm+mt
-source-wordcount: '381'
-ht-degree: 11%
+source-wordcount: '383'
+ht-degree: 10%
 
 ---
 
@@ -103,8 +103,8 @@ ht-degree: 11%
    + [Abonnement-Center](/help/lead-and-data-management/subscription-center-learn.md)
    + [Beispiel für ein Abonnement-Center](/help/lead-and-data-management/subscription-center-watch.md)
    + [CRM-Synchronisation](/help/lead-and-data-management/crm-sync-learn.md)
-   + [Erste Schritte mit der Salesforce-Synchronisation](/help/integrations/salesforce-sync-setup.md)
-   + [Erste Schritte mit der Synchronisierung mit Microsoft Dynamics](/help/integrations/microsoft-dynamics-sync-setup.md)
+   + [Erste Schritte mit der Salesforce-Synchronisierung](/help/integrations/salesforce-sync-setup.md)
+   + [Erste Schritte mit der Microsoft Dynamics-Synchronisierung](/help/integrations/microsoft-dynamics-sync-setup.md)
    + [Lead-Lebenszyklus](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [Lead-Lebenszyklusdurchlauf](/help/lead-and-data-management/lead-lifecycle-watch.md)
 + Ereignisse {#events}
@@ -119,6 +119,7 @@ ht-degree: 11%
    + [Effektives interaktives Webinar erstellen](/help/events/design-an-effective-interactive-webinar.md)
    + [Ereignisbereitstellung für interaktive Webinare](/help/events/interactive-webinars-event-delivery.md)
    + [Interaktive Webinare Post Event Insights and Actions](/help/events/interactive-webinars-post-event-insights-and-actions.md)
+   + [On-Demand-Webinare](/help/events/on-demand-webinars.md)
 + Berichterstellung und Analyse {#reporting}
    + [Berichterstellung und Analyse](/help/reporting/reporting-and-analytics.md)
    + [Wichtige Berichte](/help/reporting/key-reports.md)
