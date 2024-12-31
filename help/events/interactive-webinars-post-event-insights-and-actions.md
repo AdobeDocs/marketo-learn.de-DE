@@ -1,6 +1,6 @@
 ---
-title: Interaktive Webinare Post Event Insights and Actions
-description: Erfahren Sie, wo Sie detaillierte Informationen zur Leistung und Interaktion Ihres interaktiven Webinarereignisses erhalten.
+title: Interaktive Webinare nach Ereignissen - Einblicke und Aktionen
+description: Erfahren Sie, wo Sie detaillierte Informationen über die Leistung und Interaktion Ihrer Veranstaltung zu interaktiven Webinaren finden.
 feature: Interactive Webinars
 role: User
 level: Beginner
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Interaktive Webinare Post Event Insights and Actions
+# Interaktive Webinare nach Ereignissen - Einblicke und Aktionen
 
-Erfahren Sie, wo Sie detaillierte Informationen zur Leistung und Interaktion Ihres bereitgestellten interaktiven Webinars-Ereignisses erhalten. Entdecken Sie Aktionen zur Segmentierung, Bewertung und Förderung von Leads/Teilnehmern auf personalisierte Weise basierend auf den erfassten Interaktionseinblicken und -absichten.
+Erfahren Sie, wo Sie detaillierte Informationen zur Leistung und Interaktion Ihrer bereitgestellten interaktiven Webinar-Veranstaltung finden. Entdecken Sie Aktionen, um Leads/Teilnehmer basierend auf den erfassten Interaktionserkenntnissen und Absichten zu segmentieren, zu bewerten und zu pflegen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429641/?learn=on)

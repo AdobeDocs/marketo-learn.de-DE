@@ -1,6 +1,6 @@
 ---
-title: Interaktion von Besuchern mit Web-Personalisierung
-description: Sehen Sie sich an, wie Sie [!DNL Marketo] mit mehreren unserer Digital Advertising LaunchPoint-Partner verbinden.
+title: So interagieren Sie mit Besuchern mit der Web-Personalisierung
+description: Sehen Sie sich an [!DNL Marketo]  wie Sie eine Verbindung zu mehreren unserer LaunchPoint-Partner für digitale Werbung herstellen.
 role: User
 level: Intermediate
 jira: KT-10726
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Interaktion von Besuchern mit Web-Personalisierung
+# So interagieren Sie mit Besuchern mit der Web-Personalisierung
 
-Sehen Sie sich an, wie Sie [!DNL Marketo] mit mehreren unserer Digital Advertising LaunchPoint-Partner verbinden.
+Sehen Sie sich an, wie Sie [!DNL Marketo] mit mehreren unserer LaunchPoint-Partner für digitale Werbung verbinden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345404/?quality=12&learn=on){transcript=true}

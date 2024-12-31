@@ -13,8 +13,8 @@ exl-id: c2973736-d4dc-492f-8815-9bc93dc5a870
 feature: Reporting
 source-git-commit: a80342218bbc8c42f88c6ccf3a435cbbd3bd47d0
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 0%
+source-wordcount: '91'
+ht-degree: 2%
 
 ---
 
@@ -28,10 +28,10 @@ Erfahren Sie mehr über die wichtigsten Berichte in Marketo Engage und wie Sie s
 
 Lesen Sie die entsprechenden Produkthandbücher:
 
-* [Berichtstyp - Überblick](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en)
+* [Berichtstyp - Übersicht](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en)
 
-Lernen Sie von Ihren Kollegen:
+Lernen von Kollegen:
 
-* [Expert Customer Blog-Beitrag: Wie Champion Chelsea Kiko in verschiedenen Marketo Engage-Spaces berichtet](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
-* [Expert Customer Webinar: Über die Grundlagen hinaus mit Courtney Tobe](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-beyond-the-basics-marketo-reporting/ba-p/302116)
-* [Expert Customer Webinar: Wie Sie mit Britney Young eine vollständige ROI-Berichtsstrategie erstellen](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-rounding-out-your-reporting-how-to-build-a/ba-p/319082)
+* [Expert Customer Blogpost: Wie Champion Chelsea Kiko in verschiedenen Marketo Engage-Bereichen berichtet](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
+* [Experten-Webinar: Über die Grundlagen hinaus mit Courtney Tobe](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-beyond-the-basics-marketo-reporting/ba-p/302116)
+* [Experten-Webinar: Wie man mit Britney Young eine umfassende ROI-Reporting-Strategie entwickelt](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-rounding-out-your-reporting-how-to-build-a/ba-p/319082)

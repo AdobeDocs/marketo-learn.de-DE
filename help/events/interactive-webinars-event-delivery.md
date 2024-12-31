@@ -1,6 +1,6 @@
 ---
-title: Ereignisbereitstellung für interaktive Webinare
-description: Erfahren Sie, wie Sie Ihr interaktives Webinar-Ereignis optimal bereitstellen.
+title: Versand interaktiver Webinare - Ereignisse
+description: Erfahren Sie, wie Sie Ihre interaktive Webinar-Veranstaltung optimal durchführen können.
 feature: Interactive Webinars
 role: User
 level: Beginner
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Ereignisbereitstellung für interaktive Webinare
+# Versand interaktiver Webinare - Ereignisse
 
-Erfahren Sie, wie Sie Ihr interaktives Webinarereignis optimal bereitstellen können, um Ihr Ziel zu erreichen und die Teilnehmer zu binden. Stellen Sie sicher, dass Ihr Inhalt Interesse generiert, damit Sie über verschiedene Interaktionswerkzeuge Absichten anfordern können, um eine bessere personalisierte Pflege und Segmentierung zu ermöglichen.
+Erfahren Sie, wie Sie Ihre Veranstaltung mit interaktiven Webinaren optimal durchführen können, um Ihr Ziel zu erreichen und die Teilnehmer einzubinden. Stellen Sie sicher, dass Ihre Inhalte Interesse generieren, damit Sie mithilfe verschiedener Interaktions-Tools Absichten anfordern können, um eine bessere personalisierte Pflege und Segmentierung zu ermöglichen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429638/?learn=on)

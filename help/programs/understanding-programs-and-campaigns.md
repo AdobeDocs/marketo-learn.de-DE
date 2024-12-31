@@ -1,6 +1,6 @@
 ---
 title: Grundlegendes zu Programmen und Kampagnen
-description: Durch die Entwicklung einer Content-Marketing-Strategie können Sie Ihre Zielgruppe gewinnen, gewinnen und ansprechen.
+description: Zielgruppen durch die Entwicklung einer Content-Marketing-Strategie anziehen, gewinnen und ansprechen.
 role: User
 level: Beginner
 jira: KT-13203

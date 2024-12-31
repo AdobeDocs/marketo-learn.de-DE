@@ -1,6 +1,6 @@
 ---
-title: Personalisieren mit Token
-description: Erfahren Sie, wie Sie Token in Marketo-Programmen verwenden. Die Verwendung von Token in Marketo-Programmen kann Personalisierung, schnellere Programmerstellungszeit und eine verringerte Wahrscheinlichkeit von Tippfehlern oder menschlichem Versagen unterstützen.
+title: Mit Token personalisieren
+description: Erfahren Sie, wie Sie Token in Marketo-Programmen verwenden. Die Verwendung von Token in Marketo-Programmen kann bei der Personalisierung, einer schnelleren Programmerstellung und einer verringerten Wahrscheinlichkeit von Tippfehlern oder menschlichen Fehlern helfen.
 feature: Tokens
 role: Admin, User
 level: Beginner, Intermediate
@@ -11,13 +11,13 @@ thumbnail: 3421605.jpeg
 exl-id: 8ff3053e-28ba-43f8-91a6-25fd16f6def3
 source-git-commit: a80342218bbc8c42f88c6ccf3a435cbbd3bd47d0
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Personalisieren mit Token
+# Mit Token personalisieren
 
-Erfahren Sie, wie Sie Token in Marketo-Programmen verwenden. Die Verwendung von Token in Marketo-Programmen kann Personalisierung, schnellere Programmerstellungszeit und eine verringerte Wahrscheinlichkeit von Tippfehlern oder menschlichem Versagen unterstützen.
+Erfahren Sie, wie Sie Token in Marketo-Programmen verwenden. Die Verwendung von Token in Marketo-Programmen kann bei der Personalisierung, einer schnelleren Programmerstellung und einer verringerten Wahrscheinlichkeit von Tippfehlern oder menschlichen Fehlern helfen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421605/?learn=on){transcript=true}

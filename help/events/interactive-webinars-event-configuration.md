@@ -1,6 +1,6 @@
 ---
 title: Ereigniskonfiguration für interaktive Webinare
-description: Erfahren Sie, wie Sie Ihr interaktives Webinarereignis vor dem Versand so konfigurieren, dass es dem Ziel des Webinars entspricht.
+description: Erfahren Sie, wie Sie Ihre Veranstaltung zu interaktiven Webinaren vor der Bereitstellung entsprechend den Zielen des Webinars konfigurieren.
 feature: Interactive Webinars
 role: User
 level: Beginner
@@ -18,6 +18,6 @@ ht-degree: 1%
 
 # Ereigniskonfiguration für interaktive Webinare
 
-Erfahren Sie, wie Sie Ihre interaktive Webinarveranstaltung vor dem Versand so konfigurieren können, dass sie dem Ziel des Webinars entspricht und sicherstellt, dass die Bereitstellung effektiv genug ist, um die Teilnehmer zu binden, um Interesse für die Marke, das Produkt und die Services zu wecken und um Absichten zu erbitten. usw.
+Erfahren Sie, wie Sie Ihre Veranstaltung zu interaktiven Webinaren vor dem Versand so konfigurieren, dass sie den Zielen des Webinars entspricht, und sicherstellen, dass der Versand effektiv genug ist, um die Teilnehmer einzubinden, Interesse zu wecken und Absichten für die Marke, das Produkt und die Services zu wecken. usw.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429637/?learn=on)

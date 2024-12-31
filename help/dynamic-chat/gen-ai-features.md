@@ -1,6 +1,6 @@
 ---
 title: Generative KI-Funktionen von Dynamic Chat
-description: Ein kurzes Tutorial, das Dynamic Chat-Anwendern bei der Nutzung von durch GenAI bereitgestellten Funktionen hilft
+description: Ein kurzes Tutorial, das Dynamic Chat-Benutzern hilft, GenAI-gestützte Funktionen zu nutzen
 feature: Dynamic Chat
 role: User
 level: Beginner
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Generative KI-Funktionen von Dynamic Chat
 
-Erfahren Sie, wie Sie GenAI-gestützte Konversationen fördern und Ihren Besuchern die Möglichkeit geben, Fragen zu stellen, schnelle Antworten zu erhalten und eine Zusammenfassung für Ihre Konversationen zu erstellen. Nutzen Sie Konversationseinblicke direkt in Ihren Marketo-Instanzen.
+Erfahren Sie, wie Sie GenAI-gestützte Konversationen fördern und Ihren Besuchern ermöglichen, Fragen zu stellen, schnelle Antworten zu erhalten und eine Zusammenfassung für Ihre Konversationen zu generieren. Nutzen Sie Konversationserkenntnisse direkt in Ihren Marketo-Instanzen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429153/?learn=on)

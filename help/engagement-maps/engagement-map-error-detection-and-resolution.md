@@ -1,6 +1,6 @@
 ---
-title: Fehlererkennung und Auflösung von Interaktionskarten
-description: Erfahren Sie, wie Interaktionskarten schnell bei der Fehlerbehebung und Behebung von Kampagnenproblemen helfen.
+title: Fehlererkennung und -behebung bei der Interaktionszuordnung
+description: Erfahren Sie, wie die Interaktionszuordnung bei der schnellen Fehlerbehebung und Behebung von Kampagnenproblemen hilft
 feature: Smart Campaigns
 role: User
 level: Beginner
@@ -12,13 +12,13 @@ thumbnail: 3422246.jpeg
 exl-id: e90390bc-a2b3-49ef-9251-0169b4304b3f
 source-git-commit: a80342218bbc8c42f88c6ccf3a435cbbd3bd47d0
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '36'
 ht-degree: 0%
 
 ---
 
-# Fehlererkennung und Auflösung von Interaktionskarten
+# Fehlererkennung und -behebung bei der Interaktionszuordnung
 
-Erfahren Sie, wie Interaktionskarten schnell bei der Fehlerbehebung und Behebung von Kampagnenproblemen helfen.
+Erfahren Sie, wie die Interaktionszuordnung bei der schnellen Fehlerbehebung und Behebung von Kampagnenproblemen hilft
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422246/?learn=on){transcript=true}

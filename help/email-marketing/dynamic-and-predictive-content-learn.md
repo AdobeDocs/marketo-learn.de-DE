@@ -1,6 +1,6 @@
 ---
-title: Erfahren Sie mehr über die Verwendung von dynamischen und prädiktiven Inhalten in E-Mails
-description: Die Bereitstellung relevanter Inhalte ist eine der wichtigsten Ideen im Marketing. Erfahren Sie, wie Sie Marketo Content AI verwenden und dynamischen Inhalt anwenden, wenn Sie mit Marketo arbeiten.
+title: Erfahren Sie mehr über die Verwendung dynamischer und prädiktiver Inhalte in E-Mails
+description: Die Bereitstellung relevanter Inhalte ist eine der wichtigsten Ideen im Marketing. Erfahren Sie, wie Sie die Content-KI von Marketo verwenden und wie Sie bei der Arbeit mit Marketo dynamische Inhalte anwenden.
 role: User
 level: Intermediate
 jira: KT-10768
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Erfahren Sie mehr über die Verwendung von dynamischen und prädiktiven Inhalten in E-Mails
+# Erfahren Sie mehr über die Verwendung dynamischer und prädiktiver Inhalte in E-Mails
 
-Die Bereitstellung relevanter Inhalte ist eine der wichtigsten Ideen im Marketing. Erfahren Sie, wie Sie Marketo Content AI verwenden und dynamischen Inhalt anwenden, wenn Sie mit Marketo arbeiten.
+Die Bereitstellung relevanter Inhalte ist eine der wichtigsten Ideen im Marketing. Erfahren Sie, wie Sie die Content-KI von Marketo verwenden und wie Sie bei der Arbeit mit Marketo dynamische Inhalte anwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345485/?quality=12&learn=on){transcript=true}

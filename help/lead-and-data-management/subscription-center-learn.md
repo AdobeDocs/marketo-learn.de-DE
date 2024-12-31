@@ -1,6 +1,6 @@
 ---
-title: Erfahren Sie mehr über die Einrichtung und Verwaltung eines Abonnement-Zentrums
-description: Kämpfen Sie mit Ihren Abonnenten zu kommunizieren? Lassen Sie sie Ihnen sagen, welche Kommunikationen sie wollen und wie oft sie von Ihnen hören wollen. Erfahren Sie, wie Sie ein Abonnement-Zentrum erstellen und verwalten, um eine geeignete Kadenz und einen entsprechenden Prozess zu entwickeln.
+title: Erfahren Sie mehr über das Einrichten und Verwalten eines Abonnementzentrums
+description: Schwierigkeiten bei der Kommunikation mit Ihren Abonnentinnen und Abonnenten? Sie sollen Ihnen mitteilen, welche Mitteilungen sie wünschen und wie oft sie von Ihnen hören möchten. Erfahren Sie, wie Sie ein Abonnement-Center erstellen und verwalten, um eine geeignete Kadenz und einen geeigneten Prozess zu entwickeln.
 role: User
 level: Beginner
 jira: KT-10742
@@ -9,13 +9,13 @@ exl-id: 969ce461-d932-44ea-90b2-975fa79525c2
 feature: Deliverability
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
-# Erfahren Sie mehr über die Einrichtung und Verwaltung eines Abonnement-Zentrums
+# Erfahren Sie mehr über das Einrichten und Verwalten eines Abonnementzentrums
 
-Kämpfen Sie mit Ihren Abonnenten zu kommunizieren? Lassen Sie sie Ihnen sagen, welche Kommunikationen sie wollen und wie oft sie von Ihnen hören wollen. Erfahren Sie, wie Sie ein Abonnement-Zentrum erstellen und verwalten, um eine geeignete Kadenz und einen entsprechenden Prozess zu entwickeln.
+Schwierigkeiten bei der Kommunikation mit Ihren Abonnentinnen und Abonnenten? Sie sollen Ihnen mitteilen, welche Mitteilungen sie wünschen und wie oft sie von Ihnen hören möchten. Erfahren Sie, wie Sie ein Abonnement-Center erstellen und verwalten, um eine geeignete Kadenz und einen geeigneten Prozess zu entwickeln.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345426/?quality=12&learn=on){transcript=true}

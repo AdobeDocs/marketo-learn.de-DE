@@ -1,5 +1,5 @@
 ---
-title: Benutzer von Dynamic Chat hinzufügen und verwalten
+title: Hinzufügen und Verwalten von Dynamic Chat-Benutzern
 description: Erfahren Sie, wie Sie mit Adobe Admin Console den Dynamic Chat-Benutzerzugriff verwalten können.
 role: User
 level: Beginner
@@ -9,19 +9,19 @@ exl-id: c6007829-9831-4259-a37e-20a2d318734f
 feature: Dynamic Chat
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# Benutzer von [!UICONTROL Dynamic Chat] hinzufügen und verwalten
+# Benutzer von [!UICONTROL Dynamic Chat hinzufügen und verwalten]
 
-Verwalten Sie Ihre [!UICONTROL Dynamic Chat] -Benutzer über Adobe Admin Console.
+[!UICONTROL Dynamic Chat]-Benutzer über Adobe Admin Console verwalten
 
 >[!VIDEO](https://video.tv.adobe.com/v/340249/?quality=12&learn=on){transcript=true}
 
 ## Weitere hilfreiche Videos
 
-* [Personalisierte Dialogfelder erstellen und verwalten](dialogue-management.md)
+* [Erstellen und Verwalten von personalisierten Dialogfeldern](dialogue-management.md)
 * [Aktivieren der Marketo-Integration mit [!UICONTROL Dynamic Chat]](marketo-integration.md)
-* [Ermöglichen Sie es Ihren Leads, Meetings mit Ihrem Vertrieb zu buchen](meeting-booking.md)
+* [Leads aktivieren, um Meetings mit Ihrem Vertrieb zu buchen](meeting-booking.md)

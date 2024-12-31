@@ -1,6 +1,6 @@
 ---
-title: Integration von Mobile Marketing
-description: Erfahren Sie, wie Sie Beziehungen zu Ihren Käufern entwickeln können, indem Sie durch den Komfort von Mobilgeräten Echtzeit- und persönliche Verbindungen herstellen.
+title: Mobile Marketing integrieren
+description: Erfahren Sie, wie Sie Beziehungen zu Ihren Käufern aufbauen können, indem Sie durch die Bequemlichkeit mobiler Geräte persönliche und Echtzeit-Verbindungen erstellen.
 role: User
 level: Beginner
 jira: KT-10727
@@ -9,13 +9,13 @@ exl-id: 4fb8e452-11d0-4d89-85c2-5a9ed097853b
 feature: Mobile Marketing
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
-# Integration von Mobile Marketing in Marketo
+# Integrieren von Mobile Marketing mit Marketo
 
-Angesichts der heutigen Technologievielfalt ist mobiles Marketing eine der wichtigsten Strategien zur Anwendung. Erfahren Sie, wie Sie Beziehungen zu Ihren Käufern entwickeln können, indem Sie durch den Komfort von Mobilgeräten Echtzeit- und persönliche Verbindungen herstellen.
+Mit der heutigen Überschwemmung mit Technologie ist Mobile Marketing eine der wichtigsten Strategien, die es einzusetzen gilt. Erfahren Sie, wie Sie Beziehungen zu Ihren Käufern aufbauen können, indem Sie durch die Bequemlichkeit mobiler Geräte persönliche und Echtzeit-Verbindungen erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345403/?quality=12&learn=on){transcript=true}

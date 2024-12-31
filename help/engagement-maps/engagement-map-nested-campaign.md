@@ -1,6 +1,6 @@
 ---
 title: Interaktionszuordnung für verschachtelte Kampagnen
-description: Erfahren Sie, wie Sie miteinander verbundene und tief verschachtelte Kampagnen entschlüsseln können, um mithilfe von Interaktionskarten eine bessere Sichtbarkeit der gesamten Journey zu erhalten.
+description: Erfahren Sie, wie Sie miteinander verbundene und tief verschachtelte Kampagnen entschlüsseln können, um mithilfe von Engagement Map einen besseren Einblick in die gesamte Kunden-Journey zu erhalten.
 feature: Smart Campaigns
 role: User
 level: Beginner
@@ -12,13 +12,13 @@ thumbnail: 3422235.jpeg
 exl-id: 422fe96b-a883-434e-ae9f-ebe03dc324f3
 source-git-commit: a80342218bbc8c42f88c6ccf3a435cbbd3bd47d0
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
 # Interaktionszuordnung für verschachtelte Kampagnen
 
-Erfahren Sie, wie Sie miteinander verbundene und tief verschachtelte Kampagnen entschlüsseln können, um mithilfe von Interaktionskarten eine bessere Sichtbarkeit der gesamten Journey zu erhalten.
+Erfahren Sie, wie Sie miteinander verbundene und tief verschachtelte Kampagnen entschlüsseln können, um mithilfe von Engagement Map einen besseren Einblick in die gesamte Kunden-Journey zu erhalten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422235/?learn=on){transcript=true}

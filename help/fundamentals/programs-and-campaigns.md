@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zu Marketo-Programmen und -Kampagnen
-description: Durch die Entwicklung einer Content-Marketing-Strategie können Sie Ihre Zielgruppe gewinnen, gewinnen und ansprechen.
+title: Marketo-Programme und -Kampagnen
+description: Zielgruppen durch die Entwicklung einer Content-Marketing-Strategie anziehen, gewinnen und ansprechen.
 role: User
 level: Beginner
 jira: KT-13203
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 ---
 
-# Grundlegendes zu Marketo-Programmen und -Kampagnen
+# Marketo-Programme und -Kampagnen
 
 {{$include /help/_includes/incl-programs-and-campaigns.md}}

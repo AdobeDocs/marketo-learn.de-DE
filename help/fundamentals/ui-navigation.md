@@ -1,6 +1,6 @@
 ---
-title: Navigieren zur Marketo Engage-Benutzeroberfläche
-description: Erfahren Sie, wie Sie in der Benutzeroberfläche navigieren und sich mit Ihrem Weg durch die Marketo Engage-Plattform vertraut machen.
+title: Navigieren in der Marketo Engage-Benutzeroberfläche
+description: Erfahren Sie, wie Sie die Benutzeroberfläche navigieren, und machen Sie sich vertraut mit der Marketo Engage-Plattform.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,20 +11,20 @@ exl-id: e2872743-f55a-43fa-a550-17bd5d104c49
 feature: Modern UX
 source-git-commit: a80342218bbc8c42f88c6ccf3a435cbbd3bd47d0
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 0%
+source-wordcount: '78'
+ht-degree: 2%
 
 ---
 
-# Navigieren zur Marketo Engage-Benutzeroberfläche
+# Navigieren in der Marketo Engage-Benutzeroberfläche
 
-Erfahren Sie, wie Sie in der Benutzeroberfläche navigieren und sich mit Ihrem Weg durch die Marketo Engage-Plattform vertraut machen.
+Erfahren Sie, wie Sie die Benutzeroberfläche navigieren, und machen Sie sich vertraut mit der Marketo Engage-Plattform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on){transcript=true}
 
 ## Zusätzliche Ressourcen
 
 * [Marketo Engage-Glossar](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
-Definitionen für viele der Begriffe, die bei Verwendung von Marketo auftreten können.
-* [Symbolglossar](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=en)
-Glossar der Symbole für die Marketo Engage-Oberfläche.
+Definitionen für viele Begriffe, die bei der Verwendung von Marketo auftreten können.
+* [Symbol-Glossar](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=en)
+Glossar der Symbole für die Marketo Engage-Benutzeroberfläche.

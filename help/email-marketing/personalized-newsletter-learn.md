@@ -1,6 +1,6 @@
 ---
-title: Erstellen eines personalisierten E-Mail-Programms für Newsletter
-description: Nutzen Sie personalisierte E-Mail-Newsletter, um potenzielle Kunden und Kunden kostengünstig zu erreichen.
+title: Erstellen eines personalisierten Newsletter-E-Mail-Programms
+description: Interagieren Sie mit Interessenten und Kunden auf kosteneffiziente Weise mithilfe personalisierter E-Mail-Newsletter.
 role: User
 level: Beginner
 jira: KT-10751
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Erstellen eines personalisierten E-Mail-Programms für Newsletter
+# Erstellen eines personalisierten Newsletter-E-Mail-Programms
 
-Nutzen Sie personalisierte E-Mail-Newsletter, um potenzielle Kunden und Kunden kostengünstig zu erreichen.
+Interagieren Sie mit Interessenten und Kunden auf kosteneffiziente Weise mithilfe personalisierter E-Mail-Newsletter.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345471/?quality=12&learn=on){transcript=true}

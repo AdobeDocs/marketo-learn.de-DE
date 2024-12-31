@@ -1,6 +1,6 @@
 ---
-title: Konversations-SDK
-description: Erfahren Sie, wie Sie das Conversations SDK implementieren, um jeden CTA-Klick in eine ansprechende Konversation zu konvertieren.
+title: SDK-Unterhaltungen
+description: Erfahren Sie, wie Sie Conversations SDK implementieren, um jeden CTA-Klick in eine ansprechende Konversation zu konvertieren.
 feature: Dynamic Chat
 role: User
 level: Beginner
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Konversations-SDK
+# SDK-Unterhaltungen
 
-Konvertieren Sie alle CTA-Klicks, Seitenladevorgänge oder Besucheraktionen auf Ihrer Web-Seite in eine ansprechende Konversation mit dem Conversations SDK. Hier finden Sie eine schrittweise Anleitung zur Implementierung auf Ihrer Website.
+Wandeln Sie alle CTA-Klicks, Seitenladevorgänge oder Besucheraktionen auf Ihrer Web-Seite in eine ansprechende Konversation mit SDK Conversations um. Hier finden Sie eine schrittweise Anleitung zur Implementierung von auf Ihrer Website
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425034/?learn=on)

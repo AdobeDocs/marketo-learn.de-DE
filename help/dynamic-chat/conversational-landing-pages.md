@@ -1,6 +1,6 @@
 ---
-title: Konversative Einstiegsseiten
-description: Installieren Sie mit nur wenigen Klicks Dynamic Chat Conversational Flows in eine Landingpage (Marketo-Landingpages oder Benutzerdefiniert) und konvertieren Sie einen beliebigen Link oder eine Schaltfläche, um eine Konversationsinteraktion Trigger.
+title: Konversative Landingpages
+description: Mit nur wenigen Klicks installieren Sie Dynamic Chat Conversational Flows in einer beliebigen Landingpage (Marketo Landingpages oder Benutzerdefiniert) und konvertieren jeden Link oder jede Schaltfläche in einen Trigger für ein Gespräch.
 feature: Dynamic Chat
 role: User
 level: Beginner
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 ---
 
-# Konversative Einstiegsseiten
+# Konversative Landingpages
 
-Installieren Sie mit nur wenigen Klicks Dynamic Chat Conversational Flows in eine Landingpage (Marketo-Landingpages oder Benutzerdefiniert) und konvertieren Sie einen beliebigen Link oder eine Schaltfläche, um eine Konversationsinteraktion Trigger.
+Mit nur wenigen Klicks installieren Sie Dynamic Chat Conversational Flows in einer beliebigen Landingpage (Marketo Landingpages oder Benutzerdefiniert) und konvertieren jeden Link oder jede Schaltfläche in einen Trigger für ein Gespräch.
 
 Anwendungsfälle, die Sie entsperren können -
 
-- Besuchern die Möglichkeit geben, Meetings zu buchen
-- Fragen zur Qualifikation stellen
-- Empfohlene Inhalte basierend auf Besucherentscheidungen/Interesse
-- Freigeben von Dokumenten und Interaktion verfolgen
+- Besucherinnen und Besuchern die Buchung von Meetings ermöglichen
+- Fragen zur Qualifizierung stellen
+- Empfohlene Inhalte basierend auf der Auswahl/dem Interesse der Besucher
+- Dokumente freigeben und Interaktionen verfolgen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429414/?learn=on)

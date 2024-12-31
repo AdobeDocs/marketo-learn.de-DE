@@ -1,6 +1,6 @@
 ---
-title: Besucher mit Live-Agenten verbinden
-description: Verbinden Sie Ihre qualifizierten Leads, um sofort mit Ihren Vertriebsmitarbeitern zu interagieren.
+title: Verbinden von Besuchern mit Live-Agenten
+description: Verbinden Sie Ihre qualifizierten Leads, um sofort mit Ihren Vertriebsmitarbeitern in Kontakt zu treten.
 feature: Dynamic Chat
 role: User
 level: Beginner
@@ -16,14 +16,14 @@ ht-degree: 0%
 
 ---
 
-# Besucher mit Live-Agenten verbinden
+# Verbinden von Besuchern mit Live-Agenten
 
-In diesem Video erfahren Sie, wie Sie Live-Chat für Ihr Unternehmen mithilfe von Dynamic Chat implementieren können.
+In diesem Video erfahren Sie, wie Sie Live-Chat mithilfe von Dynamic Chat für Ihr Unternehmen implementieren können.
 
 Dies eignet sich am besten für:
 
-* Sales BDR-Teams, die einen selektiven und konservativen Ansatz bei der Verwendung von Verkaufsressourcen wünschen
-* Sicherstellen, dass Sie immer mit Handläufern reden
-* Angebot nach dem Ausfüllen des Formulars oder während eines automatisierten Chat-Gesprächs
+* Vertriebs-BDR-Teams wünschen einen selektiven und konservativen Ansatz bei der Verwendung von Vertriebsressourcen
+* Sicherstellen, dass du immer mit Handhebern sprichst
+* Angebote nach dem Ausfüllen des Formulars oder während eines automatisierten Chatgesprächs
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424828/?learn=on)

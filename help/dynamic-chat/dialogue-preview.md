@@ -1,6 +1,6 @@
 ---
-title: Dialogvorschau
-description: Die Vorschau Ihres Dialogfelds vor der Veröffentlichung ist mit der Funktion "Dialogvorschau"sehr einfach.
+title: Vorschau des Dialogfelds
+description: Die Vorschau Ihres Dialogfelds vor der Veröffentlichung ist mit der Dialogvorschau-Funktion extrem einfach.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,19 +11,19 @@ exl-id: b9bf800d-5d96-4a58-8296-f9466186a68c
 feature: Dynamic Chat
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# Dialogvorschau
+# Vorschau des Dialogfelds
 
-Die Vorschau Ihres Dialogfelds vor der Veröffentlichung ist mit der Funktion &quot;Dialogvorschau&quot;sehr einfach.
+Die Vorschau Ihres Dialogfelds vor der Veröffentlichung ist mit der Dialogvorschau-Funktion extrem einfach.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416923/?quality=12&learn=on){transcript=true}
 
 ## Weitere hilfreiche Videos
 
-* [Benutzer von [!UICONTROL Dynamic Chat] hinzufügen und verwalten](user-management.md)
-* [Personalisierte Dialogfelder erstellen und verwalten](dialogue-management.md)
+* [Benutzer von [!UICONTROL Dynamic Chat hinzufügen und verwalten]](user-management.md)
+* [Erstellen und Verwalten von personalisierten Dialogfeldern](dialogue-management.md)
 * [Aktivieren der Marketo-Integration mit [!UICONTROL Dynamic Chat]](marketo-integration.md)

@@ -1,6 +1,6 @@
 ---
-title: Einrichten und Verwalten eines Abonnement-Zentrums
-description: Erfahren Sie, wie Sie Prozesse zwischen Ihnen und Ihren Abonnenten implementieren können, indem Sie Ihr Abonnement-Center einrichten und verwalten.
+title: Einrichten und Verwalten eines Abonnementzentrums
+description: Sehen Sie sich an, wie Sie Prozesse zwischen Ihnen und Ihren Abonnentinnen und Abonnenten implementieren, indem Sie Ihr Abonnementzentrum einrichten und verwalten.
 role: User
 level: Beginner
 jira: KT-10743
@@ -11,13 +11,13 @@ hidefromtoc: true
 feature: Deliverability
 source-git-commit: 6431f68a2ffb3f8ccf1e35223592b9d8d1ea5126
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
-# Einrichten und Verwalten eines Abonnement-Zentrums
+# Einrichten und Verwalten eines Abonnementzentrums
 
-Erfahren Sie, wie Sie Prozesse zwischen Ihnen und Ihren Abonnenten implementieren können, indem Sie Ihr Abonnement-Center einrichten und verwalten.
+Sehen Sie sich an, wie Sie Prozesse zwischen Ihnen und Ihren Abonnentinnen und Abonnenten implementieren, indem Sie Ihr Abonnementzentrum einrichten und verwalten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345427/?quality=12&learn=on){transcript=true}

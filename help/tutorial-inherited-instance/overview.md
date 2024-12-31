@@ -1,6 +1,6 @@
 ---
-title: Tipps und Tricks zum Prüfen einer geerbten Marketo Engage-Instanz
-description: Erfahren Sie, wie Sie eine von Ihnen geerbte Live-Marketo Engage-Instanz optimieren und skalieren können.
+title: Tipps und Tricks zum Überprüfen einer vererbten Marketo Engage-Instanz
+description: Erfahren Sie, wie Sie eine vererbte Live-Marketo Engage-Instanz optimieren und skalieren können.
 feature: Administration
 role: Admin
 level: Beginner
@@ -17,27 +17,27 @@ ht-degree: 0%
 
 ---
 
-# Tipps und Tricks zum Prüfen einer geerbten Marketo Engage-Instanz - Tutorial-Übersicht
+# Tipps und Tricks zum Überprüfen einer vererbten Marketo Engage-Instanz - Tutorial-Übersicht
 
 *Source: Adobe Marketo Champions*
 
-Wenn Sie eine Live-Marketo Engage-Instanz erben, die von mehreren Leuten verwaltet wurde, können Sie feststellen, dass Sie sich von allem, was fehl am Platz erscheint, geistige Notizen machen. Es ist wichtig, die Bereinigungs- und Optimierungsarbeit zu organisieren, indem die Aufgaben kategorisiert und dann die Aufgaben priorisiert werden, die einen weiten Weg zurückgehen.
+Wenn Sie eine Live-Marketo Engage-Instanz erben, die von mehreren Personen verwaltet wurde, können Sie sich mental Notizen von allem machen, das fehl am Platz erscheint. Es ist wichtig, die Bereinigungs- und Optimierungsarbeit zu organisieren, indem die Aufgaben kategorisiert und dann die Aufgaben priorisiert werden, die viel bewirken.
 
-Dieses Tutorial zu den &quot;geerbten Instanzprüftipps und -tricks&quot;, das von Adobe Marketo Champions stammt, bietet neuen Administratoren eine schrittweise Anleitung. Das Tutorial begleitet herunterladbare [Audit-Checklisten](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html) und Vorlagen, damit Sie sofort eine geerbte Instanz starten können. Folgen Sie den Tutorials und lassen Sie sich inspirieren von Kollegen zu lernen! 
+Dieses Tutorial zu Tipps und Tricks zur Prüfung geerbter Instanzen von Adobe Marketo Champions liefert eine schrittweise Anleitung für neue Admins. Das Tutorial begleitet herunterladbare [Audit-Checklisten](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html) und Vorlagen, damit Sie eine geerbte Instanz sofort starten können. Folgen Sie den Tutorials und lassen Sie sich durch das Lernen von Gleich gesinnten inspirieren! 
 
-## Themen und Wissenswertes
+## Themen und Lerninhalte
 
-* **[Audit an inherited instance](/help/tutorial-inherited-instance/audit-an-inherted-instance.md)**
-  *Erfahren Sie, wie Sie eine vorhandene, für Sie neue Instanz prüfen. Testen Sie die vererbte Einrichtung mithilfe von nativen Tools wie Kampagneninspektoren, um Einblicke in Ihre Instanz zu erhalten*
+* **[Überwachen einer geerbten Instanz](/help/tutorial-inherited-instance/audit-an-inherted-instance.md)**
+  *Erfahren Sie, wie Sie eine vorhandene Instanz, die neu für Sie ist, überprüfen. Testen Sie das vererbte Setup mit vorkonfigurierten Tools wie Kampagnen-Inspektoren, um Einblicke in Ihre Instanz zu erhalten*
 
-* **[Fehler bei der CRM-Synchronisierung zur einfachen Fehlerbehebung protokollieren](/help/tutorial-inherited-instance/log-crm-sync-errors-for-easy-troubleshootig.md)**
-  *Erfahren Sie, wie Sie eine Admin-Routine einrichten, um Benachrichtigungen, CRM-Synchronisierung, Launchpoint und Webdienste zu überprüfen und Fehler rechtzeitig zu beheben.*
+* **[CRM-Synchronisierungsfehler protokollieren für einfache Fehlerbehebung](/help/tutorial-inherited-instance/log-crm-sync-errors-for-easy-troubleshootig.md)**
+  *Erfahren Sie, wie Sie eine Admin-Routine einrichten, um Benachrichtigungen, CRM-Synchronisierung, Launchpoint und Web-Services zu überprüfen und Fehler rechtzeitig zu beheben.*
 
-* **[Leitfaden zur Verwaltung von Instanzen entwickeln](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)**
-  *Erfahren Sie, wie die schnelle Effizienz bei der Optimierung des Programmaufbaus, der Verwaltung und des gesamten Marketing-Vorgangs gewonnen wird.*
+* **[Entwickeln eines Instanz-Governance-Handbuchs](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)**
+  *Erfahren Sie, wie Sie durch schnelle Effizienzgewinne den Programmaufbau, die Governance und die gesamten Marketing-Vorgänge optimieren können*
 
-* **[Marketing-Tech-Stack visuell zuordnen](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)**
-  *Erfahren Sie, wie Sie Datenquellen mit einem visuellen Architekturdiagramm zuordnen, um Ihren technischen Stack zu verstehen*
+* **[Planen Sie Ihren Marketing-Technologie-Stack visuell](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)**
+  *Erfahren Sie, wie Sie Datenquellen mit einem visuellen Architekturdiagramm zuordnen, um Ihren Technologie-Stack zu verstehen*
 
-* **[Qualitätssicherungsprozess (QS) vor der Programmeinführung](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)**
-  *Erfahren Sie, wie Sie einen effektiven QS-Prozess vor dem Start des Programms einrichten, um Fehler zu vermeiden.*
+* **[Qualitätssicherungsprozess (QA) vor dem Start des Programms](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)**
+  *Erfahren Sie, wie Sie einen effektiven Prozess zur Qualitätssicherung vor dem Start eines Programms einrichten, um Fehler zu vermeiden.*

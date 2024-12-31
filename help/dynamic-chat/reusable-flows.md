@@ -1,6 +1,6 @@
 ---
 title: Wiederverwendbare Flüsse
-description: Vereinfachen Sie die Gestaltung und Verwaltung Ihrer Gespräche mit der neuen Dialogfeldkarte. Konversations-Stream einmal erstellen und in mehreren Dialogfeldern erneut verwenden
+description: Vereinfachen Sie das Entwerfen und Verwalten Ihrer Konversationen mit der neuen Konversationsflusskarte. Einmaliges Erstellen eines Konversationsstroms und erneute Verwendung in mehreren Dialogfeldern
 feature: Dynamic Chat
 role: User
 level: Beginner
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Wiederverwendbare Flüsse
 
-Vereinfachen Sie die Gestaltung und Verwaltung Ihrer Gespräche mit der neuen Karte Konversationsfluss . Erstellen Sie einen Konversationsstream einmal und verwenden Sie ihn in mehrere Dialogfelder.
+Vereinfachen Sie das Entwerfen und Verwalten Ihrer Konversationen mit der neuen Karte Konversationsfluss . Erstellen Sie einen Konversations-Stream einmal und verwenden Sie ihn in mehreren Dialogfeldern neu.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429715/?learn=on)

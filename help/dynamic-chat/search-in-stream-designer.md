@@ -1,6 +1,6 @@
 ---
-title: Suchen im Stream-Designer
-description: Eine schnelle Suche hilft Ihnen, mit nur einem Klick zu einer beliebigen Karte in Ihrem Stream-Designer zu gelangen.
+title: Suchen in Stream Designer
+description: Eine schnelle Suche kann Ihnen dabei helfen, mit einem Klick zu einer beliebigen Karte in Ihrem Stream-Designer zu gelangen.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,19 +11,19 @@ exl-id: 598814fc-75f4-46b8-8975-c0a1c43b92ea
 feature: Dynamic Chat
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
-# Suchen im Stream-Designer
+# Suchen in Stream Designer
 
-Eine schnelle Suche hilft Ihnen, mit nur einem Klick zu einer beliebigen Karte in Ihrem Stream-Designer zu gelangen.
+Eine schnelle Suche kann Ihnen dabei helfen, mit einem Klick zu einer beliebigen Karte in Ihrem Stream-Designer zu gelangen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416925/?quality=12&learn=on){transcript=true}
 
 ## Weitere hilfreiche Videos
 
-* [Dialogvorschau](dialogue-preview.md)
-* [Personalisierte Dialogfelder erstellen und verwalten](dialogue-management.md)
+* [Vorschau des Dialogfelds](dialogue-preview.md)
+* [Erstellen und Verwalten von personalisierten Dialogfeldern](dialogue-management.md)
 * [Aktivieren der Marketo-Integration mit [!UICONTROL Dynamic Chat]](marketo-integration.md)
