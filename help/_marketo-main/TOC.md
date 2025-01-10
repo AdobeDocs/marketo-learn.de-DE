@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-Tutorials
 auto-video-transcripts: true
-source-git-commit: 4aa725929374c6a408e5c0f4b0c00e53ba17c3ed
+source-git-commit: e310fb4cd8dfc502ac49019f12ecb361ffbbccb4
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 10%
+source-wordcount: '430'
+ht-degree: 9%
 
 ---
 
@@ -121,3 +121,16 @@ ht-degree: 10%
 + Integrations-{#integrations}
    + [Marketo mit Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=de)
    + [API-Hilfe - Festlegen des Zugriffstokens in einer Variablen](/help/integrations/api-set-access-token-variable.md)
++ Verwalten von Duplikaten {#manage-duplicates}
+   + [Einführung in die Verwaltung von Duplikaten](/help/managing-duplicates/introduction-managing-duplicates.md)
+   + [Gründe für Duplikate verstehen](/help/managing-duplicates/why-duplicates-occur.md)
+   + [Dubletten identifizieren und vermeiden](/help/managing-duplicates/identify-prevent-duplicates.md)
+   + [Stellen Sie fest, wann doppelte Einträge erforderlich sind](/help/managing-duplicates/determine-necessary-duplicates.md)
+   + [Manuelles Zusammenführen doppelter Einträge](/help/managing-duplicates/merge-manually.md)
+   + [Massenzusammenführung von Duplikaten, Teil 1](/help/managing-duplicates/bulk-merge-part-1.md)
+   + [Massenzusammenführung von Duplikaten, Teil 2](/help/managing-duplicates/bulk-merge-part-2.md)
+   + [Massenzusammenführung von Duplikaten, Teil 3](/help/managing-duplicates/bulk-merge-part-3.md)
+   + [Automatisieren der Duplikatverwaltung - Teil 1](/help/managing-duplicates/automate-integration-part-1.md)
+   + [Automatisieren der Duplikatverwaltung - Teil 2](/help/managing-duplicates/automate-integration-part-2.md)
+   + [Vereinfachung der Duplikatverwaltung](/help/managing-duplicates/simplify-acs.md)
+   + [Die beste Strategie zum Verwalten von Duplikaten auswählen](/help/managing-duplicates/duplicate-strategy.md)
