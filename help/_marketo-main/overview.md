@@ -3,7 +3,7 @@ title: Marketo Engage-Tutorials
 description: Video-Tutorials ansehen unter [!DNL Marketo Engage]. Verbessern Sie Ihr Verständnis für die Verwendung von Funktionen zur Marketing-Automatisierung und mehr.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: b1bca74399683782c4691882f2239db60d117286
+source-git-commit: 7277269a9ff98122d8da3f90e1b4b91872352ecf
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 19%
@@ -23,7 +23,7 @@ Durchsuchen Sie unsere Tutorial-Bibliothek und nutzen Sie [!DNL Marketo Engage] 
 
 ## Neue Funktionen {#whats-new}
 
-* [Best Practices zur Implementierung von Live-Chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices.md)
+* [Best Practices zur Implementierung von Live-Chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
   _Erfahren Sie mehr über die Best Practices, die bei der Implementierung der Live-Chat-Funktion in Dynamic Chat befolgt werden sollten._
 
 * [Übersicht über interaktive Webinare](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
