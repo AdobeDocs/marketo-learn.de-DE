@@ -3,10 +3,10 @@ title: Marketo Engage-Tutorials
 description: Video-Tutorials ansehen unter [!DNL Marketo Engage]. Verbessern Sie Ihr Verständnis für die Verwendung von Funktionen zur Marketing-Automatisierung und mehr.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 3c79aa679e95d1aa967a8c3b2aa96607e17adb95
+source-git-commit: ee68cb7fc0dbf9c4ccae3f89fdbb6e097016ebf9
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 21%
+source-wordcount: '161'
+ht-degree: 24%
 
 ---
 
@@ -21,17 +21,16 @@ Durchsuchen Sie unsere Tutorial-Bibliothek und nutzen Sie [!DNL Marketo Engage] 
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div> -->
 
-
 ## Neue Funktionen {#whats-new}
 
+* [Übersicht über interaktive Webinare](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
+  _Erfahren Sie alles über interaktive Webinare, die integrierte Webinar-Plattform in Marketo Engage._
+
 * [Migration zu Adobe Identity Management](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
-  _Erfahren Sie, wie Sie die Adobe-Identity Management-Migration durchlaufen, um Adobe Marketo Engage zusammen mit anderen Adobe-Konten und Produkten für Ihre Benutzerinnen und Benutzer an einem zentralen Ort zu verwalten._
+  _Erfahren Sie, wie Sie die Adobe Identity Management-Migration durchlaufen, um Adobe Marketo Engage zusammen mit anderen Adobe-Konten und -Produkten für Ihre Benutzerinnen und Benutzer an einem zentralen Ort zu verwalten._
 
 * [Interaktive Webinare – Erkenntnisse und Aktionen nach dem Ereignis](https://experienceleague.adobe.com/de/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
   _Erfahren Sie, wo Sie detaillierte Informationen über die Leistung und Interaktion Ihrer Veranstaltung zu interaktiven Webinaren finden._
-
-* [Marketo-API-Video - So legen Sie das Zugriffstoken in einer Variablen fest](https://experienceleague.adobe.com/de/docs/marketo-learn/tutorials/integrations/api-set-access-token-variable)
-  _Erfahren Sie, wie Sie die Postman-Anwendung einrichten und Variablen nutzen können, um Daten zur Wiederverwendbarkeit in der Variablen zu speichern._
 
 ## Die beliebtesten Videos {#most-popular-videos}
 
