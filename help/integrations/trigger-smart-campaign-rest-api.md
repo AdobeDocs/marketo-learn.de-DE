@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie mit der REST-API einen Trigger für eine Smar
 feature: REST API
 role: Admin, Developer
 level: Experienced
-source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
+source-git-commit: e840968877b3947b2d24c9416104f1dd187082cc
 workflow-type: tm+mt
 source-wordcount: '611'
 ht-degree: 1%
@@ -54,13 +54,13 @@ You're registered for **{{my.WebinarTitle}}**.
 Join here: {{my.JoinLink}}
 ```
 
+Wenn Sie ein Token verwenden, um eine Bild-URL dynamisch einzufügen (z. B. `{{my.WebinarImage}}`), müssen Sie das Token in ein HTML-Bild-Tag einschließen:
+
+```html
+<img src="{{my.WebinarImage}}" alt="Webinar banner" />
+```
+
 >[!IMPORTANT]
->
->Wenn Sie ein Token verwenden, um eine Bild-URL dynamisch einzufügen (z. B. `{{my.WebinarImage}}`), müssen Sie das Token in ein HTML-Bild-Tag einschließen:
->
-> ```html
-> <img src="{{my.WebinarImage}}" alt="Webinar banner" />
-> ```
 >
 >Marketo Engage **wird das** nur rendern, wenn das Token in einem gültigen Bild-Tag platziert ist.
 
