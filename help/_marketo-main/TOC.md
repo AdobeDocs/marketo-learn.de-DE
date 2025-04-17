@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-Tutorials
 auto-video-transcripts: true
-source-git-commit: b1bca74399683782c4691882f2239db60d117286
+source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 9%
+source-wordcount: '454'
+ht-degree: 10%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 9%
    + Standardprogramme {#default-programs}
       + [Erstellen und Messen eines Standardprogramms](/help/programs/create-and-measure-default-programs.md)
       + [Nutzen der Flexibilität von Standardprogrammen](/help/programs/leverage-the-flexibility-of-default-programs.md)
-   + Interaktionszuordnungen {#engagement-maps}
+   + Interaktionskarten {#engagement-maps}
       + [Interaktionskarte - Übersicht](/help/engagement-maps/engagement-map-overview.md)
       + [Interaktionszuordnung für verschachtelte Kampagnen](/help/engagement-maps/engagement-map-nested-campaign.md)
       + [Fehlererkennung und -behebung bei der Interaktionszuordnung](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
@@ -56,7 +56,7 @@ ht-degree: 9%
    + [Bleipflege](/help/email-marketing/lead-nuturing-learn.md)
    + [Dynamische und prädiktive Inhalte](/help/email-marketing/dynamic-and-predictive-content-learn.md)
    + [Filtern von E-Mail-Bot-Aktivitäten - Einrichtung](/help/filtering-email-bot-activities/setup.md)
-+ Kanalübergreifende Marketing-{#cross-channel-marketing}
++ Cross-Channel-Marketing {#cross-channel-marketing}
    + [Anleitung zu Forms](/help/email-marketing/forms-watch.md)
    + [Mobile Marketing integrieren](/help/cross-channel-marketing/mobile-marketing-learn.md)
    + [Anleitung für Mobile-Marketing](/help/cross-channel-marketing/mobile-marketing-watch.md)
@@ -89,7 +89,7 @@ ht-degree: 9%
    + [Besprechungsbuchungen](/help/dynamic-chat/meeting-booking.md)
    + [Führen von KI-gestützten Konversationen](/help/dynamic-chat/gen-ai-features.md)
    + [Interaktionsbericht](/help/dynamic-chat/engagement-report.md)
-+ Sales Insights-Aktionen {#sales-insight-actions}
++ Sales Insight-Aktionen {#sales-insight-actions}
    + [Überblick](/help/sales-insight-actions/overview.md)
    + [Übersicht über Sales Insight-Aktionen](/help/sales-insight-actions/sales-insight-actions-overview.md)
    + [Zugriff auf Ihre Sales Insight-Aktionsinstanz](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
@@ -104,7 +104,7 @@ ht-degree: 9%
    + [Erste Schritte mit der Synchronisierung mit Microsoft Dynamics](/help/integrations/microsoft-dynamics-sync-setup.md)
    + [Lead-Lebenszyklus](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [Anleitung zum Lead-Lebenszyklus](/help/lead-and-data-management/lead-lifecycle-watch.md)
-+ {#events}
++ Ereignisse {#events}
    + [Anleitung für Ereignisse](/help/events/events-watch.md)
    + [Erstellen eines Veranstaltungsprogramms](/help/events/events-learn.md)
    + [Webinare](/help/events/webinar-learn.md)
@@ -118,11 +118,12 @@ ht-degree: 9%
    + [Versand interaktiver Webinare - Ereignisse](/help/events/interactive-webinars-event-delivery.md)
    + [Interaktive Webinare nach Ereignissen - Einblicke und Aktionen](/help/events/interactive-webinars-post-event-insights-and-actions.md)
    + [On-Demand-Webinare](/help/events/on-demand-webinars.md)
-+ Reporting- und {#reporting}
++ Reporting und Analysen {#reporting}
    + [Wichtige Berichte](/help/reporting/key-reports.md)
-+ Integrations-{#integrations}
++ Integrationen {#integrations}
    + [Marketo mit Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=de)
    + [API-Hilfe - Festlegen des Zugriffstokens in einer Variablen](/help/integrations/api-set-access-token-variable.md)
+   + [Trigger einer Smart Campaign in Marketo Engage mit der REST-API und Token](/help/integrations/trigger-smart-campaign-rest-api.md)
 + Verwalten von Duplikaten {#manage-duplicates}
    + [Einführung in die Verwaltung von Duplikaten](/help/managing-duplicates/introduction-managing-duplicates.md)
    + [Gründe für Duplikate verstehen](/help/managing-duplicates/why-duplicates-occur.md)
