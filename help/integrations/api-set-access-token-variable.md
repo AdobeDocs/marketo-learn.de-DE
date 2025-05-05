@@ -24,11 +24,11 @@ Erfahren Sie, wie Sie die Postman-Anwendung einrichten und Variablen nutzen, um 
 >
 >Bevor Sie mit diesem Video beginnen, erstellen Sie einen Benutzernamen „Nur API“ mit einer API-Rolle und einen Launchpad-Service. Führen Sie die Schritte in den folgenden Artikeln aus:
 >
->* [Erstellen einer Benutzerrolle nur für API](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
+>* [Erstellen einer Benutzerrolle nur für API](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
 >
->* [Nur API-Benutzer erstellen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
+>* [Nur API-Benutzer erstellen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
 >
->* [Erstellen eines benutzerdefinierten Services zur Verwendung mit der REST-API](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
+>* [Erstellen eines benutzerdefinierten Services zur Verwendung mit der REST-API](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
 
 **In diesem Video verwendete Verweise:**
 
@@ -41,6 +41,6 @@ var jsonData = pm.response.json();
 pm.environment.set("access_token", jsonData.access_token);
 ```
 
-* Dokumentation für [Marketo Engage-Entwickler](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}
+* Dokumentation für [Marketo Engage-Entwickler](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429275/?learn=on)

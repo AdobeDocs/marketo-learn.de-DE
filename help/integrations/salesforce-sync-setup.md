@@ -26,18 +26,18 @@ Erfahren Sie, wie Marketo Engage und Salesforce zusammenarbeiten, um Ihre Verkau
 
 ## Im Video verwendete Links
 
-* [Grundlegendes zur Synchronisierung von Salesforce](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+* [Grundlegendes zur Synchronisierung von Salesforce](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=de)
 
-* [Marketo-Felder zu Salesforce hinzufügen (Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.html)
+* [Marketo-Felder zu Salesforce hinzufügen (Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.html?lang=de)
 
-* [Erstellen eines Marketo-Benutzers in Salesforce (Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.html)
+* [Erstellen eines Marketo-Benutzers in Salesforce (Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.html?lang=de)
 
-* [Marketo und Salesforce verbinden (Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.html)
+* [Marketo und Salesforce verbinden (Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.html?lang=de)
 
-* [Benutzer müssen die verbundene App auf der Salesforce-Seite einrichten, bevor sie mit der Synchronisierung von Marketo und Salesforce fortfahren können.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html)
+* [Benutzer müssen die verbundene App auf der Salesforce-Seite einrichten, bevor sie mit der Synchronisierung von Marketo und Salesforce fortfahren können.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html?lang=de)
 
-* [Synchronisierungsstatus für Salesforce](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status.html)
+* [Synchronisierungsstatus für Salesforce](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status.html?lang=de)
 
-* [Ein- und Ausblenden eines Felds](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/hide-and-unhide-a-field.html)
+* [Ein- und Ausblenden eines Felds](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/hide-and-unhide-a-field.html?lang=de)
 
-* [Tutorial: Erfahren Sie mehr über das Synchronisieren von Marketo mit Ihrem CRM](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html)
+* [Tutorial: Erfahren Sie mehr über das Synchronisieren von Marketo mit Ihrem CRM](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html?lang=de)

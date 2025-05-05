@@ -28,7 +28,7 @@ Erfahren Sie mehr über die wichtigsten Berichte in Marketo Engage und wie Sie s
 
 Lesen Sie die entsprechenden Produkthandbücher:
 
-* [Berichtstyp - Übersicht](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en)
+* [Berichtstyp - Übersicht](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=de)
 
 Lernen von Kollegen:
 

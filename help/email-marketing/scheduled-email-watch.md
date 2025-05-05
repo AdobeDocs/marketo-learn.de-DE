@@ -24,4 +24,4 @@ Erfahren Sie, wie Sie ein geplantes E-Mail-Programm erstellen, verwalten und ver
 
 Weitere Informationen zu E-Mail-Programmen finden Sie im Produkthandbuch:
 
-* [Informationen zur Dokumentation zu E-Mail-Programmen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [Informationen zur Dokumentation zu E-Mail-Programmen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=de)

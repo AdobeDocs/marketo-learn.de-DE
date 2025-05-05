@@ -28,7 +28,7 @@ Intelligente Kampagnen sind die Engine von Marketo. Neben der Verwendung von Sma
 
 **Dokumentation:**
 
-* [Grundlegendes zur Dokumentation zu Smart Campaign](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
+* [Grundlegendes zur Dokumentation zu Smart Campaign](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=de)
 
 **Expert Customer Blog-Beiträge:**
 

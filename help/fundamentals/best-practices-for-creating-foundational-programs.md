@@ -26,9 +26,9 @@ Machen Sie sich mit den vier Programmtypen vertraut, erfahren Sie, wie Sie Progr
 
 **Produkthandbücher:**
 
-* [Grundlegendes zu Programmen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html)
-* [Erstellen eines Programms](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.html)
-* [Best Practices: So organisieren Sie Ihre Programme](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html)
-* [Programm importieren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html)
-* [Grundlegendes zu Tags](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html)
+* [Grundlegendes zu Programmen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=de)
+* [Erstellen eines Programms](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.html?lang=de)
+* [Best Practices: So organisieren Sie Ihre Programme](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html?lang=de)
+* [Programm importieren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html?lang=de)
+* [Grundlegendes zu Tags](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html?lang=de)
 * [Der definitive Leitfaden zur Lead-Bewertung](https://business.adobe.com/resources/guides/lead-scoring.html)
