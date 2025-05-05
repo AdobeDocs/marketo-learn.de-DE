@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Landingpages erstellen, anpassen und personalisieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/345469/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416210/?quality=12&learn=on&captions=ger){transcript=true}

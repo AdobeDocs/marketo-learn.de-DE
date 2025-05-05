@@ -18,7 +18,7 @@ ht-degree: 2%
 
 Erfahren Sie, wie Sie ein Veranstaltungsprogramm für eine Handelsmesse erstellen, das auf einem vorkonfigurierten Programm in Marketo basiert.
 
->[!VIDEO](https://video.tv.adobe.com/v/345473/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415882/?quality=12&learn=on&captions=ger){transcript=true}
 
 ## Zusätzliche Ressourcen
 

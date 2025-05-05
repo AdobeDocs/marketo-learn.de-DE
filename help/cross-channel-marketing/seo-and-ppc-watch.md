@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Sehen Sie sich an, wie Sie Schritte für den Erfolg implementieren, um vorteilhafte SEO- und PPC-Strategien zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/345400/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418979/?quality=12&learn=on&captions=ger){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Erstellen Sie ein [!UICONTROL Personen-Lebenszyklus]-Programm, das Ihre Leads mithilfe des Programmstatus verfolgt und auf die Leads reagiert, die für den Verkauf bereit sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/345423/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417582/?quality=12&learn=on&captions=ger){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Um in der heutigen sich wandelnden digitalen Marketing-Landschaft zu gewinnen, benötigen Sie ein Team, das auf die sich verändernden Herausforderungen reagieren kann, mit denen Marketing-Experten täglich konfrontiert sind. Erfahren Sie, wie Sie Ihre Marketing-Organisation strukturieren können, um die neuen Herausforderungen zu meistern, welche Art von Mitarbeitern Sie im Team benötigen und wie Sie Marketing-Personen, die Ihr Unternehmen unterstützen, am besten in die Interaktionsökonomie integrieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/345416/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418976/?quality=12&learn=on&captions=ger){transcript=true}

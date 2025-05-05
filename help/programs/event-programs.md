@@ -20,7 +20,7 @@ ht-degree: 27%
 
 Entwickeln Sie ein grundlegendes Verständnis und bauen Sie Ihr erstes Veranstaltungsprogramm auf, indem Sie sich dieses Video ansehen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419622/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454003/?learn=on&captions=ger){transcript=true}
 
 ## Zusätzliche Ressourcen
 

@@ -21,4 +21,4 @@ ht-degree: 0%
 Eine Anleitung, die Ihnen hilft, alle Funktionen zu verstehen, mit denen Sie alle Ihre Agenten von einem Ort aus verwalten können, der mit Ihren Web-Besuchern interagiert.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3424829/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447242/?learn=on&captions=ger)

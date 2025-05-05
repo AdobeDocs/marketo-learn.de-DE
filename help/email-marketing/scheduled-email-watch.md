@@ -18,7 +18,7 @@ ht-degree: 3%
 
 Erfahren Sie, wie Sie ein geplantes E-Mail-Programm erstellen, verwalten und verfolgen.
 
->[!VIDEO](https://video.tv.adobe.com/v/345467/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416213/?quality=12&learn=on&captions=ger){transcript=true}
 
 ## Zusätzliche Ressourcen
 

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie in Marketo einen E-Mail-A/B-Test erstellen, um die E-Mail-Leistung zu verbessern.
 
->[!VIDEO](https://video.tv.adobe.com/v/345484/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413299/?quality=12&learn=on&captions=ger){transcript=true}

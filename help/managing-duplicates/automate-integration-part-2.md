@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Feldzuordnungen, Zusammenführungslogik und Zeitplanung einrichten, um die Verwaltung von Duplikaten zwischen Marketo Engage- und iPaaS-Tools zu automatisieren. In diesem Video-Demo des Workflows wird Vertify als Beispiel verwendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453816/?learn=on&enablevpops&captions=ger)

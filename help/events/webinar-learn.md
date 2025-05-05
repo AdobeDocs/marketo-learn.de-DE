@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Sind Sie bereit, im Rahmen Ihrer Marketing-Aktivitäten ein Webinar durchzuführen? Erfahren Sie, wie Webinare mit [!DNL Marketo Engage] und seinen Adobe Exchange-Webinar-Partnern zusammenarbeiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/345476/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415879/?quality=12&learn=on&captions=ger){transcript=true}

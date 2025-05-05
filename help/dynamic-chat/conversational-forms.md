@@ -22,4 +22,4 @@ Binden Sie jetzt sofort nach dem Ausfüllen eines Formulars Ihre Website-Besuche
 
 In unserem Schritt-für-Schritt-Video führen wir Sie durch den Prozess, sodass Sie dieses leistungsstarke Tool einfach für Ihr Unternehmen implementieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443365/?learn=on&captions=ger)

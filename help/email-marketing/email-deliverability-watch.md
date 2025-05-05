@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Sehen Sie sich an, wie Sie die E-Mail-Zustellbarkeit durch Best Practices, E-Mail-Authentifizierung und Reputation optimieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/345482/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413301/?quality=12&learn=on&captions=ger){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Mit den integrierten A/B-Testfunktionen von Marketo können Sie datengesteuerte Entscheidungen treffen, um die Effektivität Ihrer E-Mails zu verbessern, indem Sie beispielsweise Betreffzeilen, Wochentag und Tageszeit, Absenderadresse usw. testen. Erfahren Sie mehr über die Verwendung von E-Mail-A/B-Tests in Marketo zur Verbesserung der E-Mail-Leistung.
 
->[!VIDEO](https://video.tv.adobe.com/v/345483/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413300/?quality=12&learn=on&captions=ger){transcript=true}

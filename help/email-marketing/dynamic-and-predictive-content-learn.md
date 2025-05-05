@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Die Bereitstellung relevanter Inhalte ist eine der wichtigsten Ideen im Marketing. Erfahren Sie, wie Sie die Content-KI von Marketo verwenden und wie Sie bei der Arbeit mit Marketo dynamische Inhalte anwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/345485/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413298/?quality=12&learn=on&captions=ger){transcript=true}

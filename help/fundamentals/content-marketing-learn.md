@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Zielgruppen durch die Entwicklung einer Content-Marketing-Strategie anziehen, gewinnen und ansprechen. Lernen Sie die wichtigsten Schritte für den Erfolg kennen, zu denen die Optimierung und Messung der Wirkung Ihrer Inhalte gehört.
 
->[!VIDEO](https://video.tv.adobe.com/v/345417/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418973/?quality=12&learn=on&captions=ger){transcript=true}

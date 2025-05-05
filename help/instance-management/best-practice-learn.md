@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Das Befolgen [!DNL Marketo's] empfohlenen Best Practices für die Organisation Ihrer Programme und Ihrer Instanz kann Ihnen und Ihren Kollegen dabei helfen, das zu finden, was Sie bei Bedarf in Ihrer Instanz benötigen, und das Reporting präziser gestalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/345420/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418971/?quality=12&learn=on&captions=ger){transcript=true}

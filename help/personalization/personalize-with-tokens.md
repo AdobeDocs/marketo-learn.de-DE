@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Token in Marketo-Programmen verwenden. Die Verwendung von Token in Marketo-Programmen kann bei der Personalisierung, einer schnelleren Programmerstellung und einer verringerten Wahrscheinlichkeit von Tippfehlern oder menschlichen Fehlern helfen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421605/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423549/?learn=on&captions=ger){transcript=true}

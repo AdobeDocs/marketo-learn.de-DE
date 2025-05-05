@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie die Interaktionszuordnung bei der schnellen Fehlerbehebung und Behebung von Kampagnenproblemen hilft
 
->[!VIDEO](https://video.tv.adobe.com/v/3422246/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423287/?learn=on&captions=ger){transcript=true}

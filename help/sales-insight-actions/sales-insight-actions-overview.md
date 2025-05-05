@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Beschleunigen Sie die Akquise mit Marketing-gestützten Intelligence- und Interaktions-Tools in einem einzigen Workflow mithilfe von Sales Insight-Aktionen.
 
->[!VIDEO](https://video.tv.adobe.com/v/340917/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447254/?quality=12&learn=on&captions=ger){transcript=true}
 
 ## Verwandte Videos
 

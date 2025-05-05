@@ -26,4 +26,4 @@ Anwendungsfälle, die Sie entsperren können -
 - Empfohlene Inhalte basierend auf der Auswahl/dem Interesse der Besucher
 - Dokumente freigeben und Interaktionen verfolgen
 
->[!VIDEO](https://video.tv.adobe.com/v/3429414/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445110/?learn=on&captions=ger)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wo Sie detaillierte Informationen zur Leistung und Interaktion Ihrer bereitgestellten interaktiven Webinar-Veranstaltung finden. Entdecken Sie Aktionen, um Leads/Teilnehmer basierend auf den erfassten Interaktionserkenntnissen und Absichten zu segmentieren, zu bewerten und zu pflegen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429641/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447857/?learn=on&captions=ger)

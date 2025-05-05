@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Wenn Sie zum ersten Mal mit Marketo Engage arbeiten, ist die Organisation von entscheidender Bedeutung. Wenn Sie in Ihrer Instanz organisiert bleiben, können Sie und Ihre Kollegen Kampagnen, Programme und Assets einfach verfolgen. Erfahren Sie, wie Sie Ihren Navigationsbaum in [!UICONTROL Marketing-Aktivitäten] mithilfe von Ordnern, Standardnamenskonventionen und Funktionen wie Klonen organisieren können, um in einer neuen [!DNL Marketo Engage]-Instanz einfach mit Ihren Kollegen zusammenzuarbeiten. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3421577/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422763/?learn=on&captions=ger){transcript=true}
 
 ## Weitere Ressourcen
 

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Wandeln Sie alle CTA-Klicks, Seitenladevorgänge oder Besucheraktionen auf Ihrer Web-Seite in eine ansprechende Konversation mit SDK Conversations um. Hier finden Sie eine schrittweise Anleitung zur Implementierung von auf Ihrer Website
 
->[!VIDEO](https://video.tv.adobe.com/v/3425034/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448871/?learn=on&captions=ger)

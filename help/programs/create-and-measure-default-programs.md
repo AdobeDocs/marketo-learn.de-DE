@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie den Erfolg Ihrer Standardprogramme erstellen und messen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419623/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424475/?learn=on&captions=ger){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Sehen Sie sich an, wie Sie Prozesse zwischen Ihnen und Ihren Abonnentinnen und Abonnenten implementieren, indem Sie Ihr Abonnementzentrum einrichten und verwalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/345427/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417577/?quality=12&learn=on&captions=ger){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Bereiten Sie sich darauf vor, Ihre Kunden als Einzelpersonen in Ihr E-Mail-Marketing einzubinden. Erfahren Sie, wie Sie überzeugende Nachrichten vermitteln, die für Ihre Audience relevant sind, und den ROI Ihrer E-Mail-Kampagnen messen.
 
->[!VIDEO](https://video.tv.adobe.com/v/345466/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416212/?quality=12&learn=on&captions=ger){transcript=true}

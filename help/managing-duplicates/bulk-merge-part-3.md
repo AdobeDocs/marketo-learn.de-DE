@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Beenden Sie die Massenzusammenführung, indem Sie bereinigte Daten erneut in Marketo Engage importieren und Duplikate mit einer operativen Kampagne effektiv verwalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429488/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452756/?learn=on&enablevpops&captions=ger)

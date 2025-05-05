@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Möchten Sie sicherstellen, dass Ihr Content-Marketing potenzielle Käufer anspricht und Leads generiert? Das Erstellen von Käuferrollen hilft Ihnen dabei, zu bestimmen, welche Art von Inhalten Sie benötigen und wie Käufer Informationen finden und nutzen werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/345415/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418975/?quality=12&learn=on&captions=ger){transcript=true}

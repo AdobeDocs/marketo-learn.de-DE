@@ -18,7 +18,7 @@ ht-degree: 33%
 
 Ein Handbuch zur Installation von Chatbot-JavaScript auf Ihrer Website oder Landingpage und zur Anpassung des Erscheinungsbilds an Ihre Marke.
 
->[!VIDEO](https://video.tv.adobe.com/v/340257/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/346222/?quality=12&learn=on&captions=ger){transcript=true}
 
 ## Weitere hilfreiche Videos
 

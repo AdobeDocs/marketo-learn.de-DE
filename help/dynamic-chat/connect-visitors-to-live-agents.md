@@ -26,4 +26,4 @@ Dies eignet sich am besten für:
 * Sicherstellen, dass du immer mit Handhebern sprichst
 * Angebote nach dem Ausfüllen des Formulars oder während eines automatisierten Chatgesprächs
 
->[!VIDEO](https://video.tv.adobe.com/v/3424828/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452067/?learn=on&captions=ger)

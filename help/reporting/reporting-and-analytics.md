@@ -22,7 +22,7 @@ ht-degree: 2%
 
 Erfahren Sie, wie Sie im Abschnitt „Analytics und Datenbank“ navigieren, um verschiedene gebrauchsfertige Berichte als Marketo Engage abzurufen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446429/?learn=on&captions=ger){transcript=true}
 
 ## Weitere Ressourcen
 

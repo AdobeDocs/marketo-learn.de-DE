@@ -20,4 +20,4 @@ ht-degree: 82%
 
 Machen Sie sich mit den verschiedenen Elementen eines Veranstaltungsprogramms für interaktive Webinare vertraut und lernen Sie die Aktionen kennen, die Sie ergreifen können, um es zu verfeinern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429640/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450089/?learn=on&captions=ger)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Steigern Sie Ihre Konversionen durch die Erstellung und Gestaltung von Landingpages mit Best Practices.
 
->[!VIDEO](https://video.tv.adobe.com/v/345468/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416211/?quality=12&learn=on&captions=ger){transcript=true}

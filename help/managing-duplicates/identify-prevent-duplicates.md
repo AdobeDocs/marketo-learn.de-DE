@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erkunden Sie die Tools und Tipps zum Erkennen von Duplikaten und Verhindern dieser Duplikate durch strukturierte Workflows und regelmäßige Audits.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429500/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447107/?learn=on&enablevpops&captions=ger)

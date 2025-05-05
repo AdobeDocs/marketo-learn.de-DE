@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Duplikate aus verschiedenen Quellen stammen, einschließlich CRM-Synchronisationen, Formularausfüllungen und Datenimporten, und wie Sie sie minimieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441864/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443899/?learn=on&enablevpops&captions=ger)

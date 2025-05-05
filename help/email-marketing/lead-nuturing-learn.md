@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Mit [!UICONTROL Person Nurturing] können Sie auf die Bedürfnisse von Einzelpersonen eingehen und mit relevanten Inhalten auf ihrem Unique-Buyer-Journey reagieren. Erfahren Sie mehr über Programme für Pflege, wie sie funktionieren und Schritte für den Erfolg.
 
->[!VIDEO](https://video.tv.adobe.com/v/345478/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415877/?quality=12&learn=on&captions=ger){transcript=true}

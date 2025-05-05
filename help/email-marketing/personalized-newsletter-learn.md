@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Interagieren Sie mit Interessenten und Kunden auf kosteneffiziente Weise mithilfe personalisierter E-Mail-Newsletter.
 
->[!VIDEO](https://video.tv.adobe.com/v/345471/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416209/?quality=12&learn=on&captions=ger){transcript=true}

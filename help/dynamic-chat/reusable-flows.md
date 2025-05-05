@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Vereinfachen Sie das Entwerfen und Verwalten Ihrer Konversationen mit der neuen Karte Konversationsfluss . Erstellen Sie einen Konversations-Stream einmal und verwenden Sie ihn in mehreren Dialogfeldern neu.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429715/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446654/?learn=on&captions=ger)

@@ -20,4 +20,4 @@ ht-degree: 1%
 
 Erfahren Sie, wie Sie Ihre Veranstaltung zu interaktiven Webinaren vor dem Versand so konfigurieren, dass sie den Zielen des Webinars entspricht, und sicherstellen, dass der Versand effektiv genug ist, um die Teilnehmer einzubinden, Interesse zu wecken und Absichten für die Marke, das Produkt und die Services zu wecken. usw.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429637/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448993/?learn=on&captions=ger)

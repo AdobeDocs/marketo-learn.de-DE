@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Wissen Sie, wie viele Leads sich in den einzelnen Phasen des Journey befinden und wann der Vertrieb sie kontaktieren sollte? Erfahren Sie mehr über die Erstellung eines [!UICONTROL Personen-Lebenszyklus]-Programms, das Bewertungen verwendet, um Einblicke in die Position Ihrer Leads auf ihrem Journey zu erhalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/345422/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417583/?quality=12&learn=on&captions=ger){transcript=true}

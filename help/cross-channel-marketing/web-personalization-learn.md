@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Bereitstellen eines persönlichen und relevanten Erlebnisses für jeden Website-Besucher basierend darauf, wer er ist und was er tut. Erfahren Sie mehr über die Segmentierung und Zielgruppenbestimmung Ihrer Website-Besucher, um maßgeschneiderte, aussagekräftigere und ansprechendere Erlebnisse zu schaffen.
 
->[!VIDEO](https://video.tv.adobe.com/v/345405/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418977/?quality=12&learn=on&captions=ger){transcript=true}

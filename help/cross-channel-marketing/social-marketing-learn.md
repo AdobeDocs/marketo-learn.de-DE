@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Sie sind sich nicht sicher, wie Sie Social Marketing am besten nutzen können? Erfahren Sie, wie Sie mithilfe Ihres Social-Media-Kanals die Markenwahrnehmung effektiv steigern und die Markennutzung fördern können.
 
->[!VIDEO](https://video.tv.adobe.com/v/345407/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416215/?quality=12&learn=on&captions=ger){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Sehen Sie sich an, wie Sie Käuferrollen erstellen, KPIs festlegen, Ihre Kommunikationskadenz bestimmen, den [!DNL Marketo] Marketing-Kalender verwenden und vieles mehr, um Ihre Mobile-Marketing-Strategie zu verbessern.
 
->[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418978/?quality=12&learn=on&captions=ger){transcript=true}

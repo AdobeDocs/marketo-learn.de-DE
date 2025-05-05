@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Eine schnelle Suche kann Ihnen dabei helfen, mit einem Klick zu einer beliebigen Karte in Ihrem Stream-Designer zu gelangen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416925/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437252/?quality=12&learn=on&captions=ger){transcript=true}
 
 ## Weitere hilfreiche Videos
 

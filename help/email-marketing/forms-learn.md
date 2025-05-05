@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Verwenden Sie [!DNL Marketo forms], um Personendaten progressiv zu erfassen, wenn Interessenten Ihre Website besuchen.
 
->[!VIDEO](https://video.tv.adobe.com/v/345474/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415881/?quality=12&learn=on&captions=ger){transcript=true}

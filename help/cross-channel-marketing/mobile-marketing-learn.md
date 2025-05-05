@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Mit der heutigen Überschwemmung mit Technologie ist Mobile Marketing eine der wichtigsten Strategien, die es einzusetzen gilt. Erfahren Sie, wie Sie Beziehungen zu Ihren Käufern aufbauen können, indem Sie durch die Bequemlichkeit mobiler Geräte persönliche und Echtzeit-Verbindungen erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/345403/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415883/?quality=12&learn=on&captions=ger){transcript=true}

@@ -18,5 +18,5 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie ein Webinar erstellen und von Marketo aus verwalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/345477/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415878/?quality=12&learn=on&captions=ger){transcript=true}
 

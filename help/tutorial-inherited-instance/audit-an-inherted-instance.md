@@ -24,4 +24,4 @@ Das Vererben einer Marketo Engage-Instanz kann zu einer anstrengenden Zeit werde
 
 In diesem Tutorial führen wir Sie durch die wichtigsten Abschnitte in Marketo Engage, einschließlich Admin, Marketing-Aktivitäten, Design Studio und Database, und geben Ihnen Tipps für Auditing und Optimierung auf dem Weg.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453031/?learn=on&captions=ger)

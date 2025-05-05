@@ -21,7 +21,7 @@ ht-degree: 40%
 
 Intelligente Kampagnen sind die Engine von Marketo. Neben der Verwendung von Smart-Kampagnen zum Senden von E-Mails und Programmen können Sie Smart-Kampagnen für eine Vielzahl von Anwendungsfällen verwenden. Erfahren Sie, wie Sie intelligente Kampagnen für die Datennormalisierung und automatisierte Warnhinweise verwenden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424498/?quality=12&learn=on&captions=ger){transcript=true}
 
 
 ## Weitere Ressourcen

@@ -16,7 +16,7 @@ ht-degree: 0%
 
 In diesem Video erhalten Sie einen Überblick darüber, wie Sie auf Ihr [!UICONTROL Sales Insights-]-Konto zugreifen können, um Inhalte zu erstellen, Ihr Konto zu konfigurieren, neue Benutzende einzuladen und vieles mehr.
 
->[!VIDEO](https://video.tv.adobe.com/v/340925/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441592/?quality=12&learn=on&captions=ger){transcript=true}
 
 ## Verwandte Videos
 

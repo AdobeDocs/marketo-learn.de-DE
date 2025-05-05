@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie miteinander verbundene und tief verschachtelte Kampagnen entschlüsseln können, um mithilfe von Engagement Map einen besseren Einblick in die gesamte Kunden-Journey zu erhalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422235/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423296/?learn=on&captions=ger){transcript=true}

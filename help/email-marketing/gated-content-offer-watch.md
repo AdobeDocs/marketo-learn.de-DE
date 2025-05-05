@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Sehen Sie sich an, wie Sie in Marketo ein E-Mail-Programm mit gated content einrichten und verfolgen.
 
->[!VIDEO](https://video.tv.adobe.com/v/345465/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416216/?quality=12&learn=on&captions=ger){transcript=true}

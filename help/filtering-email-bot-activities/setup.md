@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Eine Anleitung, die Ihnen hilft, E-Mail-Aktivitäten anhand von Bots zu identifizieren und Kampagnen mit Ausnahme von Bots zu filtern und zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/341158/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445121/?quality=12&learn=on&captions=ger){transcript=true}

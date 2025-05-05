@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Möglicherweise wissen Sie bereits, wie Sie ein nicht-englisches Dialogfeld erstellen können (falls nicht, [hier klicken](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39){target="_blank"}). Sie können statische Inhalte/Systeminhalte in der Sprache Ihrer Wahl personalisieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416924/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3439223/?quality=12&learn=on&captions=ger){transcript=true}
 
 ## Weitere hilfreiche Videos
 

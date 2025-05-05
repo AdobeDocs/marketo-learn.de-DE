@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Wenn all Ihre Marketing-Maßnahmen in eine Strategie passen, die die Ziele Ihres Unternehmens unterstützt, können Sie den Wert Ihrer Programme und Kampagnen besser unter Beweis stellen. Erfahren Sie, wie Sie Ihre Marketing-Ziele und -Strategien zentral zusammenführen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/345419/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418972/?quality=12&learn=on&captions=ger){transcript=true}

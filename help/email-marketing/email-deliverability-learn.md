@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Ihre Marketing-Nachricht erfüllt Ihre Ziele nicht, wenn Ihre E-Mails nicht in die Posteingänge Ihrer Abonnenten gelangen. Erfahren Sie, wie Sie E-Mails erfolgreich an Abonnentinnen und Abonnenten senden können, die sie lesen möchten.
 
->[!VIDEO](https://video.tv.adobe.com/v/345481/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413302/?quality=12&learn=on&captions=ger){transcript=true}

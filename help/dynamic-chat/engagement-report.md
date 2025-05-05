@@ -20,7 +20,7 @@ ht-degree: 7%
 
 Sehen Sie sich jetzt die Trends an, wie Ihre Web-Besucher mit Ihrem Dialogfeld interagieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416921/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437709/?quality=12&learn=on&captions=ger){transcript=true}
 
 ## Weitere hilfreiche Videos
 

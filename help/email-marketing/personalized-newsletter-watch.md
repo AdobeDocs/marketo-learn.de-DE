@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie in Marketo ein personalisiertes Newsletter-E-Mail-Programm erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/345470/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416208/?quality=12&learn=on&captions=ger){transcript=true}

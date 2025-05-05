@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mithilfe von ausgelösten E-Mail-Kampagnen [!DNL Marketo] Käuferverhalten nutzen können, um mit zeitnahen und relevanten Nachrichten zu interagieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/345479/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413304/?quality=12&learn=on&captions=ger){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Nutzen Sie die persönliche Interaktion mit Ihren Event-Marketing-Programmen, um Beziehungen aufzubauen, Goodwill zu generieren und das Vertrauen potenzieller Käufer und Kunden zu gewinnen.
 
->[!VIDEO](https://video.tv.adobe.com/v/345472/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415884/?quality=12&learn=on&captions=ger){transcript=true}

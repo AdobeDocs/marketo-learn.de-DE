@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie eine ausgelöste intelligente Kampagne erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/345480/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413303/?quality=12&learn=on&captions=ger){transcript=true}

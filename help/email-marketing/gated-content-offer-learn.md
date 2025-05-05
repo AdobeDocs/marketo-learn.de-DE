@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Wenn Sie einige Ihrer besten Inhalte als Content-Marketing-Strategie ermitteln, können Sie Leads generieren und erfahren, welche Ihrer Besucher es ernst meint. Erfahren Sie mehr über Gated Content, wie er funktioniert und Schritte für den Erfolg.
 
->[!VIDEO](https://video.tv.adobe.com/v/345464/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417576/?quality=12&learn=on&captions=ger){transcript=true}

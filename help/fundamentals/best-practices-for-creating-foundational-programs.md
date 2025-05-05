@@ -20,7 +20,7 @@ ht-degree: 2%
 
 Machen Sie sich mit den vier Programmtypen vertraut, erfahren Sie, wie Sie Programme importieren, Lead-/Personen-Scoring-Programme bewerten und Kanal-Tags definieren. Erfahren Sie mehr über gängige Anwendungsfälle und Best Practices.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422755/?learn=on&captions=ger){transcript=true}
 
 ## Weitere Ressourcen
 

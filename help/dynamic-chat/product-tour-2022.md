@@ -18,7 +18,7 @@ ht-degree: 15%
 
 [!UICONTROL Dynamic Chat] ist eine neue Chatbot-Lösung, die für Marketing und Vertrieb entwickelt wurde. Sie ist nativ in [!DNL Marketo Engage] integriert, sodass Sie [!UICONTROL Dynamic Chat] als neuen Kanal in Ihrem kanalübergreifenden Marketing verwenden können. Es ist einfach zu bedienen und einfach einzurichten. Machen Sie eine kurze Produkttour:
 
->[!VIDEO](https://video.tv.adobe.com/v/340473/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/346226/?quality=12&learn=on&captions=ger){transcript=true}
 
 ## Weitere hilfreiche Videos
 

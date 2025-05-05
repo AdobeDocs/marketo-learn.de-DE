@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Schwierigkeiten bei der Kommunikation mit Ihren Abonnentinnen und Abonnenten? Sie sollen Ihnen mitteilen, welche Mitteilungen sie wünschen und wie oft sie von Ihnen hören möchten. Erfahren Sie, wie Sie ein Abonnement-Center erstellen und verwalten, um eine geeignete Kadenz und einen geeigneten Prozess zu entwickeln.
 
->[!VIDEO](https://video.tv.adobe.com/v/345426/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417579/?quality=12&learn=on&captions=ger){transcript=true}

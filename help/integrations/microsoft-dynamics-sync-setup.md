@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie die Microsoft Dynamics 365-Synchronisierung funktioniert, und konfigurieren Sie das Setup ordnungsgemäß, damit die beiden Systeme miteinander sprechen können. Dieses Tutorial führt Sie durch die Funktionsweise der Synchronisierung, das Herunterladen der Marketo-Lead-Management-Lösung (MLM), die Installation der MLM-Lösung für die Server-zu-Server-Verbindung und die Verbindung der beiden Systeme. Weitere Tipps und Tricks zur Validierung der Synchronisierung, zur Begrenzung der Anzahl der synchronisierten Datensätze und zur Schätzung der Synchronisierungszeit werden gemeinsam genutzt, um Sie bei der Einrichtung der Microsoft Dynamics-Synchronisierung zu unterstützen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424737/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430206/?learn=on&captions=ger)
 
 ## Im Video verwendete Links
 

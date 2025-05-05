@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie GenAI-gestützte Konversationen fördern und Ihren Besuchern ermöglichen, Fragen zu stellen, schnelle Antworten zu erhalten und eine Zusammenfassung für Ihre Konversationen zu generieren. Nutzen Sie Konversationserkenntnisse direkt in Ihren Marketo-Instanzen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429153/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454480/?learn=on&captions=ger)
