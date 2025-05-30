@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Sehen Sie sich an, wie Sie ein operationelles Scoring-Programm für Leads/Personen erstellen, Token in der Kampagne verwenden und vorgefertigte Kampagnen importieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/345425/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417580/?quality=12&learn=on&captions=ger){transcript=true}
