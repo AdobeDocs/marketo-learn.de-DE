@@ -20,4 +20,4 @@ ht-degree: 12%
 
 Erfahren Sie, wie Sie mithilfe einfacher Filter über Smart Lists bestimmte Personengruppen finden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463190/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463212/?learn=on&enablevpops&captions=ger)

@@ -20,4 +20,4 @@ ht-degree: 14%
 
 Erfahren Sie, wie Sie in Marketo Engage eine allgemeine Liste mit Personen erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463191/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463223/?learn=on&enablevpops&captions=ger)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Ihren Personen/Leads eine Bewertung zuweisen, um ihre Interaktion mit Ihren Inhalten zu bewerten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463192/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463245/?learn=on&enablevpops&captions=ger)
