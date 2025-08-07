@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Token sind Variablen, die personalisierte Daten für die Verwendung in Smart Campaign-Flussschritten, E-Mails, Landingpages und mehr abrufen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470560/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470581/?learn=on&enablevpops&captions=ger)

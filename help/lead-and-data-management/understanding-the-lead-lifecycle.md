@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Leads (Personen) durch die verschiedenen Phasen ihrer Käufer-Journey schreiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470572/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470604/?learn=on&enablevpops&captions=ger)
