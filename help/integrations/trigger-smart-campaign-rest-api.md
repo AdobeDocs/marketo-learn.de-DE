@@ -4,7 +4,8 @@ description: Erfahren Sie, wie Sie mit der REST-API einen Trigger für eine Smar
 feature: REST API
 role: Admin, Developer
 level: Experienced
-source-git-commit: e840968877b3947b2d24c9416104f1dd187082cc
+exl-id: 46e54729-92ab-4bbb-9877-f762708def67
+source-git-commit: 99058de9712fbebd631215ef15a6df349ca4c3cc
 workflow-type: tm+mt
 source-wordcount: '611'
 ht-degree: 1%
@@ -29,9 +30,9 @@ Dies kann über die REST-API und „Meine Token“ erfolgen.
 
 ## Schritt 1: Erstellen der Smart-Kampagne {#step-one}
 
-1. Gehen Sie **Marketing** Aktivitäten) und erstellen Sie im Ordner [Programme](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"} eine neue [Smart-Kampagne](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"} namens `Send Webinar Reminder`.
+1. Gehen Sie **Marketing** Aktivitäten) und erstellen Sie im Ordner [Programme](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"} eine neue [Smart-Kampagne](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"} namens `Send Webinar Reminder`.
 
-1. Fügen Sie auf **Registerkarte** Smart-Liste[ einen Trigger hinzu](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"} damit die Kampagne über die API aufgerufen werden kann:
+1. Fügen Sie auf **Registerkarte** Smart-Liste[ einen Trigger hinzu](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"} damit die Kampagne über die API aufgerufen werden kann:
 
    * Wählen **Kampagne ist angefordert** als Trigger aus
    * **Source** auf `Web Service API` setzen
@@ -40,7 +41,7 @@ Dies kann über die REST-API und „Meine Token“ erfolgen.
 
 ## Schritt 2: E-Mail-Inhalt definieren {#step-two}
 
-Erstellen oder bearbeiten Sie ein [E-Mail-Asset](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"} das sowohl auf Person als auch auf [Meine Token](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"} verweist.
+Erstellen oder bearbeiten Sie ein [E-Mail-Asset](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"} das sowohl auf Person als auch auf [Meine Token](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"} verweist.
 
 >[!NOTE]
 >
@@ -82,7 +83,7 @@ Um Werte dynamisch über die API zu übergeben, müssen die Token bereits in Mar
 
 ## Schritt 4: Festlegen von Kampagnenqualifizierungsregeln und Aktivieren der Kampagne {#step-four}
 
-1. Konfigurieren Sie die [Qualifizierungsregeln](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"} um zu steuern, wie oft eine Person die Smart-Kampagne durchlaufen kann.
+1. Konfigurieren Sie die [Qualifizierungsregeln](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"} um zu steuern, wie oft eine Person die Smart-Kampagne durchlaufen kann.
 
 1. Klicken Sie nach der Konfiguration auf **Aktivieren**, um die Smart-Kampagne für den Empfang von API-ausgelösten Anfragen zu aktivieren.
 
@@ -133,7 +134,7 @@ POST /rest/v1/campaigns/1234/trigger.json
       },
       {
         "name": "{{my.WebinarImage}}",
-        "value": "https://experienceleague.adobe.com/de/docs/marketo-learn/tutorials/events/media_1c6f338a518ada11550084c8ab3a6bbf554ff6eac.jpeg"
+        "value": "https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/media_1c6f338a518ada11550084c8ab3a6bbf554ff6eac.jpeg"
       }
     ]
   }
