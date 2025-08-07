@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit einem E-Mail-Programm schnell und einfach eine E-Mail an mehrere Empfänger senden und deren Ergebnisse verfolgen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470607/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470616/?learn=on&enablevpops&captions=ger)
