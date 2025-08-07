@@ -28,7 +28,7 @@ ht-degree: 11%
    + [Migration zu Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [Best Practices zum Organisieren einer neuen Instanz](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Best Practices für die Erstellung von grundlegenden Programmen](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
-   + [Neue Instanz implementieren - Tutorial](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
+   + [Neue Instanz implementieren - Tutorial](https://experienceleague.adobe.com/de/docs/experiences-by-you/implementing-new-instance/overview)
    + [Prüfen einer geerbten Instanz - Tutorial](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=de)
 + Programme und Kampagnen {#programs-and-campaigns}
    + [Grundlegendes zu Programmen](/help/programs/understanding-programs.md)
