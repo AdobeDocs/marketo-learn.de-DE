@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie eine Landingpage in Ihrem E-Mail-Programm erstellen, anpassen und genehmigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470631/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470654/?learn=on&enablevpops&captions=ger)

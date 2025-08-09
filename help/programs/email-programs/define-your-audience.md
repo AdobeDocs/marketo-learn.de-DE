@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie bei der Verwendung eines E-Mail-Programms Ihre gewünschte Audience definieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470633/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470676/?learn=on&enablevpops&captions=ger)
