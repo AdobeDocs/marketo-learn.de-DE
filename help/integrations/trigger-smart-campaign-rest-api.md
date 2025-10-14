@@ -32,12 +32,12 @@ Dies kann über die REST-API und „Meine Token“ erfolgen.
 
 1. Gehen Sie **Marketing** Aktivitäten) und erstellen Sie im Ordner [Programme](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"} eine neue [Smart-Kampagne](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"} namens `Send Webinar Reminder`.
 
-1. Fügen Sie auf **Registerkarte** Smart-Liste[ einen Trigger hinzu](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"} damit die Kampagne über die API aufgerufen werden kann:
+1. Fügen Sie auf **Registerkarte** Smart-Liste[&#x200B; einen Trigger hinzu](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"} damit die Kampagne über die API aufgerufen werden kann:
 
    * Wählen **Kampagne ist angefordert** als Trigger aus
    * **Source** auf `Web Service API` setzen
 
-![Einrichtung des Smart List-Triggers ](assets/trigger-smart-campaign-rest-api-1.png)
+![Einrichtung des Smart List-Triggers &#x200B;](assets/trigger-smart-campaign-rest-api-1.png)
 
 ## Schritt 2: E-Mail-Inhalt definieren {#step-two}
 

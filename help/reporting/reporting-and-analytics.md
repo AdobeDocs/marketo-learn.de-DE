@@ -27,7 +27,7 @@ Erfahren Sie, wie Sie im Abschnitt „Analytics und Datenbank“ navigieren, um 
 ## Weitere Ressourcen
 
 * **Produktdokumentation**
-Erfahren Sie mehr über die verschiedenen Berichte, die Sie abrufen können - [Reporting-Übersicht](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=de&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
+Erfahren Sie mehr über die verschiedenen Berichte, die Sie abrufen können - [Reporting-Übersicht](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=de&sdid=M7K4SLTS&mv=email&mv2=instreml)
 
 * **Expert Customer Blog-Beitrag**
 Erfahren Sie von Champion Chelsea Kiko, wie Sie verschiedene Berichte erstellen - [Reporting in verschiedenen Marketo Engage-Bereichen](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)

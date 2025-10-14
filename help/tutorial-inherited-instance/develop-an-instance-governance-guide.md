@@ -19,7 +19,7 @@ ht-degree: 1%
 
 # Entwickeln eines Instanz-Governance-Handbuchs mit Dokumentation
 
-Wenn Sie eine ältere [!DNL Marketo Engage]-Instanz betreten, ist dies oft mit der Herausforderung verbunden, dass es an aktueller funktionaler und technischer Dokumentation fehlt. Als Administrator ist das Erstellen von Richtlinien zur Sicherstellung einer ordnungsgemäßen Instanz-Governance eine zentrale Aufgabe, die nicht übersehen werden darf. Dies ist eine der wichtigsten Strategien zur [ der Effizienz, während Sie in einer etablierten Marketo Engage-Instanz arbeiten](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582).
+Wenn Sie eine ältere [!DNL Marketo Engage]-Instanz betreten, ist dies oft mit der Herausforderung verbunden, dass es an aktueller funktionaler und technischer Dokumentation fehlt. Als Administrator ist das Erstellen von Richtlinien zur Sicherstellung einer ordnungsgemäßen Instanz-Governance eine zentrale Aufgabe, die nicht übersehen werden darf. Dies ist eine der wichtigsten Strategien zur [&#x200B; der Effizienz, während Sie in einer etablierten Marketo Engage-Instanz arbeiten](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582).
 
 Dieses Schritt-für-Schritt-Tutorial von [!DNL Adobe Marketo Champion] (2018), Nick Hajdin, führt Sie durch diesen Prozess, um die Einrichtung Ihrer Instanz zu umreißen, Ihre primären operativen Programme zu dokumentieren und eine [!DNL changelog] zur Durchsetzung einer strengen Governance-Richtlinie zu pflegen.
 
