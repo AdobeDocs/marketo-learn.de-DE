@@ -31,4 +31,4 @@ Machen Sie sich mit den vier Programmtypen vertraut, erfahren Sie, wie Sie Progr
 * [Best Practices: So organisieren Sie Ihre Programme](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html?lang=de)
 * [Programm importieren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html?lang=de)
 * [Grundlegendes zu Tags](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html?lang=de)
-* [Der definitive Leitfaden zur Lead-Bewertung](https://business.adobe.com/resources/guides/lead-scoring.html)
+* [Der definitive Leitfaden zur Lead-Bewertung](https://business.adobe.com/de/resources/guides/lead-scoring.html)
