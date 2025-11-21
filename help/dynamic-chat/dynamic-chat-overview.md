@@ -18,13 +18,13 @@ ht-degree: 14%
 
 ![](assets/dynamic-chat-header.png)
 
-Willkommen auf der Tutorial-Site zu [!UICONTROL 0}Dynamic Chat. ] Verwenden Sie diese Tutorials zusammen mit der Dokumentation, um Ihr Verständnis für die Verwendung von [!UICONTROL Dynamic Chat] zum Erstellen personalisierter Konversationen zu verbessern. Die folgenden Themen können Ihnen bei den ersten Schritten helfen:
+Willkommen auf der Tutorial-Site zu [!UICONTROL 0&rbrace;Dynamic Chat. &#x200B;] Verwenden Sie diese Tutorials zusammen mit der Dokumentation, um Ihr Verständnis für die Verwendung von [!UICONTROL Dynamic Chat] zum Erstellen personalisierter Konversationen zu verbessern. Die folgenden Themen können Ihnen bei den ersten Schritten helfen:
 
 * Überblick
    * **[Schnelle Produkt-Tour [2023]](product-tour.md)**
      *Verschaffen Sie sich einen Überblick über alle neuen Funktionen, die 2023 eingeführt werden.*
    * **[Schnelle Produkt-Tour [2022]](product-tour.md)**
-     *Verschaffen Sie sich einen Überblick über das gesamte Produkt und erfahren Sie, wie Sie [!UICONTROL Dynamic Chat nutzen ].*
+     *Verschaffen Sie sich einen Überblick über das gesamte Produkt und erfahren Sie, wie Sie [!UICONTROL Dynamic Chat nutzen &#x200B;].*
    * **[In 15 Minuten live gehen](go-live-in-15-minutes.md)**
      *Eine schrittweise Anleitung, die Ihnen hilft, Ihr erstes Dialogfeld mit [!UICONTROL Dynamic Chat] in nur 15 Minuten live zu schalten!*
 * Einrichten
@@ -33,12 +33,12 @@ Willkommen auf der Tutorial-Site zu [!UICONTROL 0}Dynamic Chat. ] Verwenden Sie 
    * **[Aktivieren der Marketo-Integration mit [!UICONTROL Dynamic Chat]](marketo-integration.md)**
      *Targeting von Web-Besucherinnen und -Besuchern mit Konversationen und Personalisierung mit Lead-Informationen aus Marketo.*
    * **[Benutzer von [!UICONTROL Dynamic Chat hinzufügen und verwalten]](user-management.md)**
-     *Erfahren Sie, wie Sie in [!UICONTROL Dynamic Chat Benutzer hinzufügen oder ].*
+     *Erfahren Sie, wie Sie in [!UICONTROL Dynamic Chat Benutzer hinzufügen oder &#x200B;].*
    * **[Agentenverwaltung](agent-management.md)**
      *Erfahren Sie, wie Sie Agenten verwalten.*
 * Automatisierter Chat
    * **[Erstellen und Verwalten von personalisierten Dialogfeldern](dialogue-management.md)**
-     *Erfahren Sie, wie Sie ein Dialogfeld erstellen, um Ihren Web-Besucher schnell mit [!UICONTROL Dynamic Chat zu ].*
+     *Erfahren Sie, wie Sie ein Dialogfeld erstellen, um Ihren Web-Besucher schnell mit [!UICONTROL Dynamic Chat zu &#x200B;].*
    * **[PDF in Konversationen einbetten](document-cloud-integration.md)**
      *Freigeben von PDF-Dokumenten in personalisierten Konversationen, die Sie in [!UICONTROL Dynamic Chat erstellen].*
    * **[Suche in Stream-Designer](search-in-stream-designer.md)**
