@@ -1,5 +1,5 @@
 ---
-title: Dynamische Chat-Tutorials
+title: 'Tutorials zu Dynamic Chat '
 description: Erfahren Sie mehr über Dynamic Chat in Adobe Experience League. Verwenden Sie diese Tutorials zusammen mit der Dokumentation, um Ihr Verständnis dafür zu verbessern, wie Sie mit Dynamic Chat personalisierte Konversationen erstellen können.
 short-description: Verwenden Sie diese Tutorials zusammen mit der Dokumentation, um Ihr Verständnis für die verschiedenen Möglichkeiten, wie Dynamic Chat für Sie arbeiten kann, zu verbessern.
 doc-type: overview-page
@@ -8,63 +8,63 @@ level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '486'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
-# Dynamische Chat-Tutorials
+# Tutorials zu Dynamic Chat 
 
 ![](assets/dynamic-chat-header.png)
 
-Willkommen auf der Tutorial-Site zu [!UICONTROL 0&rbrace;Dynamic Chat. &#x200B;] Verwenden Sie diese Tutorials zusammen mit der Dokumentation, um Ihr Verständnis für die Verwendung von [!UICONTROL Dynamic Chat] zum Erstellen personalisierter Konversationen zu verbessern. Die folgenden Themen können Ihnen bei den ersten Schritten helfen:
+Willkommen auf der Website der Tutorials zu [!UICONTROL Dynamic Chat]. Verwenden Sie diese Tutorials zusammen mit der Dokumentation, um Ihr Verständnis dafür zu verbessern, wie Sie mit [!UICONTROL Dynamic Chat] personalisierte Konversationen erstellen können. Die folgenden Themen helfen Ihnen bei den ersten Schritten:
 
 * Überblick
-   * **[Schnelle Produkt-Tour [2023]](product-tour.md)**
-     *Verschaffen Sie sich einen Überblick über alle neuen Funktionen, die 2023 eingeführt werden.*
-   * **[Schnelle Produkt-Tour [2022]](product-tour.md)**
-     *Verschaffen Sie sich einen Überblick über das gesamte Produkt und erfahren Sie, wie Sie [!UICONTROL Dynamic Chat nutzen &#x200B;].*
-   * **[In 15 Minuten live gehen](go-live-in-15-minutes.md)**
-     *Eine schrittweise Anleitung, die Ihnen hilft, Ihr erstes Dialogfeld mit [!UICONTROL Dynamic Chat] in nur 15 Minuten live zu schalten!*
+   * **[Kurze Produkttour [2023]](product-tour.md)**
+     *Verschaffen Sie sich einen Überblick über alle neuen Funktionen, die 2023 eingeführt wurden.*
+   * **[Kurze Produkttour [2022]](product-tour.md)**
+     *Verschaffen Sie sich einen Überblick über das ganze Produkt und erfahren Sie, wie Sie [!UICONTROL Dynamic Chat] nutzen können.*
+   * **[Go-Live in 15 Minuten](go-live-in-15-minutes.md)**
+     *Erfahren Sie mithilfe einer schrittweisen Anleitung, wie Sie mit Ihrem ersten Dialog dank [!UICONTROL Dynamic Chat] in nur 15 Minuten live gehen können.*
 * Einrichten
-   * **[Einrichten und Installieren eines Chat-Bots](setup.md)**
+   * **[Einrichten und Installieren eines Chatbots](setup.md)**
      *Erfahren Sie, wie Sie Ihr [!UICONTROL Dynamic Chat]-Abonnement einrichten.*
-   * **[Aktivieren der Marketo-Integration mit [!UICONTROL Dynamic Chat]](marketo-integration.md)**
-     *Targeting von Web-Besucherinnen und -Besuchern mit Konversationen und Personalisierung mit Lead-Informationen aus Marketo.*
-   * **[Benutzer von [!UICONTROL Dynamic Chat hinzufügen und verwalten]](user-management.md)**
-     *Erfahren Sie, wie Sie in [!UICONTROL Dynamic Chat Benutzer hinzufügen oder &#x200B;].*
-   * **[Agentenverwaltung](agent-management.md)**
-     *Erfahren Sie, wie Sie Agenten verwalten.*
+   * **[Aktivieren Ihrer Marketo-Integration mit [!UICONTROL Dynamic Chat]](marketo-integration.md)**
+     *Sprechen Sie Ihre Web-Besuchenden mit Konversationen an und personalisieren Sie diese mit Lead-Daten aus Marketo.*
+   * **[Hinzufügen und Verwalten der Benutzenden von [!UICONTROL Dynamic Chat]](user-management.md)**
+     *Erfahren Sie, wie Sie Benutzende in [!UICONTROL Dynamic Chat] hinzufügen oder verwalten.*
+   * **[Agent-Verwaltung](agent-management.md)**
+     *Erfahren Sie, wie sich Agents verwalten lassen.*
 * Automatisierter Chat
    * **[Erstellen und Verwalten von personalisierten Dialogfeldern](dialogue-management.md)**
-     *Erfahren Sie, wie Sie ein Dialogfeld erstellen, um Ihren Web-Besucher schnell mit [!UICONTROL Dynamic Chat zu &#x200B;].*
-   * **[PDF in Konversationen einbetten](document-cloud-integration.md)**
-     *Freigeben von PDF-Dokumenten in personalisierten Konversationen, die Sie in [!UICONTROL Dynamic Chat erstellen].*
-   * **[Suche in Stream-Designer](search-in-stream-designer.md)**
-     *Eine Schnellsuche kann Ihnen helfen, mit einem Klick auf eine beliebige Karte in Ihrem Stream-Designer zu gelangen.*
+     *Erfahren Sie, wie Sie Dialoge einrichten können, um Web-Besuchende mit [!UICONTROL Dynamic Chat] rasch zu erreichen.*
+   * **[Einbetten einer PDF in Konversationen](document-cloud-integration.md)**
+     *Teilen Sie PDF-Dokumente in personalisierten Konversationen, die Sie in [!UICONTROL Dynamic Chat] entwerfen.*
+   * **[Suchen in Stream Designer](search-in-stream-designer.md)**
+     *Eine Schnellsuche kann Ihnen helfen, im Stream Designer mit nur einem Klick zu einer beliebigen Karte zu gelangen.*
    * **[Erfassen abgeleiteter Attribute](capture-inferred-attributes.md)**
-     *Abgeleitete Attribute können für jeden Lead, der über Dynamic Chat erfasst wird, mithilfe der Munchkin-ID identifiziert und ausgefüllt werden.*
+     *Mithilfe der Munchkin-ID können für jeden Lead, der über Dynamic Chat erfasst wird, abgeleitete Attribute identifiziert und ausgefüllt werden.*
    * **[Dialogvorschau](dialogue-preview.md)**
-     *Die Vorschau Ihres Dialogfelds vor der Veröffentlichung ist mit der Dialogvorschau-Funktion äußerst einfach.*
+     *Das Anzeigen einer Vorschau Ihres Dialogs vor der Veröffentlichung ist dank der Dialogvorschau-Funktion ganz einfach.*
    * **[Globalisierung statischer Inhalte](globalization-of-static-content.md)**
      *Sie können statische Inhalte/Systeminhalte in einer Sprache Ihrer Wahl personalisieren.*
-   * **[Conversational Forms](conversational-forms.md)**
-     *Erfahren Sie, wie Sie Ihre Website-Besucher unmittelbar nach dem Ausfüllen eines Formulars ansprechen können.*
-   * **[Konversationen SDK](conversations-sdk.md)**
-     *Erfahren Sie, wie Sie Conversations SDK implementieren, um jeden CTA-Klick in eine ansprechende Konversation zu konvertieren.*
-   * **[Wiederverwendbare Datenflüsse](reusable-flows.md)**
-     *Vereinfachen Sie mit der neuen Karte „Konversationsfluss“ das Entwerfen und Verwalten Ihrer Konversationen. Erstellen Sie einen Konversations-Stream einmal und verwenden Sie ihn in mehreren Dialogfeldern neu.*
-   * **[Konversative Landingpages](conversational-landing-pages.md)**
-     *Mit nur wenigen Klicks installieren Sie Dynamic Chat Conversational Flows in einer beliebigen Landingpage (Marketo Landingpages oder Benutzerdefiniert) und konvertieren jeden Link oder jede Schaltfläche zum Trigger einer Konversationsinteraktion.*
+   * **[Konversationsformulare](conversational-forms.md)**
+     *Erfahren Sie, wie Sie Website-Besuchende unmittelbar nach dem Ausfüllen eines Formulars ansprechen können.*
+   * **[Konversations-SDK](conversations-sdk.md)**
+     *Erfahren Sie, wie Sie das Konversations-SDK implementieren, um jeden CTA-Klick in eine ansprechende Konversation zu verwandeln.*
+   * **[Wiederverwendbare Flüsse](reusable-flows.md)**
+     *Vereinfachen Sie mit der neuen Karte „Konversationsfluss“ die Gestaltung und Verwaltung Ihrer Konversationen. Erstellen Sie einen Konversations-Stream einmal und verwenden Sie ihn in verschiedenen Dialogen wieder.*
+   * **[Konversations-Landingpages](conversational-landing-pages.md)**
+     *Installieren Sie mit nur wenigen Klicks Dynamic Chat-Konversationsflüsse in einer beliebigen Landingpage (Marketo-Landingpage oder benutzerdefiniert) und konvertieren Sie beliebige Links oder Schaltflächen, um eine Konversationsinteraktion auszulösen.*
 * Live-Chat und Meeting-Buchung
-   * **[Verbinden von Besuchern mit Live-Agenten](connect-visitors-to-live-agents.md)**
-     *Verbinden Sie Ihre qualifizierten Leads, um sofort mit Ihren Vertriebsmitarbeitern in Kontakt zu treten.*
-   * **[Bieten Sie Ihren Leads die Möglichkeit, Meetings mit Ihrem Vertrieb zu buchen](meeting-booking.md)**
-     *Beschleunigen Sie die Verbindung mit dem Verkauf für diese [!DNL target] mit Meeting-Buchungsfunktionen.*
+   * **[Verbinden von Besuchenden mit Live-Agentinnen und -Agenten](connect-visitors-to-live-agents.md)**
+     *Verbinden Sie Ihre qualifizierten Leads, sodass sie sofort mit Ihren Vertriebsmitarbeitenden in Kontakt treten können.*
+   * **[Unterstützen von Leads, Meetings mit Ihrem Vertrieb zu buchen](meeting-booking.md)**
+     *Beschleunigen Sie die Kontaktaufnahme mit dem Vertrieb für diese [!DNL target]-Accounts mit Meeting-Buchungsfunktionen.*
 * Chat mit generativer KI
-   * **[Führen Sie Konversationen mit GenAI durch](gen-ai-features.md)**
-     *Erfahren Sie, wie Sie Dynamic Chat GenAI-Funktionen verwenden.*
+   * **[Fördern von Konversationen mit GenAI](gen-ai-features.md)**
+     *Erfahren Sie, wie Sie GenAI-Funktionen von Dynamic Chat nutzen.*
 * Analytics
    * **[Interaktionsbericht](engagement-report.md)**
-     *Sehen Sie sich die Trends an, wie Ihre Web-Besucher mit Ihrem Dialogfeld interagieren.*
+     *Sehen Sie sich die Trends an, wie Web-Besuchende mit Ihrem Dialog interagieren.*

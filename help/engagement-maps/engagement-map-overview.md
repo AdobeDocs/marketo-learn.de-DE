@@ -1,6 +1,6 @@
 ---
-title: Interaktionskarte - Übersicht
-description: Erfahren Sie, wie Sie wiederverwendbare Kampagnen erstellen und die Geschwindigkeit mithilfe von Interaktionszuordnung erhöhen
+title: Interaktionskarte – Überblick
+description: Erfahren Sie, wie Sie mit der Interaktionskarte wiederverwendbare Kampagnen erstellen und die Geschwindigkeit erhöhen.
 feature: Smart Campaigns
 role: User
 level: Beginner
@@ -11,14 +11,14 @@ jira: KT-13740
 thumbnail: 3422232.jpeg
 exl-id: 9bb2499e-8a0c-4fdc-89c8-ef467cafc363
 source-git-commit: 5f39a3d1a845aad7faf5fce1f9de4deae93495af
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '27'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Interaktionskarte - Übersicht
+# Interaktionskarte – Überblick
 
-Erfahren Sie, wie Engagement Map die Geschwindigkeit Ihrer Kampagnen erhöhen kann.
+Erfahren Sie, wie die Interaktionskarte die Geschwindigkeit Ihrer Kampagnen erhöhen kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423305/?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422232/?learn=on){transcript=true}
