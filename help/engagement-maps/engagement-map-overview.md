@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie die Interaktionskarte die Geschwindigkeit Ihrer Kampagnen erhöhen kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422232/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423305/?captions=ger&learn=on){transcript=true}
