@@ -8,18 +8,18 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13875
 thumbnail: KT-13875.jpeg
-hide: false
+index: true
 exl-id: 3b7e6127-28fd-4dce-915d-5af9bcce984b
-source-git-commit: 681d390ce5ab336a7e24cc63256659a492288517
+source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
 
 # CRM-Synchronisierungsfehler protokollieren für einfache Fehlerbehebung
 
-Als Marketo Engage-Administrator sollte die Überprüfung, ob Ihre Instanz mit Ihrem CRM synchronisiert ist, ein wichtiger Teil Ihrer [täglichen Routine](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"} sein. Im [Benachrichtigungsabschnitt](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html?lang=de){target="_blank"} (finden Sie ihn oben rechts in Ihrer Marketo Engage-Benutzeroberfläche) finden Sie Informationen zu häufigen Synchronisierungsproblemen. Es gibt jedoch einen Profi-Tipp, der Ihnen dabei helfen kann, den Zustand der Instanz auf übersichtliche Weise zu verwalten. Adobe Marketo Champion (2019-2022), Amy Goldfine empfiehlt Admin-Benutzern, ein Protokoll der CRM-Synchronisierungsfehler zu führen, um die Fehlerbehebung zu erleichtern.
+Als Marketo Engage-Administrator sollte die Überprüfung, ob Ihre Instanz mit Ihrem CRM synchronisiert ist, ein wichtiger Teil Ihrer [täglichen Routine](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"} sein. Im [Benachrichtigungsabschnitt](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (finden Sie ihn oben rechts in Ihrer Marketo Engage-Benutzeroberfläche) finden Sie Informationen zu häufigen Synchronisierungsproblemen und können diese untersuchen. Es gibt jedoch einen Profi-Tipp, der Ihnen dabei hilft, den Zustand der Instanz auf übersichtliche Weise zu verwalten. Adobe Marketo Champion (2019-2022), Amy Goldfine empfiehlt Admin-Benutzern, ein Protokoll der CRM-Synchronisierungsfehler zu führen, um die Fehlerbehebung zu erleichtern.
 
 ![Screenshot der Registerkarte „Synchronisierungsfehler“](/help/tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
@@ -31,9 +31,9 @@ Durch Protokollierung der CRM-Synchronisierungsfehler können Marketo Engage-Adm
 
 Laden Sie zunächst die Vorlage [CRM-Synchronisierungsfehler-Protokoll](/help/tutorial-inherited-instance/_assets/downloads/Adobe-Marketo-Engage_CRM-Sync-Error-Log-Template.xlsx) herunter.
 
-**Schritt 1:** Gehen Sie zum *[!UICONTROL Admin] Abschnitt* Marketo Engage. Klicken *[!UICONTROL unter]* Integration *[!DNL Salesforce]* auf, *[!DNL Microsoft Dynamics]* oder *[!DNL Veeva]*, je nachdem, welche [!DNL CRM] Sie verwenden, und klicken Sie dann auf die Registerkarte *[!UICONTROL Synchronisierungsfehler]*.
+**Schritt 1:** Gehen Sie zum Abschnitt *[!UICONTROL Admin] in*. Klicken *[!UICONTROL unter]* Integration *[!DNL Salesforce]* auf, *[!DNL Microsoft Dynamics]* oder *[!DNL Veeva]*, je nachdem, welche [!DNL CRM] Sie verwenden, und klicken Sie dann auf die Registerkarte *[!UICONTROL Synchronisierungsfehler]*.
 
-**Schritt 2:** Sie können [die Fehlerdatensätze als  [!DNL CSV]  über das Bedienfeld [!UICONTROL Filtern] exportieren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html?lang=de#filter-sync-errors){target="_blank"}. Wenn Sie nur wenige Stunden haben, sollten Sie direkt von der Registerkarte *[!UICONTROL Synchronisierungsfehler]* kopieren und einfügen.
+**Schritt 2:** Sie können [die Fehlerdatensätze als  [!DNL CSV]  über das Bedienfeld [!UICONTROL Filtern] exportieren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html#filter-sync-errors){target="_blank"}. Wenn Sie nur wenige Stunden haben, sollten Sie direkt von der Registerkarte *[!UICONTROL Synchronisierungsfehler]* kopieren und einfügen.
 
 **Schritt 3:** Notieren Sie das Datum, an dem der Fehler aufgetreten ist.
 
@@ -47,7 +47,7 @@ Laden Sie zunächst die Vorlage [CRM-Synchronisierungsfehler-Protokoll](/help/tu
 
 ## Wie geht es weiter?
 
-**Identifizieren von Fehler-Codes:** Um die Fehler-Codes zu verstehen, suchen Sie die Beschreibungen in der Entwicklerdokumentation [Tabelle „Fehler-Codes auf &#x200B;](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes){target="_blank"}&quot; und finden Sie die typischen nächsten Schritte zur Behebung der Fehler.
+**Identifizieren von Fehler-Codes:** Um die Fehler-Codes zu verstehen, suchen Sie die Beschreibungen in der Entwicklerdokumentation [Tabelle „Fehler-Codes auf ](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes){target="_blank"}&quot; und finden Sie die typischen nächsten Schritte zur Behebung der Fehler.
 
 ## Autoren
 
@@ -58,6 +58,6 @@ Adobe Marketo Champion(2019-2022)
 ![Amy Goldfine](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Amy_Goldfine.png){width="25%"}
 
 **Amy Chiu**
-*Adoption &amp; Retention Marketing Manager bei Adobe*
+*Marketing Manager für Akzeptanz und Kundenbindung bei Adobe*
 
 ![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width="25%"}

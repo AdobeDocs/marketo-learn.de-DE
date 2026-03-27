@@ -1,6 +1,6 @@
 ---
-title: Tipps und Tricks zum Überprüfen einer vererbten Marketo Engage-Instanz
-description: Erfahren Sie, wie Sie eine vererbte Live-Marketo Engage-Instanz optimieren und skalieren können.
+title: Tipps und Tricks zum Überprüfen einer geerbten Marketo Engage-Instanz
+description: Erfahren Sie, wie Sie eine geerbte Live Marketo Engage-Instanz optimieren und skalieren.
 feature: Administration
 role: Admin
 level: Beginner
@@ -8,22 +8,22 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
-hide: false
+index: true
 exl-id: e42b8fe8-1d9d-4cc1-8175-c47d911f96f3
-source-git-commit: 681d390ce5ab336a7e24cc63256659a492288517
+source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
-# Tipps und Tricks zum Überprüfen einer vererbten Marketo Engage-Instanz - Tutorial-Übersicht
+# Tipps und Tricks zum Überprüfen einer geerbten Marketo Engage-Instanz - Tutorial-Übersicht
 
 *Source: Adobe Marketo Champions*
 
-Wenn Sie eine Live-Marketo Engage-Instanz erben, die von mehreren Personen verwaltet wurde, können Sie sich mental Notizen von allem machen, das fehl am Platz erscheint. Es ist wichtig, die Bereinigungs- und Optimierungsarbeit zu organisieren, indem die Aufgaben kategorisiert und dann die Aufgaben priorisiert werden, die viel bewirken.
+Wenn Sie eine Live Marketo Engage-Instanz erben, die von mehreren Personen verwaltet wurde, können Sie sich mental Notizen über alles machen, was fehl am Platz zu sein scheint. Es ist wichtig, die Bereinigungs- und Optimierungsarbeit zu organisieren, indem die Aufgaben kategorisiert und dann die Aufgaben priorisiert werden, die viel bewirken.
 
-Dieses Tutorial zu Tipps und Tricks zur Prüfung geerbter Instanzen von Adobe Marketo Champions liefert eine schrittweise Anleitung für neue Admins. Das Tutorial begleitet herunterladbare [Audit-Checklisten](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=de) und Vorlagen, damit Sie eine geerbte Instanz sofort starten können. Folgen Sie den Tutorials und lassen Sie sich durch das Lernen von Gleich gesinnten inspirieren! 
+Dieses Tutorial zu Tipps und Tricks zur Prüfung geerbter Instanzen von Adobe Marketo Champions liefert eine schrittweise Anleitung für neue Admins. Das Tutorial begleitet herunterladbare [Audit-Checklisten](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html) und Vorlagen, damit Sie eine geerbte Instanz sofort starten können. Folgen Sie den Tutorials und lassen Sie sich durch das Lernen von Gleich gesinnten inspirieren! 
 
 ## Themen und Lerninhalte
 
