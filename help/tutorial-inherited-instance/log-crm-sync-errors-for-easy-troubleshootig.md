@@ -47,7 +47,7 @@ Laden Sie zunächst die Vorlage [CRM-Synchronisierungsfehler-Protokoll](/help/tu
 
 ## Wie geht es weiter?
 
-**Identifizieren von Fehler-Codes:** Um die Fehler-Codes zu verstehen, suchen Sie die Beschreibungen in der Entwicklerdokumentation [Tabelle „Fehler-Codes auf ](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes){target="_blank"}&quot; und finden Sie die typischen nächsten Schritte zur Behebung der Fehler.
+**Identifizieren von Fehler-Codes:** Um die Fehler-Codes zu verstehen, suchen Sie die Beschreibungen in der Entwicklerdokumentation [Tabelle „Fehler-Codes auf &#x200B;](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes){target="_blank"}&quot; und finden Sie die typischen nächsten Schritte zur Behebung der Fehler.
 
 ## Autoren
 
