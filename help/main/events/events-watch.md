@@ -24,4 +24,4 @@ Erfahren Sie, wie Sie ein Veranstaltungsprogramm für eine Handelsmesse erstelle
 
 Weitere Informationen zum Erstellen eines Veranstaltungsprogramms finden Sie im Produkthandbuch:
 
-* [Erstellen einer neuen Dokumentation für das Veranstaltungsprogramm](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=en)
+* [Erstellen einer neuen Dokumentation für das Veranstaltungsprogramm](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=de)

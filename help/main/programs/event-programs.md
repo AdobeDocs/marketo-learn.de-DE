@@ -26,7 +26,7 @@ Entwickeln Sie ein grundlegendes Verständnis und bauen Sie Ihr erstes Veranstal
 
 Weitere Informationen finden Sie in den entsprechenden Produkthandbüchern:
 
-* [Informationen zur Dokumentation zu Veranstaltungsprogrammen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=en)
+* [Informationen zur Dokumentation zu Veranstaltungsprogrammen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=de)
 
 Sehen Sie sich zusätzliche Videos an, um weitere Hilfe zu dieser Funktion zu erhalten:
 * [Anlässe, die erläutert werden](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=de)
