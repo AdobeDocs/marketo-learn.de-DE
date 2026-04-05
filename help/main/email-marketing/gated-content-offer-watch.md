@@ -1,0 +1,21 @@
+---
+title: So erstellen Sie ein E-Mail-Programm für gated Content
+description: Sehen Sie sich an, wie Sie in Marketo ein E-Mail-Programm mit gated content einrichten und verfolgen.
+role: User
+level: Beginner
+jira: KT-10746
+thumbnail: 345465.jpeg
+exl-id: 03c73fa5-45b1-4f4b-8ffb-2e206bfe2736
+feature: Programs
+source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+workflow-type: tm+mt
+source-wordcount: '44'
+ht-degree: 0%
+
+---
+
+# So erstellen Sie ein E-Mail-Programm für gated Content
+
+Sehen Sie sich an, wie Sie in Marketo ein E-Mail-Programm mit gated content einrichten und verfolgen.
+
+>[!VIDEO](https://video.tv.adobe.com/v/345465/?quality=12&learn=on){transcript=true}

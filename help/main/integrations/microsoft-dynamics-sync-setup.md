@@ -1,0 +1,49 @@
+---
+title: Erste Schritte bei der Microsoft Dynamics-Synchronisierung
+description: Erfahren Sie, wie die Microsoft Dynamics 365-Synchronisierung funktioniert, und konfigurieren Sie das Setup ordnungsgemäß, damit die beiden Systeme miteinander sprechen können. Dieses Tutorial führt Sie durch die Funktionsweise der Synchronisierung, das Herunterladen der Marketo-Lead-Management-Lösung (MLM), die Installation der MLM-Lösung für die Server-zu-Server-Verbindung und die Verbindung der beiden Systeme.
+feature-set: Marketo Engage
+feature: Microsoft Dynamics, Integrations, Marketing, Field Management, Administration
+topic: Integrations
+role: Admin
+level: Beginner
+doc-type: Feature Video
+last-substantial-update: 2023-10-17T00:00:00Z
+jira: KT-14112
+thumbnail: 3424737.jpeg
+exl-id: f93a08c0-ca4f-454b-b03e-6c5ceb353ec5
+source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+workflow-type: tm+mt
+source-wordcount: '420'
+ht-degree: 20%
+
+---
+
+# Erste Schritte bei der Microsoft Dynamics-Synchronisierung
+
+Erfahren Sie, wie die Microsoft Dynamics 365-Synchronisierung funktioniert, und konfigurieren Sie das Setup ordnungsgemäß, damit die beiden Systeme miteinander sprechen können. Dieses Tutorial führt Sie durch die Funktionsweise der Synchronisierung, das Herunterladen der Marketo-Lead-Management-Lösung (MLM), die Installation der MLM-Lösung für die Server-zu-Server-Verbindung und die Verbindung der beiden Systeme. Weitere Tipps und Tricks zur Validierung der Synchronisierung, zur Begrenzung der Anzahl der synchronisierten Datensätze und zur Schätzung der Synchronisierungszeit werden gemeinsam genutzt, um Sie bei der Einrichtung der Microsoft Dynamics-Synchronisierung zu unterstützen.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424737/?learn=on)
+
+## Im Video verwendete Links
+
+* [Grundlegendes zur Synchronisierung mit Microsoft Dynamics](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/understanding-the-microsoft-dynamics-sync.html)
+
+* [Herunterladen der Marketo Lead Management-Lösung](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/download-the-marketo-lead-management-solution.html)
+
+* [Aktualisieren der Marketo-Lösung für Microsoft Dynamics](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.html)
+
+* [Erteilen von Einverständnis für Client-ID und App-Registrierung](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/grant-consent-for-client-id-and-app-registration.html)
+
+* [Validieren der Microsoft Dynamics-Synchronisierung](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/validate-microsoft-dynamics-sync.html)
+
+* [Synchronisierungsstatus](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/sync-status.html)
+
+* [Beheben von Synchronisierungsproblemen mit der Dynamics-Validierung](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/fix-dynamics-validation-sync-issues.html)
+
+* [Erstellen eines benutzerdefinierten Dynamics-Synchronisierungsfilters](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynmaics-sync-filter-details/create-a-custom-dynamics-sync-filter.html)
+
+* [Anzeigen der Organisations-Service-URL](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/view-the-organization-service-url.html)
+
+* [Bearbeiten von Feldern, die vor dem Löschen in Dynamics synchronisiert werden sollen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/editing-fields-to-sync-before-deleting-them-in-dynamics.html)
+
+* [Tutorial: Erfahren Sie mehr über das Synchronisieren von Marketo mit Ihrem CRM](https://experienceleague.adobe.com/de/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn)
