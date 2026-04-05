@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Benutzer von [!UICONTROL Dynamic Chat hinzufügen und verwalten]
 
-[!UICONTROL Dynamic Chat-Benutzer ] Adobe Admin Console verwalten
+[!UICONTROL Dynamic Chat-Benutzer &#x200B;] Adobe Admin Console verwalten
 
 >[!VIDEO](https://video.tv.adobe.com/v/340249/?quality=12&learn=on){transcript=true}
 

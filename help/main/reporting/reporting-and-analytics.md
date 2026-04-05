@@ -30,4 +30,4 @@ Erfahren Sie, wie Sie im Abschnitt „Analytics und Datenbank“ navigieren, um 
 Erfahren Sie mehr über die verschiedenen Berichte, die Sie abrufen können - [Reporting-Übersicht](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=en&sdid=M7K4SLTS&mv=email&mv2=instreml)
 
 * **Expert Customer Blog-Beitrag**
-Erfahren Sie vom Champion Chelsea Kiko, wie Sie verschiedene Berichte erstellen ([ in verschiedenen Marketo Engage-Bereichen](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
+Erfahren Sie vom Champion Chelsea Kiko, wie Sie verschiedene Berichte erstellen ([&#x200B; in verschiedenen Marketo Engage-Bereichen](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)

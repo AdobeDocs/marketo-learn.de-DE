@@ -21,7 +21,7 @@ Verwenden Sie [!UICONTROL Sales Insight Actions] um die Akquise mit Marketing-ge
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions ist ein Web-basiertes Programm, das über das [Marketo Sales Insight Package} ausschließlich mit dem Salesforce CRM integriert ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
+>Marketo Sales Insight Actions ist ein Web-basiertes Programm, das über das [Marketo Sales Insight Package&rbrace; ausschließlich mit dem Salesforce CRM integriert &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
 
 ## Vorgestellte Tutorials {#featured-tutorials}
 
