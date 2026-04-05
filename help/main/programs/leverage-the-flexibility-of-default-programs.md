@@ -22,4 +22,4 @@ ht-degree: 54%
 Von den vier Programmtypen sind Standardprogramme die flexibelsten und erlauben Ihnen, kreativ mit dem zu arbeiten, was zu erstellen ist.
 Erfahren Sie mehr über zwei gängige Anwendungsfälle: Generierung von Web-Formularen und Paid-Media-Personen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420137?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453860?captions=ger&learn=on){transcript=true}

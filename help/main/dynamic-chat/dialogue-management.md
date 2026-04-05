@@ -18,7 +18,7 @@ ht-degree: 21%
 
 Die Erstellung zielgerichteter und personalisierter Konversationen ist der Schlüssel zu einem positiven Gesprächserlebnis für jeden Web-Besucher. Erfahren Sie, wie Sie ein Dialogfeld erstellen und verwalten können.
 
->[!VIDEO](https://video.tv.adobe.com/v/340259/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443804/?captions=ger&quality=12&learn=on){transcript=true}
 
 ## Weitere hilfreiche Videos
 

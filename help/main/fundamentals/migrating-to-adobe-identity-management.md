@@ -46,7 +46,7 @@ Um sicherzustellen, dass Ihr Unternehmen Adobe Marketo Engage in die Adobe Admin
 
 Im folgenden Video führt Sie das Produkt-Management-Team von Marketo Engage durch die Migrations und erläutert, was zu erwarten ist.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?t=170/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432362/?captions=ger&t=170/?quality=12&learn=on){transcript=true}
 
 Weitere Informationen zu diesem Thema für Marketo Engage-Admins finden Sie in den folgenden Hilfeartikeln:
 

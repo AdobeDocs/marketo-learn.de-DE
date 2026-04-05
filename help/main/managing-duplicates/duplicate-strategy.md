@@ -20,4 +20,4 @@ ht-degree: 25%
 
 Fassen Sie die wichtigsten Lösungen zum Umgang mit Duplikaten in Marketo Engage zusammen und wählen Sie die beste Lösung für die Anforderungen und Ressourcen Ihres Teams aus.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429502/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436649/?captions=ger&learn=on&enablevpops)

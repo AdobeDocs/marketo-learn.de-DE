@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Sales Insight-Aktionsaktivitäten konfigurieren und in Ihrem [!DNL Salesforce]-Konto protokollieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449208/?captions=ger&quality=12&learn=on){transcript=true}
 
 ## Verwandte Videos
 

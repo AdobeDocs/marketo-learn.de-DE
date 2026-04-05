@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Verbessern Sie die Qualität der Leads, die das Marketing dem Verkauf zur Verfügung stellt, indem Sie ein Lead/Personen-Bewertungsprogramm verwenden. Erfahren Sie mehr über das Lead/Personen-Scoring, wie es funktioniert und die Schritte für den Erfolg, um seine messbaren Vorteile zu erzielen.
 
->[!VIDEO](https://video.tv.adobe.com/v/345424/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417581/?captions=ger&quality=12&learn=on){transcript=true}

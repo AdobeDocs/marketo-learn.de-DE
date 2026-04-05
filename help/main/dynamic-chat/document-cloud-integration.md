@@ -18,4 +18,4 @@ ht-degree: 0%
 
 [!UICONTROL Dynamic Chat] ist jetzt in die Document Cloud PDF-Einbettungs-API integriert. Auf diese Weise können Sie PDF-Dokumente in personalisierten Konversationen freigeben, die Sie in [!UICONTROL Dynamic Chat erstellen] .
 
->[!VIDEO](https://video.tv.adobe.com/v/343479/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447988/?captions=ger&quality=12&learn=on){transcript=true}

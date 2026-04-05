@@ -18,7 +18,7 @@ ht-degree: 2%
 
 Verwenden Sie Dynamic Chat, um Leads schneller mit dem Vertrieb [!DNL target] verbinden. Geben Sie Besuchern die Möglichkeit, Meetings mit verschiedenen Vertriebsmitarbeitern zu buchen, indem Sie Ihre Vertriebsmitarbeiter als Benutzer über [Admin Console](https://adminconsole.adobe.com/) hinzufügen. Jeder Agent sollte seinen eigenen Kalender verbinden.
 
->[!VIDEO](https://video.tv.adobe.com/v/340258/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/346221/?captions=ger&quality=12&learn=on){transcript=true}
 
 ## Weitere hilfreiche Videos
 

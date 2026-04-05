@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die Duplikatverwaltung in Marketo Engage mithilfe von API-Integrationen mit iPaaS-Tools wie Vertify oder Workato optimieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429487/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441938/?captions=ger&learn=on&enablevpops)

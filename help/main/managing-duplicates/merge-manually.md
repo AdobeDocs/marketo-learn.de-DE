@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Duplikate im Abschnitt Datenbank manuell zusammenführen. Dies ist ideal für die Verarbeitung von weniger Datensätzen mit Präzision und Kontrolle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429491/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443659/?captions=ger&learn=on&enablevpops)

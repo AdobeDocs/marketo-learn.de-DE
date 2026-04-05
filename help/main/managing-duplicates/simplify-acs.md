@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Adobe Professional Services Sie bei der Verwaltung doppelter Einträge mit einem unkomplizierten Ansatz unterstützen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429501/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436793/?captions=ger&learn=on&enablevpops)

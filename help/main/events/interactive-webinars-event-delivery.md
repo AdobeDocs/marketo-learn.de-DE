@@ -20,4 +20,4 @@ ht-degree: 45%
 
 Erfahren Sie, wie Sie Ihre interaktiven Webinar-Ereignisse optimal bereitstellen können, um Ihr Ziel zu erreichen und die Teilnehmenden einzubinden. Stellen Sie sicher, dass Ihre Inhalte Interesse generieren, damit Sie mithilfe verschiedener Interaktions-Tools Absichten anfordern können, um eine bessere personalisierte Pflege und Segmentierung zu ermöglichen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429638/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440046/?captions=ger&learn=on)

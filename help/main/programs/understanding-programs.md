@@ -20,4 +20,4 @@ ht-degree: 36%
 
 Programme stellen eine einzelne Marketing-Initiative dar. Erfahren Sie, wie Sie sie nutzen können, um Ihre Zielgruppe auf verschiedene Weise zu erreichen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470496/?captions=ger&learn=on&enablevpops)

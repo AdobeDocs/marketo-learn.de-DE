@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Geht Ihre Website in Hunderten von Suchergebnissen verloren? Erfahren Sie, wie Sie Ihren Markensichtbarkeit steigern können, indem Sie Ihre SEO- und PPC-Strategien verbessern.
 
->[!VIDEO](https://video.tv.adobe.com/v/345401/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418974/?captions=ger&quality=12&learn=on){transcript=true}

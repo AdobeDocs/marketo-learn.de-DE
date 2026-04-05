@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!UICONTROL Dynamic Chat-Benutzer &#x200B;] Adobe Admin Console verwalten
 
->[!VIDEO](https://video.tv.adobe.com/v/340249/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/346223/?captions=ger&quality=12&learn=on){transcript=true}
 
 ## Weitere hilfreiche Videos
 

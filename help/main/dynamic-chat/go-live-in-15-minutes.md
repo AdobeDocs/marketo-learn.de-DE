@@ -18,6 +18,6 @@ ht-degree: 11%
 
 Eine schrittweise Anleitung, die Ihnen hilft, Ihr erstes Dialogfeld mit [!UICONTROL Dynamic Chat] in nur 15 Minuten live zu schalten!
 
->[!VIDEO](https://video.tv.adobe.com/v/342164/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452677/?captions=ger&quality=12&learn=on){transcript=true}
 
 *Hinweis: Für diejenigen, die nicht auf [!UICONTROL Dynamic Chat zugreifen können] , [hier ist ein kurzes Video](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=de), das Ihnen hilft, sich selbst oder andere Benutzende zu [!UICONTROL Dynamic Chat hinzuzufügen] .*
