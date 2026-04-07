@@ -19,4 +19,4 @@ ht-degree: 14%
 
 Erfahren Sie, wie Sie dynamisch steuern können, welche Inhalte von welcher Zielgruppe angezeigt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481291/?captions=ger&learn=on&enablevpops)
