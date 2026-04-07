@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Verwenden Sie den KI-Assistenten in der Marketo Engage E-Mail-Designer, um zeitgemäße, leistungsstarke und intuitive E-Mails zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483183/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483193/?captions=ger&learn=on&enablevpops)
