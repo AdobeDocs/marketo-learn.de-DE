@@ -3,17 +3,17 @@ user-guide-title: Marketo Engage-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-Tutorials
 auto-video-transcripts: true
-source-git-commit: 22d16ad38bdaa319705cc26ac96056f33c4a255d
+source-git-commit: 85ab4e6b4a14b2dfa2faf6b427cb86aab72dc7d0
 workflow-type: tm+mt
-source-wordcount: '548'
-ht-degree: 96%
+source-wordcount: '546'
+ht-degree: 95%
 
 ---
 
 
 # Tutorials zu [!DNL Marketo Engage] {#tutorials}
 
-+ [Tutorials zu [!DNL Marketo Engage]](overview.md)
++ [Tutorials zu [!DNL Marketo Engage]](/help/main/overview.md)
 + Grundlagen {#fundamentals}
    + [Ziele und Strategie](/help/main/fundamentals/goals-and-strategy-learn.md)
    + [Organisationsstruktur](/help/main/fundamentals/organizational-structure-learn.md)
@@ -74,8 +74,6 @@ ht-degree: 96%
    + [Anleitung zu Formularen](/help/main/email-marketing/forms-watch.md)
    + [Integrieren von Mobil-Marketing](/help/main/cross-channel-marketing/mobile-marketing-learn.md)
    + [Anleitung zu Mobil-Marketing](/help/main/cross-channel-marketing/mobile-marketing-watch.md)
-   + [SEO und PPC](/help/main/cross-channel-marketing/seo-and-ppc-learn.md)
-   + [Anleitung zu SEO und PPC](/help/main/cross-channel-marketing/seo-and-ppc-watch.md)
    + [Web-Personalisierung](/help/main/cross-channel-marketing/web-personalization-learn.md)
    + [Anleitung zur Web-Personalisierung](/help/main/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
@@ -152,3 +150,6 @@ ht-degree: 96%
    + [Automatisieren der Duplikatverwaltung – Teil 2](/help/main/managing-duplicates/automate-integration-part-2.md)
    + [Vereinfachen der Duplikatverwaltung](/help/main/managing-duplicates/simplify-acs.md)
    + [Auswählen der besten Strategie zum Verwalten von Duplikaten](/help/main/managing-duplicates/duplicate-strategy.md)
++ kurze Hose {#shorts}
+   + [KI-Assistent für E-Mail Designer](/help/main/shorts/ai-assistant-email-designer.md)
+

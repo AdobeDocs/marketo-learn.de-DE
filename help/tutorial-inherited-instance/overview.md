@@ -10,7 +10,7 @@ jira: KT-13890
 thumbnail: KT-13890.jpeg
 index: true
 exl-id: e42b8fe8-1d9d-4cc1-8175-c47d911f96f3
-source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
+source-git-commit: 68bcc96ad48de8df1ab64c45fe5ce80af21bc288
 workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Wenn Sie eine Live Marketo Engage-Instanz erben, die von mehreren Personen verwaltet wurde, können Sie sich mental Notizen über alles machen, was fehl am Platz zu sein scheint. Es ist wichtig, die Bereinigungs- und Optimierungsarbeit zu organisieren, indem die Aufgaben kategorisiert und dann die Aufgaben priorisiert werden, die viel bewirken.
 
-Dieses Tutorial zu Tipps und Tricks zur Prüfung geerbter Instanzen von Adobe Marketo Champions liefert eine schrittweise Anleitung für neue Admins. Das Tutorial begleitet herunterladbare [Audit-Checklisten](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=de) und Vorlagen, damit Sie eine geerbte Instanz sofort starten können. Folgen Sie den Tutorials und lassen Sie sich durch das Lernen von Gleich gesinnten inspirieren! 
+Dieses Tutorial zu Tipps und Tricks zur Prüfung geerbter Instanzen von Adobe Marketo Champions liefert eine schrittweise Anleitung für neue Admins. Das Tutorial begleitet herunterladbare [Audit-Checklisten](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html) und Vorlagen, damit Sie eine geerbte Instanz sofort starten können. Folgen Sie den Tutorials und lassen Sie sich durch das Lernen von Gleich gesinnten inspirieren!
 
 ## Themen und Lerninhalte
 
