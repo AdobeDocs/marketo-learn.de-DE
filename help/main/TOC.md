@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-Tutorials
 auto-video-transcripts: true
-source-git-commit: a5807ceea7529380a7e8a03774f8f0956d385693
+source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
 workflow-type: tm+mt
 source-wordcount: '548'
-ht-degree: 95%
+ht-degree: 84%
 
 ---
 
@@ -111,7 +111,7 @@ ht-degree: 95%
    + [Anleitung zum Bewerten von Leads/Personen](/help/main/lead-and-data-management/lead-scoring-watch.md)
    + [Informationen zum Lead-Lebenszyklus](/help/main/lead-and-data-management/understanding-the-lead-lifecycle.md)
    + [Abonnement-Center](/help/main/lead-and-data-management/subscription-center-learn.md)
-   + [Anleitung zum Abonnement-Center](/help/main/lead-and-data-management/subscription-center-watch.md)
+   + {hide-from-toc}[Anleitung zum Abonnementzentrum](/help/main/lead-and-data-management/subscription-center-watch.md)
    + [CRM-Synchronisierung](/help/main/lead-and-data-management/crm-sync-learn.md)
    + [Erste Schritte bei der Salesforce-Synchronisierung](/help/main/integrations/salesforce-sync-setup.md)
    + [Erste Schritte bei der Microsoft Dynamics-Synchronisierung](/help/main/integrations/microsoft-dynamics-sync-setup.md)
@@ -138,18 +138,18 @@ ht-degree: 95%
    + [API-Hilfe – Festlegen des Zugriffs-Tokens in einer Variablen](/help/main/integrations/api-set-access-token-variable.md)
    + [Auslösen einer intelligenten Kampagne in Marketo Engage mithilfe der REST-API und Token](/help/main/integrations/trigger-smart-campaign-rest-api.md)
 + Verwalten von Duplikaten {#manage-duplicates}
-   + [Einführung in die Verwaltung von Duplikaten](/help/main/managing-duplicates/introduction-managing-duplicates.md)
-   + [Verstehen, wie es zu Duplikaten kommen kann](/help/main/managing-duplicates/why-duplicates-occur.md)
-   + [Identifizieren und Verhindern von doppelten Einträgen](/help/main/managing-duplicates/identify-prevent-duplicates.md)
-   + [Ermitteln, wann doppelte Einträge erforderlich sind](/help/main/managing-duplicates/determine-necessary-duplicates.md)
-   + [Manuelles Zusammenführen doppelter Einträge](/help/main/managing-duplicates/merge-manually.md)
-   + [Massenzusammenführung von Duplikaten – Teil 1](/help/main/managing-duplicates/bulk-merge-part-1.md)
-   + [Massenzusammenführung von Duplikaten – Teil 2](/help/main/managing-duplicates/bulk-merge-part-2.md)
-   + [Massenzusammenführung von Duplikaten – Teil 3](/help/main/managing-duplicates/bulk-merge-part-3.md)
-   + [Automatisieren der Duplikatverwaltung – Teil 1](/help/main/managing-duplicates/automate-integration-part-1.md)
-   + [Automatisieren der Duplikatverwaltung – Teil 2](/help/main/managing-duplicates/automate-integration-part-2.md)
-   + [Vereinfachen der Duplikatverwaltung](/help/main/managing-duplicates/simplify-acs.md)
-   + [Auswählen der besten Strategie zum Verwalten von Duplikaten](/help/main/managing-duplicates/duplicate-strategy.md)
+   + {hide-from-toc}[Einführung in die Verwaltung von Duplikaten](/help/main/managing-duplicates/introduction-managing-duplicates.md)
+   + {hide-from-toc}[Erfahren Sie, warum Duplikate auftreten](/help/main/managing-duplicates/why-duplicates-occur.md)
+   + {hide-from-toc}[Duplikate identifizieren und verhindern](/help/main/managing-duplicates/identify-prevent-duplicates.md)
+   + {hide-from-toc}[Stellen Sie fest, wann doppelte Einträge erforderlich sind](/help/main/managing-duplicates/determine-necessary-duplicates.md)
+   + {hide-from-toc}[Manuelles Zusammenführen doppelter Einträge](/help/main/managing-duplicates/merge-manually.md)
+   + {hide-from-toc}[Massenzusammenführung von Duplikaten, Teil 1](/help/main/managing-duplicates/bulk-merge-part-1.md)
+   + {hide-from-toc}[Massenzusammenführung von Duplikaten in Teil 2](/help/main/managing-duplicates/bulk-merge-part-2.md)
+   + {hide-from-toc}[Massenzusammenführung von Duplikaten in Teil 3](/help/main/managing-duplicates/bulk-merge-part-3.md)
+   + {hide-from-toc}[Automatisieren der Duplikatverwaltung - Teil 1](/help/main/managing-duplicates/automate-integration-part-1.md)
+   + {hide-from-toc}[Automatisieren der Duplikatverwaltung - Teil 2](/help/main/managing-duplicates/automate-integration-part-2.md)
+   + {hide-from-toc}[Vereinfachen der Duplikatverwaltung](/help/main/managing-duplicates/simplify-acs.md)
+   + {hide-from-toc}[Wählen Sie die beste Strategie zum Verwalten von Duplikaten aus](/help/main/managing-duplicates/duplicate-strategy.md)
 + kurze Hose {#shorts}
    + [KI-Assistent für Email Designer](/help/main/shorts/ai-assistant-email-designer.md)
    + [Bedingte Inhalte](/help/main/shorts/conditional-content.md)
