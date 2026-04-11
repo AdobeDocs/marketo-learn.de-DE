@@ -30,7 +30,7 @@ Weitere Informationen finden Sie in den entsprechenden Produkthandbüchern:
 
 Sehen Sie sich zusätzliche Videos an, um weitere Hilfe zu dieser Funktion zu erhalten:
 * [Anlässe, die erläutert werden](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=de)
-* [Webinare](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=en)
+* [Webinare](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=de)
 
 Erfahren Sie von Ihren Kollegen, wie Sie Ereignisprogramme verwenden:
 * [Expert Customer Blogpost: Veranstaltungsprogramme](https://nation.marketo.com/t5/product-blogs/marketo-success-series-event-programs/ba-p/299191)
