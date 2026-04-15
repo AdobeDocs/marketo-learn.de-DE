@@ -3,10 +3,10 @@ title: Marketo Engage-Tutorials
 description: Sehen Sie sich Video-Tutorials zu  [!DNL Marketo Engage] an. Verbessern Sie Ihr Verständnis für die Verwendung von Funktionen zur Marketing-Automatisierung und mehr.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+source-git-commit: 1ff5db25b71902fa4ad0e10a1466c9a12dd63404
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 94%
+source-wordcount: '249'
+ht-degree: 73%
 
 ---
 
@@ -25,14 +25,14 @@ Durchsuchen Sie unsere Tutorial-Bibliothek, um [!DNL Marketo Engage] optimal zu 
 
 ## Neue Funktionen {#whats-new}
 
+* [KI-Assistent für E-Mail Designer](https://experienceleague.adobe.com/de/docs/marketo-learn/tutorials/shorts/ai-assistant-email-designer)
+  _Verwenden Sie den KI-Assistenten in der Marketo Engage E-Mail-Designer, um zeitgemäße, leistungsstarke und intuitive E-Mails zu erstellen._
+
+* [Bedingter Inhalt](https://experienceleague.adobe.com/de/docs/marketo-learn/tutorials/shorts/conditional-content)
+  _Erfahren Sie, wie Sie dynamisch steuern können, welche Inhalte von welcher Zielgruppe angezeigt werden._
+
 * [Best Practices zur Implementierung von Live-Chat](https://experienceleague.adobe.com/de/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
   _Erfahren Sie mehr über die Best Practices, die bei der Implementierung der Live-Chat-Funktion in Dynamic Chat befolgt werden sollten._
-
-* [Übersicht über interaktive Webinare](https://experienceleague.adobe.com/de/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
-  _Erfahren Sie alles über „Interaktive Webinare“, die integrierte Webinar-Plattform in Marketo Engage._
-
-* [Migration zu Adobe Identity Management](https://experienceleague.adobe.com/de/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
-  _Erfahren Sie, wie Sie die Adobe Identity Management-Migration durchführen, um Adobe Marketo Engage für Ihre Benutzenden zusammen mit anderen Adobe-Konten und -Produkten an einem zentralen Ort zu verwalten._
 
 ## Die beliebtesten Videos {#most-popular-videos}
 

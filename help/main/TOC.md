@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-Tutorials
 auto-video-transcripts: true
-source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
+source-git-commit: 1ff5db25b71902fa4ad0e10a1466c9a12dd63404
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '543'
 ht-degree: 84%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 84%
    + [Token – Überblick](/help/main/fundamentals/tokens-overview.md)
    + [Personalisieren mit Token](/help/main/personalization/personalize-with-tokens.md)
    + [Programme und Kampagnen](/help/main/fundamentals/programs-and-campaigns.md)
-   + [Migrieren zu Adobe Identity Management](/help/main/fundamentals/migrating-to-adobe-identity-management.md)
    + [Best Practices für das Organisieren einer neuen Instanz](/help/main/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Best Practices für das Erstellen grundlegender Programme](/help/main/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Neue Instanz implementieren - Tutorial](https://experienceleague.adobe.com/de/docs/experiences-by-you/implementing-new-instance/overview)
