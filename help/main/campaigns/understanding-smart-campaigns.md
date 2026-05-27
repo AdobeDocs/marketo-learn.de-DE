@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Intelligente Kampagnen sind der Motor von Marketo Engage. Sie können zum Senden von E-Mails, Programmen und mehr verwendet werden. Erfahren Sie alles über diese wichtigen Tools in Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470546/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470569/?captions=ger&learn=on&enablevpops)
