@@ -18,10 +18,10 @@ ht-degree: 2%
 
 Erfahren Sie, wie Sie ein geplantes E-Mail-Programm erstellen, verwalten und verfolgen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416213/?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345467/?quality=12&learn=on){transcript=true}
 
 ## Zusätzliche Ressourcen
 
 Weitere Informationen zu E-Mail-Programmen finden Sie im Produkthandbuch:
 
-* [Grundlegendes zur Dokumentation zu E-Mail-Programmen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=de)
+* [Grundlegendes zur Dokumentation zu E-Mail-Programmen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)

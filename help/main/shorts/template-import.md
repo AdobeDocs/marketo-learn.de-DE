@@ -20,4 +20,4 @@ ht-degree: 8%
 
 Erfahren Sie, wie Sie Ihre vorhandenen E-Mail-Vorlagen aus dem klassischen Editor in den E-Mail-Designer importieren, um Ihre Designs beizubehalten und die Vorlagenerstellung zu beschleunigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483499/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483490/?learn=on&enablevpops)
