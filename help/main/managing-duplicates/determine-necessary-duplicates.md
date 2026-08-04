@@ -1,5 +1,5 @@
 ---
-title: Ermitteln, wann doppelte Einträge erforderlich sind
+title: Ermitteln, wann Duplikat-Einträge erforderlich sind
 description: Entdecken Sie Szenarien, in denen Duplikate sinnvoll sind, z. B. Haushalte mit mehreren Personen oder Compliance-Anforderungen, und erfahren Sie, wie Sie sie effektiv verwalten können.
 role: Admin
 level: Intermediate, Experienced
