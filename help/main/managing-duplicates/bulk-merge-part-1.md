@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Erfahren Sie mehr über die Szenarien und die Gründe für die Massenverarbeitung von Duplikaten. Beginnen Sie das Massen-Zusammenführen, indem Sie doppelte Datensätze zur effizienten Datenbereinigung und -konsolidierung nach Excel exportieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429473/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439234/?captions=ger&learn=on&enablevpops)
