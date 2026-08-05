@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Erfahren Sie mehr über die Kernkonzepte der Verwaltung doppelter Datensätze in der Marketo Engage-Datenbank, ihre Auswirkungen auf Workflows und 4 Methoden zur Pflege bereinigter Daten. Sehen Sie sich jeden Videoclip an, um zu erfahren, wie Sie Ihre Datenbank sauber und gesund halten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441776/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441960/?captions=ger&learn=on&enablevpops)
