@@ -1,15 +1,13 @@
 ---
 title: Marketo Engage-Tutorials
-description: Sehen Sie sich Video-Tutorials zu  [!DNL Marketo Engage] an. Verbessern Sie Ihr Verständnis für die Verwendung von Funktionen zur Marketing-Automatisierung und mehr.
+description: Video-Tutorials zu [!DNL Marketo Engage] ansehen. Verbessern Sie Ihr Verständnis für die Verwendung von Funktionen zur Marketing-Automatisierung und mehr.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: ecf4ce8d2f81b04c2eb95ef0d580b0987d71f893
+source-git-commit: 84f64797a27c9afe3035478a5d88c3c4dd6ddc9b
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 71%
-
+source-wordcount: '217'
+ht-degree: 69%
 ---
-
 # Tutorials zu [!DNL Marketo Engage]
 
 Durchsuchen Sie unsere Tutorial-Bibliothek, um [!DNL Marketo Engage] optimal zu nutzen. Diese Tutorials können als Ergänzung zur [[!DNL Marketo] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=de){target="_blank"} dienen, um Ihnen das Verständnis der Funktionen für Marketing-Automatisierung zu erleichtern.
@@ -25,11 +23,11 @@ Durchsuchen Sie unsere Tutorial-Bibliothek, um [!DNL Marketo Engage] optimal zu 
 
 ## Neue Funktionen {#whats-new}
 
+* [Marketo Engage in Adobe Experience Cloud](/help/main/fundamentals/marketo-engage-aec.md)
+  _Erfahren Sie, wie Sie über Adobe Experience Cloud auf Marketo Engage zugreifen können, und sehen Sie sich die Benutzeroberfläche an._
+
 * [Vorlagenimport](/help/main/shorts/template-import.md)
   _Erfahren Sie, wie Sie Ihre vorhandenen E-Mail-Vorlagen aus dem klassischen Editor in die E-Mail-Designer importieren, um Ihre Designs beizubehalten und die Vorlagenerstellung zu beschleunigen.._
-
-* [KI-Assistent für E-Mail Designer](/help/main/shorts/ai-assistant-email-designer.md)
-  _Verwenden Sie den KI-Assistenten in der Marketo Engage E-Mail-Designer, um zeitgemäße, leistungsstarke und intuitive E-Mails zu erstellen._
 
 * [Bedingter Inhalt](/help/main/shorts/conditional-content.md)
   _Erfahren Sie, wie Sie dynamisch steuern können, welche Inhalte von welcher Zielgruppe angezeigt werden._
