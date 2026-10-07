@@ -4,31 +4,41 @@ description: Machen Sie sich mit den vier Programmtypen vertraut, erfahren Sie, 
 role: Admin
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-07-11T00:00:00Z
+last-substantial-update: 2023-07-11T00:00:00.000Z
 jira: KT-13567
 thumbnail: 3421275.jpeg
 feature: Programs
 exl-id: 2b850b08-3e9d-4bfb-8ac1-21fd9bdeaf83
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 13%
-
 ---
-
 # Best Practices für das Erstellen grundlegender Programme
 
 Machen Sie sich mit den vier Programmtypen vertraut, erfahren Sie, wie Sie Programme importieren, Lead-/Personen-Scoring-Programme bewerten und Kanal-Tags definieren. Erfahren Sie mehr über gängige Anwendungsfälle und Best Practices.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422755/?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on){transcript=true}
 
 ## Weitere Ressourcen
 
 **Produkthandbücher:**
 
-* [Grundlegendes zu Programmen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=de)
-* [Erstellen eines Programms](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.html?lang=de)
-* [Best Practices: Organisieren von Programmen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html?lang=de)
-* [Importieren eines Programms](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html?lang=de)
-* [Grundlegendes zu Tags](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html?lang=de)
-* [Der definitive Leitfaden zur Lead-Bewertung](https://business.adobe.com/de/resources/guides/lead-scoring.html)
+* [Grundlegendes zu Programmen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html)
+* [Erstellen eines Programms](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.html)
+* [Best Practices: Organisieren von Programmen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html)
+* [Importieren eines Programms](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html)
+* [Grundlegendes zu Tags](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html)
+* [Der definitive Leitfaden zur Lead-Bewertung](https://business.adobe.com/resources/guides/lead-scoring.html)

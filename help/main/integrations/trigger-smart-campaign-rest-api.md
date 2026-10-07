@@ -5,13 +5,28 @@ feature: REST API
 role: Admin, Developer
 level: Experienced
 exl-id: 46e54729-92ab-4bbb-9877-f762708def67
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: dca84292-69e9-4116-a575-667d31fa060d
+    internal-label: APIs
+subfeature_v2:
+  - id: cf1396d8-ab85-4e93-b35d-d9b573024abf
+    internal-label: REST APIs
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
 source-wordcount: '718'
 ht-degree: 3%
-
 ---
-
 # Auslösen einer intelligenten Kampagne in Marketo Engage mithilfe der REST-API und Token
 
 In diesem Tutorial erfahren Sie, wie Sie mit der REST-API den Trigger einer Smart Campaign in Marketo Engage vornehmen und die E-Mail mit „Meine Token“ personalisieren. Dieser Anwendungsfall eignet sich ideal für kundenausgelöste Benachrichtigungen wie Webinar-Erinnerungen, Onboarding-Schritte oder Follow-up nach dem Kauf.
@@ -22,26 +37,26 @@ Eine Person registriert sich über eine externe Plattform (z. B. benutzerdefinie
 
 * Trigger einer Erinnerungsnachricht von Marketo Engage
 * Personalisieren Sie sie mit:
-   * Der Vorname der Person
-   * Webinar-Titel
-   * Eindeutiger Join-Link
+  * Der Vorname der Person
+  * Webinar-Titel
+  * Eindeutiger Join-Link
 
 Dies kann über die REST-API und „Meine Token“ erfolgen.
 
 ## Schritt 1: Erstellen der Smart-Kampagne {#step-one}
 
-1. Gehen Sie **Marketing** Aktivitäten) und erstellen Sie im Ordner [Programme](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"} eine neue [Smart-Kampagne](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"} namens `Send Webinar Reminder`.
+1. Gehen Sie **Marketing** Aktivitäten) und erstellen Sie im Ordner [Programme](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"} eine neue [Smart-Kampagne](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"} namens `Send Webinar Reminder`.
 
-1. Fügen Sie auf **Registerkarte** Smart-Liste[&#x200B; einen Trigger hinzu](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"} damit die Kampagne über die API aufgerufen werden kann:
+1. Fügen Sie auf **Registerkarte** Smart-Liste[ einen Trigger hinzu](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"} damit die Kampagne über die API aufgerufen werden kann:
 
    * Wählen **Kampagne ist angefordert** als Trigger aus
    * **Source** auf `Web Service API` setzen
 
-![Einrichtung des Smart List-Triggers &#x200B;](assets/trigger-smart-campaign-rest-api-1.png)
+![Einrichtung des Smart List-Triggers ](assets/trigger-smart-campaign-rest-api-1.png)
 
 ## Schritt 2: E-Mail-Inhalt definieren {#step-two}
 
-Erstellen oder bearbeiten Sie ein [E-Mail-Asset](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"} das sowohl auf Person als auch auf [Meine Token](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"} verweist.
+Erstellen oder bearbeiten Sie ein [E-Mail-Asset](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"} das sowohl auf Person als auch auf [Meine Token](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"} verweist.
 
 >[!NOTE]
 >
@@ -83,7 +98,7 @@ Um Werte dynamisch über die API zu übergeben, müssen die Token bereits in Mar
 
 ## Schritt 4: Festlegen von Kampagnenqualifizierungsregeln und Aktivieren der Kampagne {#step-four}
 
-1. Konfigurieren Sie die [Qualifizierungsregeln](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"} um zu steuern, wie oft eine Person die Smart-Kampagne durchlaufen kann.
+1. Konfigurieren Sie die [Qualifizierungsregeln](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"} um zu steuern, wie oft eine Person die Smart-Kampagne durchlaufen kann.
 
 1. Klicken Sie nach der Konfiguration auf **Aktivieren**, um die Smart-Kampagne für den Empfang von API-ausgelösten Anfragen zu aktivieren.
 
@@ -134,7 +149,7 @@ POST /rest/v1/campaigns/1234/trigger.json
       },
       {
         "name": "{{my.WebinarImage}}",
-        "value": "https://experienceleague.adobe.com/de/docs/marketo-learn/tutorials/events/media_1c6f338a518ada11550084c8ab3a6bbf554ff6eac.jpeg"
+        "value": "https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/media_1c6f338a518ada11550084c8ab3a6bbf554ff6eac.jpeg"
       }
     ]
   }
