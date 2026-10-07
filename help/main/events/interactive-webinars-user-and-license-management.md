@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Erfahren Sie mehr über Benutzerberechtigungen für interaktive Webinare sowie ddas Monitoring der Lizenzverfügbarkeit und Nutzungsbeschränkungen bei Lizenzen für interaktive Webinare.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446125/?captions=ger&learn=on)

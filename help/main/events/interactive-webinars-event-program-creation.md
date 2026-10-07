@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie ein Veranstaltungsprogramm einrichten, mit dem Sie interaktive Webinar-Veranstaltungen in Marketo Engage erstellen und planen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429639/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443421/?captions=ger&learn=on)

@@ -28,4 +28,4 @@ ht-degree: 25%
 
 Weitere Informationen zur erweiterten Marketo Engage E-Mail-Designer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504158/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504178/?captions=ger&learn=on&enablevpops)
