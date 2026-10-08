@@ -10,26 +10,33 @@ jira: KT-13877
 thumbnail: KT-13877.jpeg
 index: true
 exl-id: 0964ca8e-6b8f-413f-a0ea-76ffabd49c39
-TQID: https://experienceleague.adobe.com/fE5i06izcS16LHY5dMbVxWcxV-ObDnw8k-7pCnqIR2s
+TQID: 'https://experienceleague.adobe.com/fE5i06izcS16LHY5dMbVxWcxV-ObDnw8k-7pCnqIR2s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
+    internal-label: Administration
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
-source-wordcount: 605
+source-wordcount: '633'
 ht-degree: 1%
-
 ---
-
 # Erstellen eines visuellen Datenflussdiagramms, um den technischen Stapel Ihres Marketing zu verstehen
 
 Als Administrator, der eine [!DNL Marketo Engage] Instanz übernimmt, die seit Jahren live ist, ist es wie eine Mission unmöglich, die Instanz effizient zu überprüfen und aufzuräumen. Als Adobe [!DNL Marketo Champion] (2019), Kelly Jo Horton, in eine alteingesessene Instanz trat, nahm sie diese Herausforderung an, indem sie [ein Diagramm von „Lead und Datenquellen“ erstellte](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} um sich mit dem Datenuniversum vertraut zu machen. In diesem Tutorial erfahren Sie, wie Sie Ihr eigenes Datenflussdiagramm erstellen, indem Sie auf den Beispielen von Kelly Jo Horton aufbauen. Lernen wir Ihr MarTech-Ökosystem kennen!
